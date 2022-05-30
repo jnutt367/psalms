@@ -1,18 +1,19 @@
 .container {
     padding: 0 2rem;
     background-color: black;
+    background-size: contain;
 }
 
 .main {
+    background-image: url(/gold.gif);
+    background-size: contain;
     min-height: 100vh;
     padding: 4rem 0;
-    background-image: url(/gold.gif);
     flex: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-family: cursive;
 }
 
 .footer {
@@ -31,8 +32,19 @@
     flex-grow: 1;
 }
 
+.nav ul {
+    display: flex;
+    flex-basis: auto;
+    color: #fafafa;
+    justify-content: space-around;
+    list-style: none;
+    font-size: xx-large;
+    padding-top: 3rem;
+    font-family: cursive;
+}
+
 .title a {
-    color: #0070f3;
+    color: white;
     text-decoration: none;
 }
 
@@ -43,9 +55,10 @@
 }
 
 .title {
-    margin: 0;
+    margin: 2rem;
     line-height: 1.15;
     font-size: 4rem;
+    font-family: cursive;
 }
 
 .title,
@@ -54,17 +67,22 @@
 }
 
 .description {
+    color: white;
     margin: 4rem 0;
     line-height: 1.5;
-    font-size: 1.5rem;
+    font-size: 3rem;
+    max-width: 60rem;
 }
 
 .code {
-    background: #fafafa;
+    background-color: transparent;
+    opacity: 0.7;
     border-radius: 5px;
     padding: 0.75rem;
-    font-size: 1.1rem;
-    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+    color: white;
+    font-size: x-large;
+    text-decoration: underline;
+    font-family: fantasy;
 }
 
 .grid {
@@ -72,7 +90,7 @@
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    max-width: 800px;
+    max-width: 1400px;
 }
 
 .card {
@@ -80,23 +98,34 @@
     padding: 1.5rem;
     text-align: left;
     color: inherit;
+    max-height: 300px;
+    overflow: scroll;
     text-decoration: none;
     border: 1px solid #eaeaea;
     border-radius: 10px;
     transition: color 0.15s ease, border-color 0.15s ease;
     max-width: 300px;
+    font-family: fantasy;
 }
 
 .card:hover,
 .card:focus,
 .card:active {
-    color: #0070f3;
-    border-color: #0070f3;
+    color: black;
+    border-color: hsl(212, 100%, 48%);
+    background-image: url(/giphy-cloud.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    opacity: 0.85;
+    overflow: scroll;
+    font-family: fantasy;
 }
 
 .card h2 {
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
+    font-family: cursive;
 }
 
 .card p {
@@ -110,9 +139,70 @@
     margin-left: 0.5rem;
 }
 
+.publisher {
+    font-family: monospace;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.h2 {
+    margin-top: 3rem;
+    padding: 1.5rem;
+    text-align: left;
+    color: inherit;
+    text-decoration: none;
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    transition: color 0.15s ease, border-color 0.15s ease;
+    max-width: 300px;
+    font-family: fantasy;
+}
+
+.illustration {
+    border-radius: 15px;
+    margin: 3rem;
+}
+
+.h2:hover {
+    color: white;
+    border-color: hsl(14, 100%, 48%);
+    background-image: url(/gold.gif);
+    opacity: 0.85;
+    font-family: fantasy;
+}
+
 @media (max-width: 600px) {
     .grid {
         width: 100%;
         flex-direction: column;
+    }
+}
+
+@media (max-width: 900px) {
+    .container {
+        background-size: contain;
+    }
+    .code {
+        color: black;
+        font-size: x-large;
+        text-decoration: underline;
+    }
+}
+
+@media (max-width: 600px) {
+    .grid {
+        width: 100%;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 769px) {
+    .nav ul {
+        display: flex;
+        color: #fafafa;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-left: -2rem;
     }
 }

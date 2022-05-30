@@ -13,10 +13,10 @@ export default function Home() {
       <header>
         <div>
           <nav className={styles.nav}>
-              <ul>
-              <a href="https://the-holy-bible.vercel.app/">
+              <ul> 
+              <a href="https://mark-alpha.vercel.app/">
                   <li>
-                    Home
+                    Mark
                   </li>
                 </a>
                 <a href="https://matthew-coral.vercel.app/">
@@ -52,6 +52,9 @@ export default function Home() {
           height="300px"
           width="300px"
         />
+        </a>
+        <a href="https://the-holy-bible.vercel.app/">
+        <h2 className={styles.h2}>New Testament Home Page</h2>
         </a>
         <p className={styles.description}>
           
