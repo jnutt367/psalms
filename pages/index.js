@@ -86,8 +86,7 @@ export default function Home() {
 </p>
           </a>
 
-          <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+          <div
             className={styles.card}
           >
             <h2>Prologue: Exhortations to Embrace Wisdom
@@ -120,10 +119,9 @@ Warning Against the Invitation of Sinful Men &darr;</h2>
     it takes away the life of those who get it.
 
 </p>
-          </a>
+          </div>
 
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          <div
             className={styles.card}
           >
             <h2>Wisdom’s Rebuke &darr;</h2>
@@ -162,11 +160,12 @@ Warning Against the Invitation of Sinful Men &darr;</h2>
 33 but whoever listens to me will live in safety
     and be at ease, without fear of harm.”
             </p>
-          </a>   
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          </div>   
+          <div className={styles.card}>
             <h2>Proverbs &rarr;</h2>
             <p>Wisdom literature from King Solomon</p>
-          </a>
+            <p>New International Version (NIV)</p>
+          </div>
 
         </div>
       </main>
