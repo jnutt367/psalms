@@ -938,11 +938,11 @@ A wise son brings joy to his father,
 <div className={styles.card}>
     <h2>
     12 Whoever loves discipline loves knowledge,
-    but whoever hates correction is stupid.
+    
     </h2>
     <p>
   
-
+    but whoever hates correction is stupid.
 2 Good people obtain favor from the Lord,
     but he condemns those who devise wicked schemes.
 
@@ -1031,10 +1031,10 @@ A wise son brings joy to his father,
 <div className={styles.card}>
     <h2>
     13 A wise son heeds his father’s instruction,
-    but a mocker does not respond to rebukes.
+   
     </h2>
     <p>
-    
+    but a mocker does not respond to rebukes.
 
 2 From the fruit of their lips people enjoy good things,
     but the unfaithful have an appetite for violence.
