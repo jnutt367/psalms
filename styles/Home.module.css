@@ -1,11 +1,11 @@
 .container {
     padding: 0 2rem;
-    background-color: black;
+    background-image: url(/gold.gif);
     background-size: contain;
 }
 
 .main {
-    background-image: url(/gold.gif);
+    background-color: #eaeaea;
     background-size: contain;
     min-height: 100vh;
     padding: 4rem 0;
@@ -107,13 +107,13 @@
     border-radius: 10px;
     transition: color 0.15s ease, border-color 0.15s ease;
     max-width: 300px;
-    font-family: fantasy;
+    font-family: monospace;
 }
 
 .card:hover,
 .card:focus,
 .card:active {
-    color: black;
+    color: white;
     border-color: hsl(212, 100%, 48%);
     background-image: url(/gold.gif);
     background-repeat: no-repeat;
@@ -121,13 +121,17 @@
     background-color: black;
     opacity: 0.85;
     overflow: scroll;
-    font-family: fantasy;
+    font-family: monospace;
 }
 
 .card h2 {
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card h2:hover {
+    text-decoration: underline;
 }
 
 .card p {
@@ -143,7 +147,7 @@
 
 .publisher {
     font-family: monospace;
-    color: white;
+    color: black;
     font-size: 1.5rem;
 }
 
@@ -157,7 +161,7 @@
     border-radius: 10px;
     transition: color 0.15s ease, border-color 0.15s ease;
     max-width: 300px;
-    font-family: fantasy;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .illustration {
@@ -167,10 +171,11 @@
 
 .h2:hover {
     color: white;
-    border-color: hsl(14, 100%, 48%);
+    border-color: hsl(184, 42%, 62%);
+    text-decoration: underline;
     background-image: url(/gold.gif);
     opacity: 0.85;
-    font-family: fantasy;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 @media (max-width: 600px) {
