@@ -132,6 +132,7 @@
 
 .card h2:hover {
     text-decoration: underline;
+    color: black;
 }
 
 .card p {
