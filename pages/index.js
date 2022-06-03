@@ -425,9 +425,763 @@ Warning Against the Invitation of Sinful Men &darr;</h2>
 23 For lack of discipline they will die,
     led astray by their own great folly.</p>
           </div>
+<div className={styles.card}>
+    <h2>
+    Warnings Against Folly
+    </h2>
+    <p>
+    
+6 My son, if you have put up security for your neighbor,
+    if you have shaken hands in pledge for a stranger,
+2 you have been trapped by what you said,
+    ensnared by the words of your mouth.
+3 So do this, my son, to free yourself,
+    since you have fallen into your neighbor’s hands:
+Go—to the point of exhaustion—[a]
+    and give your neighbor no rest!
+4 Allow no sleep to your eyes,
+    no slumber to your eyelids.
+5 Free yourself, like a gazelle from the hand of the hunter,
+    like a bird from the snare of the fowler.
+
+6 Go to the ant, you sluggard;
+    consider its ways and be wise!
+7 It has no commander,
+    no overseer or ruler,
+8 yet it stores its provisions in summer
+    and gathers its food at harvest.
+
+9 How long will you lie there, you sluggard?
+    When will you get up from your sleep?
+10 A little sleep, a little slumber,
+    a little folding of the hands to rest—
+11 and poverty will come on you like a thief
+    and scarcity like an armed man.
+
+12 A troublemaker and a villain,
+    who goes about with a corrupt mouth,
+13     who winks maliciously with his eye,
+    signals with his feet
+    and motions with his fingers,
+14     who plots evil with deceit in his heart—
+    he always stirs up conflict.
+15 Therefore disaster will overtake him in an instant;
+    he will suddenly be destroyed—without remedy.
+
+16 There are six things the Lord hates,
+    seven that are detestable to him:
+17         haughty eyes,
+        a lying tongue,
+        hands that shed innocent blood,
+18         a heart that devises wicked schemes,
+        feet that are quick to rush into evil,
+19         a false witness who pours out lies
+        and a person who stirs up conflict in the community.
+
+Warning Against Adultery
+20 My son, keep your father’s command
+    and do not forsake your mother’s teaching.
+21 Bind them always on your heart;
+    fasten them around your neck.
+22 When you walk, they will guide you;
+    when you sleep, they will watch over you;
+    when you awake, they will speak to you.
+23 For this command is a lamp,
+    this teaching is a light,
+and correction and instruction
+    are the way to life,
+24 keeping you from your neighbor’s wife,
+    from the smooth talk of a wayward woman.
+
+25 Do not lust in your heart after her beauty
+    or let her captivate you with her eyes.
+
+26 For a prostitute can be had for a loaf of bread,
+    but another man’s wife preys on your very life.
+27 Can a man scoop fire into his lap
+    without his clothes being burned?
+28 Can a man walk on hot coals
+    without his feet being scorched?
+29 So is he who sleeps with another man’s wife;
+    no one who touches her will go unpunished.
+
+30 People do not despise a thief if he steals
+    to satisfy his hunger when he is starving.
+31 Yet if he is caught, he must pay sevenfold,
+    though it costs him all the wealth of his house.
+32 But a man who commits adultery has no sense;
+    whoever does so destroys himself.
+33 Blows and disgrace are his lot,
+    and his shame will never be wiped away.
+
+34 For jealousy arouses a husband’s fury,
+    and he will show no mercy when he takes revenge.
+35 He will not accept any compensation;
+    he will refuse a bribe, however great it is.
+    </p>
+</div>
+<div className={styles.card}>
+    <h2>
+    Warning Against the Adulterous Woman
+    </h2>
+    <p>
+   
+7 My son, keep my words
+    and store up my commands within you.
+2 Keep my commands and you will live;
+    guard my teachings as the apple of your eye.
+3 Bind them on your fingers;
+    write them on the tablet of your heart.
+4 Say to wisdom, “You are my sister,”
+    and to insight, “You are my relative.”
+5 They will keep you from the adulterous woman,
+    from the wayward woman with her seductive words.
+
+6 At the window of my house
+    I looked down through the lattice.
+7 I saw among the simple,
+    I noticed among the young men,
+    a youth who had no sense.
+8 He was going down the street near her corner,
+    walking along in the direction of her house
+9 at twilight, as the day was fading,
+    as the dark of night set in.
+
+10 Then out came a woman to meet him,
+    dressed like a prostitute and with crafty intent.
+11 (She is unruly and defiant,
+    her feet never stay at home;
+12 now in the street, now in the squares,
+    at every corner she lurks.)
+13 She took hold of him and kissed him
+    and with a brazen face she said:
+
+14 “Today I fulfilled my vows,
+    and I have food from my fellowship offering at home.
+15 So I came out to meet you;
+    I looked for you and have found you!
+16 I have covered my bed
+    with colored linens from Egypt.
+17 I have perfumed my bed
+    with myrrh, aloes and cinnamon.
+18 Come, let’s drink deeply of love till morning;
+    let’s enjoy ourselves with love!
+19 My husband is not at home;
+    he has gone on a long journey.
+20 He took his purse filled with money
+    and will not be home till full moon.”
+
+21 With persuasive words she led him astray;
+    she seduced him with her smooth talk.
+22 All at once he followed her
+    like an ox going to the slaughter,
+like a deer[a] stepping into a noose[b]
+23     till an arrow pierces his liver,
+like a bird darting into a snare,
+    little knowing it will cost him his life.
+
+24 Now then, my sons, listen to me;
+    pay attention to what I say.
+25 Do not let your heart turn to her ways
+    or stray into her paths.
+26 Many are the victims she has brought down;
+    her slain are a mighty throng.
+27 Her house is a highway to the grave,
+    leading down to the chambers of death.
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+    Wisdom’s Call
+    </h2>
+    <p>
+   
+8 Does not wisdom call out?
+    Does not understanding raise her voice?
+2 At the highest point along the way,
+    where the paths meet, she takes her stand;
+3 beside the gate leading into the city,
+    at the entrance, she cries aloud:
+4 “To you, O people, I call out;
+    I raise my voice to all mankind.
+5 You who are simple, gain prudence;
+    you who are foolish, set your hearts on it.[a]
+6 Listen, for I have trustworthy things to say;
+    I open my lips to speak what is right.
+7 My mouth speaks what is true,
+    for my lips detest wickedness.
+8 All the words of my mouth are just;
+    none of them is crooked or perverse.
+9 To the discerning all of them are right;
+    they are upright to those who have found knowledge.
+10 Choose my instruction instead of silver,
+    knowledge rather than choice gold,
+11 for wisdom is more precious than rubies,
+    and nothing you desire can compare with her.
+
+12 “I, wisdom, dwell together with prudence;
+    I possess knowledge and discretion.
+13 To fear the Lord is to hate evil;
+    I hate pride and arrogance,
+    evil behavior and perverse speech.
+14 Counsel and sound judgment are mine;
+    I have insight, I have power.
+15 By me kings reign
+    and rulers issue decrees that are just;
+16 by me princes govern,
+    and nobles—all who rule on earth.[b]
+17 I love those who love me,
+    and those who seek me find me.
+18 With me are riches and honor,
+    enduring wealth and prosperity.
+19 My fruit is better than fine gold;
+    what I yield surpasses choice silver.
+20 I walk in the way of righteousness,
+    along the paths of justice,
+21 bestowing a rich inheritance on those who love me
+    and making their treasuries full.
+
+22 “The Lord brought me forth as the first of his works,[c][d]
+    before his deeds of old;
+23 I was formed long ages ago,
+    at the very beginning, when the world came to be.
+24 When there were no watery depths, I was given birth,
+    when there were no springs overflowing with water;
+25 before the mountains were settled in place,
+    before the hills, I was given birth,
+26 before he made the world or its fields
+    or any of the dust of the earth.
+27 I was there when he set the heavens in place,
+    when he marked out the horizon on the face of the deep,
+28 when he established the clouds above
+    and fixed securely the fountains of the deep,
+29 when he gave the sea its boundary
+    so the waters would not overstep his command,
+and when he marked out the foundations of the earth.
+30     Then I was constantly[e] at his side.
+I was filled with delight day after day,
+    rejoicing always in his presence,
+31 rejoicing in his whole world
+    and delighting in mankind.
+
+32 “Now then, my children, listen to me;
+    blessed are those who keep my ways.
+33 Listen to my instruction and be wise;
+    do not disregard it.
+34 Blessed are those who listen to me,
+    watching daily at my doors,
+    waiting at my doorway.
+35 For those who find me find life
+    and receive favor from the Lord.
+36 But those who fail to find me harm themselves;
+    all who hate me love death.” 
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+    Invitations of Wisdom and Folly
+    </h2>
+    <p>
+  
+9 Wisdom has built her house;
+    she has set up[a] its seven pillars.
+2 She has prepared her meat and mixed her wine;
+    she has also set her table.
+3 She has sent out her servants, and she calls
+    from the highest point of the city,
+4     “Let all who are simple come to my house!”
+To those who have no sense she says,
+5     “Come, eat my food
+    and drink the wine I have mixed.
+6 Leave your simple ways and you will live;
+    walk in the way of insight.”
+
+7 Whoever corrects a mocker invites insults;
+    whoever rebukes the wicked incurs abuse.
+8 Do not rebuke mockers or they will hate you;
+    rebuke the wise and they will love you.
+9 Instruct the wise and they will be wiser still;
+    teach the righteous and they will add to their learning.
+
+10 The fear of the Lord is the beginning of wisdom,
+    and knowledge of the Holy One is understanding.
+11 For through wisdom[b] your days will be many,
+    and years will be added to your life.
+12 If you are wise, your wisdom will reward you;
+    if you are a mocker, you alone will suffer.
+
+13 Folly is an unruly woman;
+    she is simple and knows nothing.
+14 She sits at the door of her house,
+    on a seat at the highest point of the city,
+15 calling out to those who pass by,
+    who go straight on their way,
+16     “Let all who are simple come to my house!”
+To those who have no sense she says,
+17     “Stolen water is sweet;
+    food eaten in secret is delicious!”
+18 But little do they know that the dead are there,
+    that her guests are deep in the realm of the dead.  
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+    Proverbs of Solomon
+    </h2>
+    <p>
+   
+10 The proverbs of Solomon:
+
+A wise son brings joy to his father,
+    but a foolish son brings grief to his mother.
+
+2 Ill-gotten treasures have no lasting value,
+    but righteousness delivers from death.
+
+3 The Lord does not let the righteous go hungry,
+    but he thwarts the craving of the wicked.
+
+4 Lazy hands make for poverty,
+    but diligent hands bring wealth.
+
+5 He who gathers crops in summer is a prudent son,
+    but he who sleeps during harvest is a disgraceful son.
+
+6 Blessings crown the head of the righteous,
+    but violence overwhelms the mouth of the wicked.[a]
+
+7 The name of the righteous is used in blessings,[b]
+    but the name of the wicked will rot.
+
+8 The wise in heart accept commands,
+    but a chattering fool comes to ruin.
+
+9 Whoever walks in integrity walks securely,
+    but whoever takes crooked paths will be found out.
+
+10 Whoever winks maliciously causes grief,
+    and a chattering fool comes to ruin.
+
+11 The mouth of the righteous is a fountain of life,
+    but the mouth of the wicked conceals violence.
+
+12 Hatred stirs up conflict,
+    but love covers over all wrongs.
+
+13 Wisdom is found on the lips of the discerning,
+    but a rod is for the back of one who has no sense.
+
+14 The wise store up knowledge,
+    but the mouth of a fool invites ruin.
+
+15 The wealth of the rich is their fortified city,
+    but poverty is the ruin of the poor.
+
+16 The wages of the righteous is life,
+    but the earnings of the wicked are sin and death.
+
+17 Whoever heeds discipline shows the way to life,
+    but whoever ignores correction leads others astray.
+
+18 Whoever conceals hatred with lying lips
+    and spreads slander is a fool.
+
+19 Sin is not ended by multiplying words,
+    but the prudent hold their tongues.
+
+20 The tongue of the righteous is choice silver,
+    but the heart of the wicked is of little value.
+
+21 The lips of the righteous nourish many,
+    but fools die for lack of sense.
+
+22 The blessing of the Lord brings wealth,
+    without painful toil for it.
+
+23 A fool finds pleasure in wicked schemes,
+    but a person of understanding delights in wisdom.
+
+24 What the wicked dread will overtake them;
+    what the righteous desire will be granted.
+
+25 When the storm has swept by, the wicked are gone,
+    but the righteous stand firm forever.
+
+26 As vinegar to the teeth and smoke to the eyes,
+    so are sluggards to those who send them.
+
+27 The fear of the Lord adds length to life,
+    but the years of the wicked are cut short.
+
+28 The prospect of the righteous is joy,
+    but the hopes of the wicked come to nothing.
+
+29 The way of the Lord is a refuge for the blameless,
+    but it is the ruin of those who do evil.
+
+30 The righteous will never be uprooted,
+    but the wicked will not remain in the land.
+
+31 From the mouth of the righteous comes the fruit of wisdom,
+    but a perverse tongue will be silenced.
+
+32 The lips of the righteous know what finds favor,
+    but the mouth of the wicked only what is perverse.
 
 
+    </p>
+</div>
 
+<div className={styles.card}>
+    <h2>
+    The Lord detests dishonest scales,
+    </h2>
+    <p>
+    11 
+    but accurate weights find favor with him.
+
+2 When pride comes, then comes disgrace,
+    but with humility comes wisdom.
+
+3 The integrity of the upright guides them,
+    but the unfaithful are destroyed by their duplicity.
+
+4 Wealth is worthless in the day of wrath,
+    but righteousness delivers from death.
+
+5 The righteousness of the blameless makes their paths straight,
+    but the wicked are brought down by their own wickedness.
+
+6 The righteousness of the upright delivers them,
+    but the unfaithful are trapped by evil desires.
+
+7 Hopes placed in mortals die with them;
+    all the promise of[a] their power comes to nothing.
+
+8 The righteous person is rescued from trouble,
+    and it falls on the wicked instead.
+
+9 With their mouths the godless destroy their neighbors,
+    but through knowledge the righteous escape.
+
+10 When the righteous prosper, the city rejoices;
+    when the wicked perish, there are shouts of joy.
+
+11 Through the blessing of the upright a city is exalted,
+    but by the mouth of the wicked it is destroyed.
+
+12 Whoever derides their neighbor has no sense,
+    but the one who has understanding holds their tongue.
+
+13 A gossip betrays a confidence,
+    but a trustworthy person keeps a secret.
+
+14 For lack of guidance a nation falls,
+    but victory is won through many advisers.
+
+15 Whoever puts up security for a stranger will surely suffer,
+    but whoever refuses to shake hands in pledge is safe.
+
+16 A kindhearted woman gains honor,
+    but ruthless men gain only wealth.
+
+17 Those who are kind benefit themselves,
+    but the cruel bring ruin on themselves.
+
+18 A wicked person earns deceptive wages,
+    but the one who sows righteousness reaps a sure reward.
+
+19 Truly the righteous attain life,
+    but whoever pursues evil finds death.
+
+20 The Lord detests those whose hearts are perverse,
+    but he delights in those whose ways are blameless.
+
+21 Be sure of this: The wicked will not go unpunished,
+    but those who are righteous will go free.
+
+22 Like a gold ring in a pig’s snout
+    is a beautiful woman who shows no discretion.
+
+23 The desire of the righteous ends only in good,
+    but the hope of the wicked only in wrath.
+
+24 One person gives freely, yet gains even more;
+    another withholds unduly, but comes to poverty.
+
+25 A generous person will prosper;
+    whoever refreshes others will be refreshed.
+
+26 People curse the one who hoards grain,
+    but they pray God’s blessing on the one who is willing to sell.
+
+27 Whoever seeks good finds favor,
+    but evil comes to one who searches for it.
+
+28 Those who trust in their riches will fall,
+    but the righteous will thrive like a green leaf.
+
+29 Whoever brings ruin on their family will inherit only wind,
+    and the fool will be servant to the wise.
+
+30 The fruit of the righteous is a tree of life,
+    and the one who is wise saves lives.
+
+31 If the righteous receive their due on earth,
+    how much more the ungodly and the sinner!
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+    12 Whoever loves discipline loves knowledge,
+    but whoever hates correction is stupid.
+    </h2>
+    <p>
+  
+
+2 Good people obtain favor from the Lord,
+    but he condemns those who devise wicked schemes.
+
+3 No one can be established through wickedness,
+    but the righteous cannot be uprooted.
+
+4 A wife of noble character is her husband’s crown,
+    but a disgraceful wife is like decay in his bones.
+
+5 The plans of the righteous are just,
+    but the advice of the wicked is deceitful.
+
+6 The words of the wicked lie in wait for blood,
+    but the speech of the upright rescues them.
+
+7 The wicked are overthrown and are no more,
+    but the house of the righteous stands firm.
+
+8 A person is praised according to their prudence,
+    and one with a warped mind is despised.
+
+9 Better to be a nobody and yet have a servant
+    than pretend to be somebody and have no food.
+
+10 The righteous care for the needs of their animals,
+    but the kindest acts of the wicked are cruel.
+
+11 Those who work their land will have abundant food,
+    but those who chase fantasies have no sense.
+
+12 The wicked desire the stronghold of evildoers,
+    but the root of the righteous endures.
+
+13 Evildoers are trapped by their sinful talk,
+    and so the innocent escape trouble.
+
+14 From the fruit of their lips people are filled with good things,
+    and the work of their hands brings them reward.
+
+15 The way of fools seems right to them,
+    but the wise listen to advice.
+
+16 Fools show their annoyance at once,
+    but the prudent overlook an insult.
+
+17 An honest witness tells the truth,
+    but a false witness tells lies.
+
+18 The words of the reckless pierce like swords,
+    but the tongue of the wise brings healing.
+
+19 Truthful lips endure forever,
+    but a lying tongue lasts only a moment.
+
+20 Deceit is in the hearts of those who plot evil,
+    but those who promote peace have joy.
+
+21 No harm overtakes the righteous,
+    but the wicked have their fill of trouble.
+
+22 The Lord detests lying lips,
+    but he delights in people who are trustworthy.
+
+23 The prudent keep their knowledge to themselves,
+    but a fool’s heart blurts out folly.
+
+24 Diligent hands will rule,
+    but laziness ends in forced labor.
+
+25 Anxiety weighs down the heart,
+    but a kind word cheers it up.
+
+26 The righteous choose their friends carefully,
+    but the way of the wicked leads them astray.
+
+27 The lazy do not roast[a] any game,
+    but the diligent feed on the riches of the hunt.
+
+28 In the way of righteousness there is life;
+    along that path is immortality.
+
+
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+    13 A wise son heeds his father’s instruction,
+    but a mocker does not respond to rebukes.
+    </h2>
+    <p>
+    
+
+2 From the fruit of their lips people enjoy good things,
+    but the unfaithful have an appetite for violence.
+
+3 Those who guard their lips preserve their lives,
+    but those who speak rashly will come to ruin.
+
+4 A sluggard’s appetite is never filled,
+    but the desires of the diligent are fully satisfied.
+
+5 The righteous hate what is false,
+    but the wicked make themselves a stench
+    and bring shame on themselves.
+
+6 Righteousness guards the person of integrity,
+    but wickedness overthrows the sinner.
+
+7 One person pretends to be rich, yet has nothing;
+    another pretends to be poor, yet has great wealth.
+
+8 A person’s riches may ransom their life,
+    but the poor cannot respond to threatening rebukes.
+
+9 The light of the righteous shines brightly,
+    but the lamp of the wicked is snuffed out.
+
+10 Where there is strife, there is pride,
+    but wisdom is found in those who take advice.
+
+11 Dishonest money dwindles away,
+    but whoever gathers money little by little makes it grow.
+
+12 Hope deferred makes the heart sick,
+    but a longing fulfilled is a tree of life.
+
+13 Whoever scorns instruction will pay for it,
+    but whoever respects a command is rewarded.
+
+14 The teaching of the wise is a fountain of life,
+    turning a person from the snares of death.
+
+15 Good judgment wins favor,
+    but the way of the unfaithful leads to their destruction.[a]
+
+16 All who are prudent act with[b] knowledge,
+    but fools expose their folly.
+
+17 A wicked messenger falls into trouble,
+    but a trustworthy envoy brings healing.
+
+18 Whoever disregards discipline comes to poverty and shame,
+    but whoever heeds correction is honored.
+
+19 A longing fulfilled is sweet to the soul,
+    but fools detest turning from evil.
+
+20 Walk with the wise and become wise,
+    for a companion of fools suffers harm.
+
+21 Trouble pursues the sinner,
+    but the righteous are rewarded with good things.
+
+22 A good person leaves an inheritance for their children’s children,
+    but a sinner’s wealth is stored up for the righteous.
+
+23 An unplowed field produces food for the poor,
+    but injustice sweeps it away.
+
+24 Whoever spares the rod hates their children,
+    but the one who loves their children is careful to discipline them.
+
+25 The righteous eat to their hearts’ content,
+    but the stomach of the wicked goes hungry.
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+
+    </h2>
+    <p>
+        
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+
+    </h2>
+    <p>
+        
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+
+    </h2>
+    <p>
+        
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+
+    </h2>
+    <p>
+        
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+
+    </h2>
+    <p>
+        
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+
+    </h2>
+    <p>
+        
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+
+    </h2>
+    <p>
+        
+    </p>
+</div>
+
+<div className={styles.card}>
+    <h2>
+
+    </h2>
+    <p>
+        
+    </p>
+</div>
 
         </div>
       </main>
