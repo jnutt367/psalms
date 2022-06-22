@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-
+import gsap from 'gsap'
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -46,15 +46,7 @@ export default function Home() {
         <h1 className={styles.title}>
           The Book of <a href="https://www.biblegateway.com/passage/?search=Proverbs%201&version=NIV"> Proverbs</a>
         </h1>
-        <a href="https://freesvg.org/drawing-of-word-jesus-written-in-shape-of-fish">
-        <Image className={styles.card1}
-          src="/Jesus-color-silhouette-low-poly-pattern.svg"
-          alt="new testament illustration"
-          layout="intrinsic"
-          height="300px"
-          width="300px"
-        />
-        </a>
+       
         <a href="https://the-holy-bible.vercel.app/">
         <h2 className={styles.h2}>New Testament Home Page</h2>
         </a>
