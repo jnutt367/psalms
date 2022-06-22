@@ -58,7 +58,7 @@ export default function Home() {
        
 
           <div className={styles.card}>
-            <h2>Purpose and Theme </h2>
+            <h2>Purpose & Theme </h2>
             <h2>1 The proverbs of Solomon son of David, king of Israel: &darr;</h2>
             <p>
 
