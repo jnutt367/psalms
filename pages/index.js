@@ -47,6 +47,13 @@ export default function Home() {
           The Book of <a href="https://www.biblegateway.com/passage/?search=Proverbs%201&version=NIV"> Proverbs</a>
         </h1>
        
+       
+
+        <p className={styles.description}>
+          
+          <code className={styles.publisher}>&darr; Scroll Down &darr;</code>
+        </p>
+
         <a href="https://the-holy-bible.vercel.app/">
         <h2 className={styles.h2}>New Testament Home Page</h2>
         </a>
