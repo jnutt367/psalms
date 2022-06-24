@@ -118,7 +118,7 @@
 .card:focus,
 .card:active {
     color: black;
-    text-shadow: 2px 2px orange;
+    text-shadow: 2px 2px hsl(212, 100%, 48%);
     border-color: hsl(212, 100%, 48%);
     background-image: url(/monophy.gif);
     background-repeat: no-repeat;
@@ -136,8 +136,7 @@
 }
 
 .card h2:hover {
-    text-decoration: underline;
-    color: black;
+    text-shadow: 2px 2px orange;
 }
 
 .card p {
