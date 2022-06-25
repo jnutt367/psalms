@@ -16,6 +16,13 @@
     align-items: center;
 }
 
+.flex {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
 .footer {
     display: flex;
     flex: 1;

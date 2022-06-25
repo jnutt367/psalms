@@ -13,6 +13,24 @@ export default function Home() {
       
       <header>
         <div>
+       
+
+       <div className={styles.flex}>
+            <Image
+              src="/Jesus-color-silhouette-low-poly-pattern.svg"
+              height={50}
+              width={100}
+              className="mt-10"
+              objectFit="cover"
+              alt="Jesus Logo"
+            />
+
+            <button>
+                DONATE
+            </button>
+        </div>
+
+      
           <nav className={styles.nav}>
               <ul> 
               <a href="https://mark-alpha.vercel.app/">
