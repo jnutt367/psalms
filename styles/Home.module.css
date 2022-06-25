@@ -43,18 +43,23 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.nav ul:hover {
+    text-shadow: 1px 20px black;
+}
+
 .title a {
     color: orange;
     text-decoration: none;
     background-image: url(/cloud_lightning.webp);
     padding: 2rem;
-    opacity: 0.7;
+    opacity: 0.9;
 }
 
 .title a:hover,
 .title a:focus,
 .title a:active {
     text-shadow: 1px 1px white;
+    opacity: 1;
 }
 
 .title {
