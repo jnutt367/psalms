@@ -62,7 +62,7 @@ export default function Home() {
      
       <main className={styles.main}>
         <h1 className={styles.title}>
-          The Book of <a href="https://www.biblegateway.com/passage/?search=Proverbs%201&version=NIV"> Proverbs</a>
+           <a href="https://www.biblegateway.com/passage/?search=Proverbs%201&version=NIV"> Proverbs</a>
         </h1>
        
        
