@@ -65,7 +65,10 @@ export default function Home() {
            <a href="https://www.biblegateway.com/passage/?search=Proverbs%201&version=NIV"> Proverbs</a>
            <span className={styles.titleSpan}>Wisdom Literature</span>
         </h1>
-       
+        <p className={styles.description}>
+          
+          <code className={styles.publisher}>from King Solomon</code>
+        </p>
         <p className={styles.description}>
           
           <code className={styles.publisher}>&darr; Scroll Down &darr;</code>
@@ -85,10 +88,7 @@ export default function Home() {
         
 
         
-        <p className={styles.description}>
-          
-          <code className={styles.publisher}>Proverbs:  from King Solomon</code>
-        </p>
+       
         <div className={styles.grid}>
        
 
