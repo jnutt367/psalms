@@ -23,6 +23,16 @@
     justify-content: space-between;
 }
 
+.donateButton {
+    width: 200px;
+}
+
+.donateButton:hover {
+    color: white;
+    background-image: url(/cloud_lightning.webp);
+    cursor: pointer;
+}
+
 .footer {
     display: flex;
     flex: 1;
@@ -180,11 +190,6 @@
     text-decoration: none;
     transition: color 1s ease, border-color 0.15s ease;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-.illustration {
-    border-radius: 15px;
-    margin: 3rem;
 }
 
 .h2:hover {

@@ -25,7 +25,7 @@ export default function Home() {
               alt="Jesus Logo"
             />
 
-            <button>
+            <button className={styles.donateButton}>
                 DONATE
             </button>
         </div>
