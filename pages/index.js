@@ -63,21 +63,31 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>
            <a href="https://www.biblegateway.com/passage/?search=Proverbs%201&version=NIV"> Proverbs</a>
+           <span className={styles.titleSpan}>Wisdom Literature</span>
         </h1>
        
-       
-
         <p className={styles.description}>
           
           <code className={styles.publisher}>&darr; Scroll Down &darr;</code>
         </p>
+      
+      <p className={styles.h2}>
+      <span className={styles.span}> &darr; Romans 1:16 &rarr; </span>
+        For I am not ashamed of the  gospel, because it is the power
+        of God that brings salvation to everyone who believes. First the Jew & then the Gentile
+      </p>
+      <p className={styles.description}>
+        Back to the {' '}
+        <a href="https://the-holy-bible.vercel.app/"><code className={styles.code}>Gospels</code></a>
+      </p>
 
-        <a href="https://the-holy-bible.vercel.app/">
-        <h2 className={styles.h2}>The Holy Bible Home Page</h2>
-        </a>
+
+        
+
+        
         <p className={styles.description}>
           
-          <code className={styles.publisher}>Proverbs: Wisdom Literature from King Solomon</code>
+          <code className={styles.publisher}>Proverbs:  from King Solomon</code>
         </p>
         <div className={styles.grid}>
        
