@@ -15,20 +15,7 @@ export default function Home() {
         <div>
        
 
-       <div className={styles.flex}>
-            <Image
-              src="/Jesus-color-silhouette-low-poly-pattern.svg"
-              height={50}
-              width={100}
-              className="mt-10"
-              objectFit="cover"
-              alt="Jesus Logo"
-            />
 
-            <button className={styles.donateButton}>
-                DONATE
-            </button>
-        </div>
 
       
           <nav className={styles.nav}>
@@ -59,7 +46,21 @@ export default function Home() {
           </nav>
         </div>
       </header>
-     
+      <div className={styles.flex}>
+            <Image
+              src="/Jesus-color-silhouette-low-poly-pattern.svg"
+              height={50}
+              width={100}
+              className="mt-10"
+              objectFit="cover"
+              alt="Jesus Logo"
+            />
+
+<a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
+            <button className={styles.donateButton}>
+                DONATE
+            </button>
+        </div>
       <main className={styles.main}>
         <h1 className={styles.title}>
            <a href="https://www.biblegateway.com/passage/?search=Proverbs%201&version=NIV"> Proverbs</a>
@@ -79,10 +80,7 @@ export default function Home() {
         For I am not ashamed of the  gospel, because it is the power
         of God that brings salvation to everyone who believes. First the Jew & then the Gentile
       </p>
-      <p className={styles.description}>
-        Back to the {' '}
-        <a href="https://the-holy-bible.vercel.app/"><code className={styles.code}>Gospels</code></a>
-      </p>
+   
 
 
         

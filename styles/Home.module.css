@@ -191,7 +191,7 @@
 }
 
 .titleSpan {
-    font-size: large;
+    font-size: x-large;
     float: right;
     padding: 2rem;
     padding-right: 5rem;
@@ -218,6 +218,7 @@
     border-color: hsl(184, 42%, 62%);
     text-decoration: dashed;
     width: 100%;
+    font-size: x-large;
     background-image: url(/cloud_lightning.webp);
     opacity: 0.85;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
