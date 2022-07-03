@@ -62,9 +62,13 @@ export default function Home() {
             </button>
         </div>
       <main className={styles.main}>
+      <p className={styles.description}>
+          
+          <code className={styles.publisher}>Wisdom Literature</code>
+        </p>
         <h1 className={styles.title}>
            <a href="https://www.biblegateway.com/passage/?search=Proverbs%201&version=NIV"> Proverbs</a>
-           <span className={styles.titleSpan}>Wisdom Literature</span>
+           
         </h1>
         <p className={styles.description}>
           
@@ -72,7 +76,7 @@ export default function Home() {
         </p>
         <p className={styles.description}>
           
-          <code className={styles.publisher}>&darr; Scroll Down &darr;</code>
+          <code className={styles.publisher}>&darr; Scroll &darr;</code>
         </p>
       
       <p className={styles.h2}>

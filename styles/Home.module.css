@@ -1,11 +1,12 @@
 .container {
     padding: 0 2rem;
     background-image: url(/cloud_lightning.webp);
-    background-size: contain;
+    background-size: cover;
 }
 
 .main {
-    background-color: #eaeaea;
+    background-color: white;
+    background-size: contain;
     background-size: contain;
     min-height: 100vh;
     padding: 4rem 0;
@@ -14,23 +15,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-.flex {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    display: flex;
-    justify-content: space-between;
-}
-
-.donateButton {
-    width: 200px;
-}
-
-.donateButton:hover {
-    color: white;
-    background-image: url(/cloud_lightning.webp);
-    cursor: pointer;
 }
 
 .footer {
@@ -60,8 +44,14 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.nav ul:hover {
-    text-shadow: 1px 20px black;
+.donateButton {
+    width: 200px;
+}
+
+.donateButton:hover {
+    background-image: url(/cloud_lightning.webp);
+    color: white;
+    cursor: pointer;
 }
 
 .title a {
@@ -80,8 +70,20 @@
     opacity: 1;
 }
 
+.titleSpan {
+    font-size: x-large;
+    float: right;
+    padding: 2rem;
+    padding-right: 5rem;
+    text-shadow: 2px 2px white;
+    position: relative;
+    top: 2rem;
+    right: 12rem;
+}
+
 .title {
     background-image: url(/cloud_lightning.webp);
+    background-size: cover;
     margin: 2rem;
     line-height: 1.15;
     height: 10rem;
@@ -97,17 +99,21 @@
 
 .description {
     color: black;
+    text-shadow: 2px 2px black;
     padding: 2rem;
+    padding-right: 3rem;
     margin: 0rem 0;
+    margin-bottom: 2rem;
     line-height: 1.5;
-    font-size: 1rem;
+    font-size: 2rem;
     max-width: 60rem;
 }
 
 .code {
     border-radius: 5px;
-    color: black;
-    text-shadow: 1px 1px white;
+    color: orange;
+    margin-bottom: 2rem;
+    text-shadow: 2px 2px black;
     background-image: url(/cloud_lightning.webp);
     padding: 3rem;
     font-size: 1.1rem;
@@ -116,13 +122,31 @@
 }
 
 .code:hover {
-    color: black;
+    color: white;
     text-shadow: 1.5px 1.5px orange;
     opacity: 0.9;
 }
 
 .span {
-    font-size: x-large;
+    font-size: xx-large;
+    color: #fafafa;
+    text-shadow: 1px 1px black;
+}
+
+.nav ul li {
+    display: flex;
+    flex-basis: auto;
+    color: #fafafa;
+    justify-content: space-around;
+    list-style: none;
+    font-size: xx-large;
+    padding-top: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.nav ul:hover {
+    color: orange;
+    text-decoration: underline;
 }
 
 .grid {
@@ -131,6 +155,31 @@
     justify-content: center;
     flex-wrap: wrap;
     max-width: 1400px;
+}
+
+.h2 {
+    background-image: url(/cloud_lightning.webp);
+    background-size: cover;
+    text-shadow: 1px 1px black;
+    margin-top: 0rem;
+    padding: 2rem;
+    text-align: left;
+    font-size: larger;
+    color: white;
+    text-decoration: none;
+    transition: color .5s ease, border-color 0.15s ease;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h2:hover {
+    color: black;
+    opacity: 0.7;
+    text-shadow: 1px 2px whitesmoke;
+    border-color: hsl(184, 42%, 62%);
+    text-decoration: dashed;
+    background-image: url(/cloud_lightning.webp);
+    opacity: 0.85;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card {
@@ -152,13 +201,13 @@
 .card:focus,
 .card:active {
     color: black;
-    text-shadow: 2px 2px white;
     border-color: hsl(212, 100%, 48%);
     background-image: url(/monophy.gif);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: black;
-    opacity: 0.85;
+    cursor: all-scroll;
+    background-color: white;
+    opacity: 0.9;
     overflow: scroll;
     font-family: monospace;
 }
@@ -170,13 +219,20 @@
 }
 
 .card h2:hover {
-    text-shadow: 2px 2px white;
+    text-shadow: 1px 1px white;
+    color: black;
 }
 
 .card p {
     margin: 0;
     font-size: 1.25rem;
     line-height: 1.5;
+    font-family: monospace;
+}
+
+.card p:hover {
+    text-shadow: 1px 1px white;
+    font-weight: 900;
 }
 
 .logo {
@@ -184,57 +240,18 @@
     margin-left: 0.5rem;
 }
 
+.flex {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
 .publisher {
     font-family: monospace;
-    color: black;
-    font-size: 1.5rem;
-}
-
-.titleSpan {
-    font-size: x-large;
-    float: right;
-    padding: 2rem;
-    padding-right: 5rem;
-    text-shadow: 2px 2px white;
-}
-
-.h2 {
-    background-image: url(/cloud_lightning.webp);
-    text-shadow: .5px .5px white;
-    margin-top: 0rem;
-    padding: 2rem;
-    text-align: left;
-    font-size: larger;
-    color: black;
-    text-decoration: none;
-    transition: color 1s ease, border-color 0.15s ease;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-.h2:hover {
-    color: black;
-    opacity: 0.7;
-    text-shadow: 1px 2px whitesmoke;
-    border-color: hsl(184, 42%, 62%);
-    text-decoration: dashed;
-    width: 100%;
-    font-size: x-large;
-    background-image: url(/cloud_lightning.webp);
-    opacity: 0.85;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-@media (max-width: 600px) {
-    .grid {
-        width: 100%;
-        flex-direction: column;
-    }
-}
-
-@media (max-width: 900px) {
-    .container {
-        background-size: contain;
-    }
+    color: orange;
+    font-size: 2.5rem;
+    margin-left: 2rem;
 }
 
 @media (max-width: 600px) {
@@ -252,5 +269,23 @@
         flex-direction: column;
         align-items: center;
         margin-left: -2rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .publisher {
+        font-size: 1rem;
+    }
+    .title {
+        font-size: 2rem;
+    }
+    .description {
+        font-size: 0.6rem;
+    }
+}
+
+@media (min-width: 769px) {
+    .title {
+        font-size: 5rem;
     }
 }
