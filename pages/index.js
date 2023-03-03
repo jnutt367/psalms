@@ -82,7 +82,7 @@ export default function Home() {
             <p>
 
 
-2 for gaining wisdom and instruction;
+2 , for gaining wisdom and instruction;
     for understanding words of insight;
 3 for receiving instruction in prudent behavior,
     doing what is right and just and fair;
