@@ -21,7 +21,7 @@ export default function Home() {
                 </h1>
         
         <h1 className={styles.title}>
-         MATTHEW
+         PROVERBS
         </h1>
         <div  className={styles.image}>
        <Image
@@ -2840,7 +2840,7 @@ Epilogue: The Wife of Noble Character
     </p>
 </div>
 
-
+ </main>
         </div>
 
         <p className={styles.description}> 
@@ -2849,7 +2849,7 @@ Epilogue: The Wife of Noble Character
         </code>
         </p>
 
-      </main>
+     
 
       <footer className={styles.footer}>
         <a
