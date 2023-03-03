@@ -78,21 +78,21 @@ export default function Home() {
 
           <div className={styles.card}>
             <h2 className={styles.chapter>Purpose & Theme </h2>
-            <p>
-                           for gaining wisdom and instruction;
-    for understanding words of insight;
+                           <p>
+     for gaining wisdom and instruction
+      for understanding words of insight
  for receiving instruction in prudent behavior,
-    doing what is right and just and fair;
- for giving prudence to those who are simple,[a]
+    doing what is right and just and fair
+ for giving prudence to those who are simple
     knowledge and discretion to the young—
- let the wise listen and add to their learning,
+ let the wise listen and add to their learning
     and let the discerning get guidance—
  for understanding proverbs and parables,
-    the sayings and riddles of the wise.[b]
+    the sayings and riddles of the wise.
 
  The fear of the Lord is the beginning of knowledge,
     but fools[c] despise wisdom and instruction.
-
+</p>
           </div>
 
           <div
