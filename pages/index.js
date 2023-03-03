@@ -77,8 +77,8 @@ export default function Home() {
        
 
           <div className={styles.card}>
-            <h2>Purpose & Theme </h2>
-            <h2>1 The proverbs of Solomon son of David, king of Israel: &darr;</h2>
+            <h2 className={styles.chapter>Purpose & Theme </h2>
+            <h3>1 The proverbs of Solomon son of David, king of Israel: &darr;</h3>
             <p>
 
 
@@ -102,8 +102,9 @@ export default function Home() {
           <div
             className={styles.card}
           >
-            <h2>Prologue: Exhortations to Embrace Wisdom
-Warning Against the Invitation of Sinful Men &darr;</h2>
+          <h2 className={styles.chapter>Prologue:</h2>
+                         <h3> Exhortations to Embrace Wisdom
+Warning Against the Invitation of Sinful Men &darr;</h3>
             <p>8 Listen, my son, to your father’s instruction
     and do not forsake your mother’s teaching.
 9 They are a garland to grace your head
@@ -137,7 +138,8 @@ Warning Against the Invitation of Sinful Men &darr;</h2>
           <div
             className={styles.card}
           >
-            <h2>Wisdom’s Rebuke &darr;</h2>
+            <h2 className={styles.chapter}>Exhortations to Embrace Wisdom</h2>
+<h4>Warning Against the Invitation of Sinful Men &darr;Wisdom’s Rebuke &darr;</h4>
             <p>
             20 Out in the open wisdom calls aloud,
     she raises her voice in the public square;
@@ -315,7 +317,7 @@ Warning Against the Invitation of Sinful Men &darr;</h2>
     but fools get only shame.</p>
           </div>
           <div className={styles.card}>
-            <h2>Get Wisdom at Any Cost &darr;</h2>
+             <h2 className={styles.chapter}>Get Wisdom at Any Cost &darr;</h2>
             
             <p>
 
@@ -381,7 +383,7 @@ Warning Against the Invitation of Sinful Men &darr;</h2>
 </p>
           </div>
           <div className={styles.card}>
-            <h2>Warning Against Adultery &darr;</h2>
+            <h2 className={styles.chapter}>Warning Against Adultery &darr;</h2>
             
             <p>
           
@@ -437,7 +439,7 @@ Warning Against the Invitation of Sinful Men &darr;</h2>
     led astray by their own great folly.</p>
           </div>
 <div className={styles.card}>
-    <h2>
+     <h2 className={styles.chapter}>
     Warnings Against Folly
     </h2>
     <p>
@@ -532,7 +534,7 @@ and correction and instruction
     </p>
 </div>
 <div className={styles.card}>
-    <h2>
+    <h2 className={styles.chapter}>
     Warning Against the Adulterous Woman
     </h2>
     <p>
@@ -603,7 +605,7 @@ like a bird darting into a snare,
 </div>
 
 <div className={styles.card}>
-    <h2>
+    <h2 className={styles.chapter}>
     Wisdom’s Call
     </h2>
     <p>
@@ -691,7 +693,7 @@ I was filled with delight day after day,
 </div>
 
 <div className={styles.card}>
-    <h2>
+    <h2 className={styles.chapter}>
     Invitations of Wisdom and Folly
     </h2>
     <p>
@@ -739,7 +741,7 @@ To those who have no sense she says,
 </div>
 
 <div className={styles.card}>
-    <h2>
+    <h2 className={styles.chapter}>
     Proverbs of Solomon
     </h2>
     <p>
@@ -847,7 +849,7 @@ A wise son brings joy to his father,
 </div>
 
 <div className={styles.card}>
-    <h2>
+     <h2 className={styles.chapter}>
     The Lord detests dishonest scales,
     </h2>
     <p>
@@ -947,7 +949,7 @@ A wise son brings joy to his father,
 </div>
 
 <div className={styles.card}>
-    <h2>
+     <h2 className={styles.chapter}>
     12 Whoever loves discipline loves knowledge,
     
     </h2>
@@ -1040,7 +1042,7 @@ A wise son brings joy to his father,
 </div>
 
 <div className={styles.card}>
-    <h2>
+   <h2 className={styles.chapter}>
     13 A wise son heeds his father’s instruction,
    
     </h2>
@@ -1123,7 +1125,7 @@ A wise son brings joy to his father,
 </div>
 
 <div className={styles.card}>
-    <h2>
+     <h2 className={styles.chapter}>
     14 The wise woman builds her house,
     </h2>
     <p>
@@ -1235,7 +1237,7 @@ A wise son brings joy to his father,
 </div>
 
 <div className={styles.card}>
-    <h2>
+    <h2 className={styles.chapter}>
     15 A gentle answer turns away wrath,
     </h2>
     <p>
@@ -1341,7 +1343,7 @@ A wise son brings joy to his father,
 </div>
 
 <div className={styles.card}>
-    <h2>
+    <h2 className={styles.chapter}>
     16 To humans belong the plans of the heart,
     </h2>
     <p>
@@ -1449,7 +1451,7 @@ A wise son brings joy to his father,
 </div>
 
 <div className={styles.card}>
-    <h2>
+    <h2 className={styles.chapter}>
     17 Better a dry crust with peace and quiet
     than a house full of feasting, with strife.
     </h2>
@@ -1540,7 +1542,7 @@ A wise son brings joy to his father,
 </div>
 
 <div className={styles.card}>
-    <h2>
+    <h2 className={styles.chapter}>
     18 An unfriendly person pursues selfish ends
     and against all sound judgment starts quarrels.
 
@@ -1619,7 +1621,7 @@ A wise son brings joy to his father,
 </div>
 
 <div className={styles.card}>
-    <h2>
+   <h2 className={styles.chapter}>
     19 Better the poor whose walk is blameless
     than a fool whose lips are perverse.
     </h2>
@@ -1716,7 +1718,7 @@ Though the poor pursue them with pleading,
 </div>
 
 <div className={styles.card}>
-    <h2>
+     <h2 className={styles.chapter}>
     20 Wine is a mocker and beer a brawler;
     whoever is led astray by them is not wise.
     </h2>
@@ -1813,7 +1815,7 @@ Though the poor pursue them with pleading,
 </div>
 
 <div className={styles.card}>
-    <h2>
+    <h2 className={styles.chapter}>
     21 In the Lord’s hand the king’s heart is a stream of water
     that he channels toward all who please him.
     </h2>
@@ -1912,7 +1914,7 @@ Though the poor pursue them with pleading,
 </div>
 
 <div className={styles.card}>
-    <h2>
+     <h2 className={styles.chapter}>
     22 A good name is more desirable than great riches;
     to be esteemed is better than silver or gold.
     </h2>
@@ -2008,7 +2010,7 @@ Saying 6
 </div>
 
 <div className={styles.card}>
-    <h2>
+     <h2 className={styles.chapter}>
     23 When you sit to dine with a ruler,
     note well what[a] is before you,
     </h2>
@@ -2119,7 +2121,7 @@ When will I wake up
 </div>
 
 <div className={styles.card}>
-    <h2>
+    <h2 className={styles.chapter}>
     24 Do not envy the wicked,
     do not desire their company;
     </h2>
@@ -2227,7 +2229,7 @@ To show partiality in judging is not good:
 </div>
 
 <div className={styles.card}>
-    <h2>
+     <h2 className={styles.chapter}>
     More Proverbs of Solomon
 25 These are more proverbs of Solomon,
     </h2>
@@ -2311,7 +2313,7 @@ for what will you do in the end
 </div>
 
 <div className={styles.card}>
-    <h2>
+     <h2 className={styles.chapter}>
     26 Like snow in summer or rain in harvest,
     honor is not fitting for a fool.
     </h2>
@@ -2466,7 +2468,7 @@ for what will you do in the end
 </div>
 
 <div className={styles.card}>
-    <h2>
+     <h2 className={styles.chapter}>
     28 The wicked flee though no one pursues,
     but the righteous are as bold as a lion.
     </h2>
@@ -2562,7 +2564,7 @@ for what will you do in the end
 </div>
 
 <div className={styles.card}>
-    <h2>
+    <h2 className={styles.chapter}>
     29 Whoever remains stiff-necked after many rebukes
     will suddenly be destroyed—without remedy.
     </h2>
@@ -2650,11 +2652,12 @@ for what will you do in the end
     </p>
 </div>
 <div className={styles.card}>
-    <h2>
-    Sayings of Agur
+     <h2 className={styles.chapter}>
+    Sayings of Agur</h2>
+<h4>
 30 The sayings of Agur son of Jakeh—an inspired utterance.
-
-    </h2>
+</h4>
+    
     <p>
     This man’s utterance to Ithiel:
 
@@ -2763,7 +2766,7 @@ the way of a ship on the high seas,
 
 
 <div className={styles.card}>
-    <h2>
+   <h2 className={styles.chapter}>
     Sayings of King Lemuel
 31 The sayings of King Lemuel—an inspired utterance his mother taught him.
     </h2>
