@@ -11,81 +11,61 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
-      <header>
-        <div>
-       
-
-
-
-      
-          <nav className={styles.nav}>
-              <ul> 
-              <a href="https://mark-alpha.vercel.app/">
-                  <li>
-                    Mark
-                  </li>
-                </a>
-                <a href="https://matthew-coral.vercel.app/">
-                  <li>
-                    Matthew
-                  </li>
-                </a>
-               
-                <a href="https://luke-three.vercel.app/">
-                <li>
-                  Luke
-                </li>
-                </a>
-                <a href="https://john-zeta.vercel.app/">
-                <li>
-                  John
-                </li>
-                </a>
-              </ul>
-
-          </nav>
-        </div>
-      </header>
-      <div className={styles.flex}>
-            <Image
-              src="/Jesus-color-silhouette-low-poly-pattern.svg"
-              height={50}
-              width={100}
-              className="mt-10"
-              objectFit="cover"
-              alt="Jesus Logo"
-            />
-
-<a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
-           <a href="https://index-olive-two.vercel.app/">
-            <button className={styles.code}>
-                INDEX
-            </button>
-            </a>
-        </div>
-      <main className={styles.main}>
-      <p className={styles.description}>
-          
-          <code className={styles.publisher}>Wisdom Literature</code>
-        </p>
+    
+<main className={styles.main}>
+     
+      <div className={styles.hero}>
+            <h2 className={styles.holy}>THE HOLY</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
+                </h1>
+        
         <h1 className={styles.title}>
-           <a href="https://www.biblegateway.com/passage/?search=Proverbs%201&version=NIV"> Proverbs</a>
-           
+         MATTHEW
         </h1>
-        <p className={styles.description}>
+        <div  className={styles.image}>
+       <Image
+                                src="/istockphoto-1156403463-612x612.jpg"
+                                alt="Jesus feeds the 5000"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+        </div>                      
+           <div className={styles.nav}>               
+       <a href="https://the-holy-bible.vercel.app/">
+           <Image className={styles.arrow}
+                                src="/chevron-left.svg"
+                                alt="Left arrow"
+                                height={25}
+                                width={25}
+                                priority
+                              />
+       </a>
+
+         <a href="#PayPalButton">
           
-          <code className={styles.publisher}>from King Solomon</code>
-        </p>
-        <p className={styles.description}>
+           <Image
+                                src="/chevron-down.svg"
+                                alt="Donate Button"
+                                height={25}
+                                width={25}
+                                priority
+                              />
           
-          <code className={styles.publisher}>&darr; Scroll &darr;</code>
-        </p>
-      
-      <p className={styles.h2}>
-      <span className={styles.span}> &darr; Romans 1:16 &rarr; </span>
-        For I am not ashamed of the  gospel, because it is the power
-        of God that brings salvation to everyone who believes. First the Jew & then the Gentile
-      </p>
+        </a> 
+           
+           
+        <a href="https://mark-alpha.vercel.app/">
+             <Image className={styles.arrow}
+                                src="/chevron-right.svg"
+                                alt="right arrow"
+                                 height={25}
+                                width={25}
+                                priority
+                              />
+       </a>           
+        </div>
    
 
 
