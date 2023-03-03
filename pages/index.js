@@ -2838,11 +2838,12 @@ Epilogue: The Wife of Noble Character
 31 Honor her for all that her hands have done,
     and let her works bring her praise at the city gate.
     </p>
-</div>
 
- </main>
         </div>
 
+      </div>
+   </div>
+</main>
         <p className={styles.description}> 
         <code className={styles.publisher}>
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
