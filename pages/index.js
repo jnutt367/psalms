@@ -25,8 +25,8 @@ export default function Home() {
         </h1>
         <div  className={styles.image}>
        <Image
-                                src="/istockphoto-1156403463-612x612.jpg"
-                                alt="Jesus feeds the 5000"
+                                src="/139943824-biblical-vector-illustration-series-moses-received-the-ten-commandments.webp"
+                                alt="10 CCommandments"
                                 height={900}
                                 width={2000}
                                 priority
