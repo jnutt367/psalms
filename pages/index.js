@@ -78,15 +78,30 @@ export default function Home() {
 
           <div className={styles.card}>
             <h2 className={styles.chapter>Purpose & Theme </h2>
-                
+                <p>The proverbs of Solomon son of David, king of Israel:
+
+2 for gaining wisdom and instruction;
+    for understanding words of insight;
+3 for receiving instruction in prudent behavior,
+    doing what is right and just and fair;
+4 for giving prudence to those who are simple,[a]
+    knowledge and discretion to the young—
+5 let the wise listen and add to their learning,
+    and let the discerning get guidance—
+6 for understanding proverbs and parables,
+    the sayings and riddles of the wise.[b]
+
+7 The fear of the Lord is the beginning of knowledge,
+    but fools[c] despise wisdom and instruction.
+    </p>
           </div>
 
           <div
             className={styles.card}
           >
           <h2 className={styles.chapter>Prologue:</h2>
-                         <h3> Exhortations to Embrace Wisdom
-Warning Against the Invitation of Sinful Men &darr;</h3>
+                         <p> Exhortations to Embrace Wisdom
+Warning Against the Invitation of Sinful Men &darr;</p>
             <p>8 Listen, my son, to your father’s instruction
     and do not forsake your mother’s teaching.
 9 They are a garland to grace your head
@@ -121,7 +136,7 @@ Warning Against the Invitation of Sinful Men &darr;</h3>
             className={styles.card}
           >
             <h2 className={styles.chapter}>Exhortations to Embrace Wisdom</h2>
-<h4>Warning Against the Invitation of Sinful Men &darr;Wisdom’s Rebuke &darr;</h4>
+<p>Warning Against the Invitation of Sinful Men &darr;Wisdom’s Rebuke &darr;</p>
             <p>
             20 Out in the open wisdom calls aloud,
     she raises her voice in the public square;
