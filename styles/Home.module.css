@@ -253,6 +253,7 @@
     padding: 2rem;
     text-align: left;
     font-size: larger;
+    z-index:10;
     color: black;
     text-decoration: none;
     transition: color .5s ease, border-color 0.15s ease;
