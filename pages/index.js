@@ -23,6 +23,7 @@ export default function Home() {
         <h1 className={styles.title}>
          PROVERBS
         </h1>
+        </div>
         <div  className={styles.image}>
        <Image
                                 src="/139943824-biblical-vector-illustration-series-moses-received-the-ten-commandments.webp"
