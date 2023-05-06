@@ -271,7 +271,12 @@
 
 .card {
     background-image: url(/19-wordle-psalms.jpeg);
-    background-size:contain;
+     background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    background-origin: content-box;
+    background-size: contain;
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
@@ -281,7 +286,7 @@
     padding: 0rem;
     padding-top: -25px;
     text-align: left;
-    max-height: 350px;
+    max-height: 400px;
     max-width: 400px;
     background-color: black;
     overflow: scroll;
