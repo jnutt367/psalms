@@ -26,7 +26,7 @@ export default function Home() {
         
         <div  className={styles.image}>
        <Image
-                                src="/this-is.gif"
+                                src="/psalms.gif"
                                 alt="10 CCommandments"
                                 height={900}
                                 width={2000}
