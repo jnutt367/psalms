@@ -26,7 +26,7 @@ export default function Home() {
         
         <div  className={styles.image}>
        <Image
-                                src="/139943824-biblical-vector-illustration-series-moses-received-the-ten-commandments.webp"
+                                src="/psalms.gif"
                                 alt="10 CCommandments"
                                 height={900}
                                 width={2000}
