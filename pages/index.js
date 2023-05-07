@@ -34,7 +34,7 @@ export default function Home() {
                               />
         </div>                      
        <p className={styles.parables}>Poems or songs of thankfulness, praise, worship and repentance, each one is complete by itself.They show a variety of feeling, emotions, attitudes & interests</p>
- <iframe width="100%" height="200" src="https://www.youtube.com/embed/0XXB3HcL_qI" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="100%" height="200" src="https://www.youtube.com/embed/JSZ6EaxntZQ" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                    
 
 
