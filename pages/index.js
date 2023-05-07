@@ -244,8 +244,90 @@ Spread your protection over them,
             </p>
             </div>
 
+
+<div className={styles.card}>
+            <h2 className={styles.chapter}>PSALM 6 &darr;</h2>
+            <p>( A Psalm of David )
+              For the director of music. With stringed instruments. According to sheminith.
+ Lord, do not rebuke me in your anger
+    or discipline me in your wrath.
+ Have mercy on me, Lord, for I am faint;
+    heal me, Lord, for my bones are in agony.
+ My soul is in deep anguish.
+    How long, Lord, how long?
+
+ Turn, Lord, and deliver me;
+    save me because of your unfailing love.
+ Among the dead no one proclaims your name.
+    Who praises you from the grave?
+
+ I am worn out from my groaning.
+
+All night long I flood my bed with weeping
+    and drench my couch with tears.
+    My eyes grow weak with sorrow;
+    they fail because of all my foes.
+
+ Away from me, all you who do evil,
+    for the Lord has heard my weeping.
+ The Lord has heard my cry for mercy;
+    the Lord accepts my prayer.
+ All my enemies will be overwhelmed with shame and anguish;
+    they will turn back and suddenly be put to shame.
+            </p>
+        </div>
  
- 
+ <div className={styles.card}>
+            <h2 className={styles.chapter}>PSALM 7 &darr;</h2>
+            <p>( A Psalm of David )
+            A shiggaion of David, which he sang to the Lord concerning Cush, a Benjamite.
+ Lord my God, I take refuge in you;
+    save and deliver me from all who pursue me,
+ or they will tear me apart like a lion
+    and rip me to pieces with no one to rescue me.
+
+ Lord my God, if I have done this
+    and there is guilt on my hands—
+ if I have repaid my ally with evil
+    or without cause have robbed my foe—
+ then let my enemy pursue and overtake me;
+    let him trample my life to the ground
+    and make me sleep in the dust.[c]
+
+ Arise, Lord, in your anger;
+    rise up against the rage of my enemies.
+    Awake, my God; decree justice.
+ Let the assembled peoples gather around you,
+    while you sit enthroned over them on high.
+     Let the Lord judge the peoples.
+Vindicate me, Lord, according to my righteousness,
+    according to my integrity, O Most High.
+ Bring to an end the violence of the wicked
+    and make the righteous secure—
+you, the righteous God
+    who probes minds and hearts.
+
+ My shield is God Most High,
+    who saves the upright in heart.
+ God is a righteous judge,
+    a God who displays his wrath every day.
+ If he does not relent,
+    he will sharpen his sword;
+    he will bend and string his bow.
+ He has prepared his deadly weapons;
+    he makes ready his flaming arrows.
+
+ Whoever is pregnant with evil
+    conceives trouble and gives birth to disillusionment.
+ Whoever digs a hole and scoops it out
+    falls into the pit they have made.
+ The trouble they cause recoils on them;
+    their violence comes down on their own heads.
+
+ I will give thanks to the Lord because of his righteousness;
+    I will sing the praises of the name of the Lord Most High.
+            </p>
+        </div>
  
 </div>
           </div>
