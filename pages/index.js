@@ -167,6 +167,35 @@ Strike all my enemies on the jaw;
              </p>
               </div>
 
+<div className={styles.card}>
+            <h2 className={styles.chapter}>PSALM 4 &darr;</h2>
+            <p>( A Psalm of David )
+                For the director of music. With stringed instruments. A psalm of David.
+                Answer me when I call to you,
+    my righteous God.
+Give me relief from my distress;
+    have mercy on me and hear my prayer.
+
+ How long will you people turn my glory into shame?
+    How long will you love delusions and seek false gods?
+ Know that the Lord has set apart his faithful servant for himself;
+    the Lord hears when I call to him.
+ Tremble and do not sin;
+    when you are on your beds,
+    search your hearts and be silent.
+ Offer the sacrifices of the righteous
+    and trust in the Lord.
+
+ Many, Lord, are asking, “Who will bring us prosperity?”
+    Let the light of your face shine on us.
+ Fill my heart with joy
+    when their grain and new wine abound.
+
+ In peace I will lie down and sleep,
+    for you alone, Lord,
+    make me dwell in safety.
+            </p>
+            </div>
 
 </div>
           </div>
