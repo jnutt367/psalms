@@ -27,7 +27,7 @@ export default function Home() {
         <div  className={styles.image}>
        <Image
                                 src="/psalms.gif"
-                                alt="10 CCommandments"
+                                alt="psalm 119 gif"
                                 height={900}
                                 width={2000}
                                 priority
@@ -278,9 +278,9 @@ All night long I flood my bed with weeping
         </div>
  
  <div className={styles.card}>
-            <h2 className={styles.chapter}>PSALM 7 &darr;</h2>
-            <p>( A Psalm of David )
-            A shiggaion of David, which he sang to the Lord concerning Cush, a Benjamite.
+            <h2 className={styles.chapter}>PSALM 9 &darr;</h2>
+            <p>( A shiggaion of David )
+            which he sang to the Lord concerning Cush, a Benjamite.
  Lord my God, I take refuge in you;
     save and deliver me from all who pursue me,
  or they will tear me apart like a lion
@@ -363,6 +363,64 @@ the moon and the stars,
 
             </p>
       </div>
+ <div className={styles.card}>
+            <h2 className={styles.chapter}>PSALM 9 &darr;</h2>
+            <p>( A Psalm of David )
+                  For the director of music. To the tune of “The Death of the Son.” A psalm of David.
+ I will give thanks to you, Lord, with all my heart;
+    I will tell of all your wonderful deeds.
+ I will be glad and rejoice in you;
+    I will sing the praises of your name, O Most High.
+
+ My enemies turn back;
+    they stumble and perish before you.
+ For you have upheld my right and my cause,
+    sitting enthroned as the righteous judge.
+ You have rebuked the nations and destroyed the wicked;
+    you have blotted out their name for ever and ever.
+ Endless ruin has overtaken my enemies,
+    you have uprooted their cities;
+    even the memory of them has perished.
+
+ The Lord reigns forever;
+    he has established his throne for judgment.
+ He rules the world in righteousness
+    and judges the peoples with equity.
+ The Lord is a refuge for the oppressed,
+    a stronghold in times of trouble.
+  Those who know your name trust in you,
+    for you, Lord, have never forsaken those who seek you.
+
+ Sing the praises of the Lord, enthroned in Zion;
+    proclaim among the nations what he has done.
+ For he who avenges blood remembers;
+    he does not ignore the cries of the afflicted.
+
+ Lord, see how my enemies persecute me!
+    Have mercy and lift me up from the gates of death,
+ that I may declare your praises
+    in the gates of Daughter Zion,
+    and there rejoice in your salvation.
+
+ The nations have fallen into the pit they have dug;
+    their feet are caught in the net they have hidden.
+ The Lord is known by his acts of justice;
+    the wicked are ensnared by the work of their hands.[c]
+ The wicked go down to the realm of the dead,
+    all the nations that forget God.
+ But God will never forget the needy;
+    the hope of the afflicted will never perish.
+
+ Arise, Lord, do not let mortals triumph;
+    let the nations be judged in your presence.
+Strike them with terror, Lord;
+    let the nations know they are only mortal.
+
+
+
+            </p>
+      </div>
+
 </div>
           </div>
 </main>
