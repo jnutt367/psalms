@@ -475,6 +475,95 @@ The victims commit themselves to you;
             </p>
 </div>
 
+ <div className={styles.card}>
+            <h2 className={styles.chapter}>
+ PSALM 11</h2>
+<p>
+For the director of music. Of David.
+1 In the Lord I take refuge.
+    How then can you say to me:
+    “Flee like a bird to your mountain.
+2 For look, the wicked bend their bows;
+    they set their arrows against the strings
+to shoot from the shadows
+    at the upright in heart.
+3 When the foundations are being destroyed,
+    what can the righteous do?”
+
+4 The Lord is in his holy temple;
+    the Lord is on his heavenly throne.
+He observes everyone on earth;
+    his eyes examine them.
+5 The Lord examines the righteous,
+    but the wicked, those who love violence,
+    he hates with a passion.
+6 On the wicked he will rain
+    fiery coals and burning sulfur;
+    a scorching wind will be their lot.
+
+7 For the Lord is righteous,
+    he loves justice;
+    the upright will see his face. 
+ </p>
+</div>
+ 
+      
+      <div className={styles.card}>
+            <h2 className={styles.chapter}>
+      PSALM 12</h2>
+              <p>
+              For the director of music. According to sheminith. A psalm of David.
+              1 Help, Lord, for no one is faithful anymore;
+                  those who are loyal have vanished from the human race.
+              2 Everyone lies to their neighbor;
+                  they flatter with their lips
+                  but harbor deception in their hearts.
+
+              3 May the Lord silence all flattering lips
+                  and every boastful tongue—
+              4 those who say,
+                  “By our tongues we will prevail;
+                  our own lips will defend us—who is lord over us?”
+
+              5 “Because the poor are plundered and the needy groan,
+                  I will now arise,” says the Lord.
+                  “I will protect them from those who malign them.”
+              6 And the words of the Lord are flawless,
+                  like silver purified in a crucible,
+                  like gold refined seven times.
+
+              7 You, Lord, will keep the needy safe
+                  and will protect us forever from the wicked,
+              8 who freely strut about
+                  when what is vile is honored by the human race.    
+                  </p>
+  </div>
+    
+    
+    
+    
+          <div className={styles.card}>
+            <h2 className={styles.chapter}>
+      PSALM 13</h2>
+                <p>
+        For the director of music. A psalm of David.
+        1 How long, Lord? Will you forget me forever?
+            How long will you hide your face from me?
+        2 How long must I wrestle with my thoughts
+            and day after day have sorrow in my heart?
+            How long will my enemy triumph over me?
+
+        3 Look on me and answer, Lord my God.
+            Give light to my eyes, or I will sleep in death,
+        4 and my enemy will say, “I have overcome him,”
+            and my foes will rejoice when I fall.
+
+        5 But I trust in your unfailing love;
+            my heart rejoices in your salvation.
+        6 I will sing the Lord’s praise,
+            for he has been good to me.  
+          </p>
+        </div>
 </div>
           </div>
 </main>
