@@ -17,7 +17,7 @@ export default function Home() {
       <div className={styles.hero}>
             <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
@@ -39,7 +39,7 @@ export default function Home() {
 
 
               <div className={styles.nav}>               
-       <a href="https://matthew-coral.vercel.app/">
+       <a href="https://the-word-of-god.vercel.app/">
          <Image className={styles.arrow}
                                 src="/chevron-left.svg"
                                 alt="Left arrow"
@@ -59,7 +59,7 @@ export default function Home() {
                               /> 
        </a>
            
-        <a href="https://luke-three.vercel.app/">
+        <a href="https://the-word-of-god.vercel.app/">
            <Image className={styles.arrow}
                                 src="/chevron-right.svg"
                                 alt="right arrow"
