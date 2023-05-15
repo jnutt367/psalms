@@ -564,6 +564,416 @@ He observes everyone on earth;
             for he has been good to me.  
           </p>
         </div>
+        
+         <div className={styles.card}>
+            <h2 className={styles.chapter}>
+        PSALM 14</h2>
+            <p>
+            For the director of music. Of David.
+            1 The fool[a] says in his heart,
+                “There is no God.”
+            They are corrupt, their deeds are vile;
+                there is no one who does good.
+
+            2 The Lord looks down from heaven
+                on all mankind
+            to see if there are any who understand,
+                any who seek God.
+            3 All have turned away, all have become corrupt;
+                there is no one who does good,
+                not even one.
+
+            4 Do all these evildoers know nothing?
+
+            They devour my people as though eating bread;
+                they never call on the Lord.
+            5 But there they are, overwhelmed with dread,
+                for God is present in the company of the righteous.
+            6 You evildoers frustrate the plans of the poor,
+                but the Lord is their refuge.
+
+            7 Oh, that salvation for Israel would come out of Zion!
+                When the Lord restores his people,
+                let Jacob rejoice and Israel be glad!
+
+              </p>
+            </div>
+
+         <div className={styles.card}>
+            <h2 className={styles.chapter}>
+        PSALM 15</h2>
+            <p>
+       A psalm of David.
+1 Lord, who may dwell in your sacred tent?
+    Who may live on your holy mountain?
+
+2 The one whose walk is blameless,
+    who does what is righteous,
+    who speaks the truth from their heart;
+3 whose tongue utters no slander,
+    who does no wrong to a neighbor,
+    and casts no slur on others;
+4 who despises a vile person
+    but honors those who fear the Lord;
+who keeps an oath even when it hurts,
+    and does not change their mind;
+5 who lends money to the poor without interest;
+    who does not accept a bribe against the innocent.
+
+Whoever does these things
+    will never be shaken.
+              </p>
+            </div>
+
+
+<div className={styles.card}>
+            <h2 className={styles.chapter}>
+        PSALM 16</h2>
+            <p>
+            A miktam of David.
+1 Keep me safe, my God,
+    for in you I take refuge.
+
+2 I say to the Lord, “You are my Lord;
+    apart from you I have no good thing.”
+3 I say of the holy people who are in the land,
+    “They are the noble ones in whom is all my delight.”
+4 Those who run after other gods will suffer more and more.
+    I will not pour out libations of blood to such gods
+    or take up their names on my lips.
+
+5 Lord, you alone are my portion and my cup;
+    you make my lot secure.
+6 The boundary lines have fallen for me in pleasant places;
+    surely I have a delightful inheritance.
+7 I will praise the Lord, who counsels me;
+    even at night my heart instructs me.
+8 I keep my eyes always on the Lord.
+    With him at my right hand, I will not be shaken.
+
+9 Therefore my heart is glad and my tongue rejoices;
+    my body also will rest secure,
+10 because you will not abandon me to the realm of the dead,
+    nor will you let your faithful one see decay.
+11 You make known to me the path of life;
+    you will fill me with joy in your presence,
+    with eternal pleasures at your right hand.              </p>
+            </div>
+        
+
+<div className={styles.card}>
+            <h2 className={styles.chapter}>
+        PSALM 17</h2>
+            <p>
+                              A prayer of David.
+                  1 Hear me, Lord, my plea is just;
+                      listen to my cry.
+                  Hear my prayer—
+                      it does not rise from deceitful lips.
+                  2 Let my vindication come from you;
+                      may your eyes see what is right.
+
+                  3 Though you probe my heart,
+                      though you examine me at night and test me,
+                  you will find that I have planned no evil;
+                      my mouth has not transgressed.
+                  4 Though people tried to bribe me,
+                      I have kept myself from the ways of the violent
+                      through what your lips have commanded.
+                  5 My steps have held to your paths;
+                      my feet have not stumbled.
+
+                  6 I call on you, my God, for you will answer me;
+                      turn your ear to me and hear my prayer.
+                  7 Show me the wonders of your great love,
+                      you who save by your right hand
+                      those who take refuge in you from their foes.
+                  8 Keep me as the apple of your eye;
+                      hide me in the shadow of your wings
+                  9 from the wicked who are out to destroy me,
+                      from my mortal enemies who surround me.
+
+                  10 They close up their callous hearts,
+                      and their mouths speak with arrogance.
+                  11 They have tracked me down, they now surround me,
+                      with eyes alert, to throw me to the ground.
+                  12 They are like a lion hungry for prey,
+                      like a fierce lion crouching in cover.
+
+                  13 Rise up, Lord, confront them, bring them down;
+                      with your sword rescue me from the wicked.
+                  14 By your hand save me from such people, Lord,
+                      from those of this world whose reward is in this life.
+                  May what you have stored up for the wicked fill their bellies;
+                      may their children gorge themselves on it,
+                      and may there be leftovers for their little ones.
+
+                  15 As for me, I will be vindicated and will see your face;
+                      when I awake, I will be satisfied with seeing your likeness.       
+               </p>
+            </div>
+
+<div className={styles.card}>
+            <h2 className={styles.chapter}>
+        PSALM 18</h2>
+            <p>
+              For the director of music. Of David the servant of the Lord. He sang to the Lord the words of this song when the Lord delivered him from the hand of all his enemies and from the hand of Saul. He said:
+1 I love you, Lord, my strength.
+
+2 The Lord is my rock, my fortress and my deliverer;
+    my God is my rock, in whom I take refuge,
+    my shield and the horn of my salvation, my stronghold.
+
+3 I called to the Lord, who is worthy of praise,
+    and I have been saved from my enemies.
+4 The cords of death entangled me;
+    the torrents of destruction overwhelmed me.
+5 The cords of the grave coiled around me;
+    the snares of death confronted me.
+
+6 In my distress I called to the Lord;
+    I cried to my God for help.
+From his temple he heard my voice;
+    my cry came before him, into his ears.
+7 The earth trembled and quaked,
+    and the foundations of the mountains shook;
+    they trembled because he was angry.
+8 Smoke rose from his nostrils;
+    consuming fire came from his mouth,
+    burning coals blazed out of it.
+9 He parted the heavens and came down;
+    dark clouds were under his feet.
+10 He mounted the cherubim and flew;
+    he soared on the wings of the wind.
+11 He made darkness his covering, his canopy around him—
+    the dark rain clouds of the sky.
+12 Out of the brightness of his presence clouds advanced,
+    with hailstones and bolts of lightning.
+13 The Lord thundered from heaven;
+    the voice of the Most High resounded.
+14 He shot his arrows and scattered the enemy,
+    with great bolts of lightning he routed them.
+15 The valleys of the sea were exposed
+    and the foundations of the earth laid bare
+at your rebuke, Lord,
+    at the blast of breath from your nostrils.
+
+16 He reached down from on high and took hold of me;
+    he drew me out of deep waters.
+17 He rescued me from my powerful enemy,
+    from my foes, who were too strong for me.
+18 They confronted me in the day of my disaster,
+    but the Lord was my support.
+19 He brought me out into a spacious place;
+    he rescued me because he delighted in me.
+
+20 The Lord has dealt with me according to my righteousness;
+    according to the cleanness of my hands he has rewarded me.
+21 For I have kept the ways of the Lord;
+    I am not guilty of turning from my God.
+22 All his laws are before me;
+    I have not turned away from his decrees.
+23 I have been blameless before him
+    and have kept myself from sin.
+24 The Lord has rewarded me according to my righteousness,
+    according to the cleanness of my hands in his sight.
+
+25 To the faithful you show yourself faithful,
+    to the blameless you show yourself blameless,
+26 to the pure you show yourself pure,
+    but to the devious you show yourself shrewd.
+27 You save the humble
+    but bring low those whose eyes are haughty.
+28 You, Lord, keep my lamp burning;
+    my God turns my darkness into light.
+29 With your help I can advance against a troop[e];
+    with my God I can scale a wall.
+
+30 As for God, his way is perfect:
+    The Lord’s word is flawless;
+    he shields all who take refuge in him.
+31 For who is God besides the Lord?
+    And who is the Rock except our God?
+32 It is God who arms me with strength
+    and keeps my way secure.
+33 He makes my feet like the feet of a deer;
+    he causes me to stand on the heights.
+34 He trains my hands for battle;
+    my arms can bend a bow of bronze.
+35 You make your saving help my shield,
+    and your right hand sustains me;
+    your help has made me great.
+36 You provide a broad path for my feet,
+    so that my ankles do not give way.
+
+37 I pursued my enemies and overtook them;
+    I did not turn back till they were destroyed.
+38 I crushed them so that they could not rise;
+    they fell beneath my feet.
+39 You armed me with strength for battle;
+    you humbled my adversaries before me.
+40 You made my enemies turn their backs in flight,
+    and I destroyed my foes.
+41 They cried for help, but there was no one to save them—
+    to the Lord, but he did not answer.
+42 I beat them as fine as windblown dust;
+    I trampled them like mud in the streets.
+43 You have delivered me from the attacks of the people;
+    you have made me the head of nations.
+People I did not know now serve me,
+44     foreigners cower before me;
+    as soon as they hear of me, they obey me.
+45 They all lose heart;
+    they come trembling from their strongholds.
+
+46 The Lord lives! Praise be to my Rock!
+    Exalted be God my Savior!
+47 He is the God who avenges me,
+    who subdues nations under me,
+48     who saves me from my enemies.
+You exalted me above my foes;
+    from a violent man you rescued me.
+49 Therefore I will praise you, Lord, among the nations;
+    I will sing the praises of your name.
+
+50 He gives his king great victories;
+    he shows unfailing love to his anointed,
+    to David and to his descendants forever.
+               </p>
+            </div>
+
+              <div className={styles.card}>
+            <h2 className={styles.chapter}>
+      PSALM 19</h2>
+              <p>
+              For the director of music. A psalm of David.
+                1 The heavens declare the glory of God;
+                    the skies proclaim the work of his hands.
+                2 Day after day they pour forth speech;
+                    night after night they reveal knowledge.
+                3 They have no speech, they use no words;
+                    no sound is heard from them.
+                4 Yet their voice[b] goes out into all the earth,
+                    their words to the ends of the world.
+                In the heavens God has pitched a tent for the sun.
+                5     It is like a bridegroom coming out of his chamber,
+                    like a champion rejoicing to run his course.
+                6 It rises at one end of the heavens
+                    and makes its circuit to the other;
+                    nothing is deprived of its warmth.
+
+                7 The law of the Lord is perfect,
+                    refreshing the soul.
+                The statutes of the Lord are trustworthy,
+                    making wise the simple.
+                8 The precepts of the Lord are right,
+                    giving joy to the heart.
+                The commands of the Lord are radiant,
+                    giving light to the eyes.
+                9 The fear of the Lord is pure,
+                    enduring forever.
+                The decrees of the Lord are firm,
+                    and all of them are righteous.
+
+                10 They are more precious than gold,
+                    than much pure gold;
+                they are sweeter than honey,
+                    than honey from the honeycomb.
+                11 By them your servant is warned;
+                    in keeping them there is great reward.
+                12 But who can discern their own errors?
+                    Forgive my hidden faults.
+                13 Keep your servant also from willful sins;
+                    may they not rule over me.
+                Then I will be blameless,
+                    innocent of great transgression.
+
+                14 May these words of my mouth and this meditation of my heart
+                    be pleasing in your sight,
+                    Lord, my Rock and my Redeemer.
+
+                  </p>
+  </div>
+                
+                     <div className={styles.card}>
+            <h2 className={styles.chapter}>
+      PSALM 20</h2>
+              <p>
+                  For the director of music. A psalm of David.
+                    1 May the Lord answer you when you are in distress;
+                        may the name of the God of Jacob protect you.
+                    2 May he send you help from the sanctuary
+                        and grant you support from Zion.
+                    3 May he remember all your sacrifices
+                        and accept your burnt offerings.[b]
+                    4 May he give you the desire of your heart
+                        and make all your plans succeed.
+                    5 May we shout for joy over your victory
+                        and lift up our banners in the name of our God.
+
+                    May the Lord grant all your requests.
+
+                    6 Now this I know:
+                        The Lord gives victory to his anointed.
+                    He answers him from his heavenly sanctuary
+                        with the victorious power of his right hand.
+                    7 Some trust in chariots and some in horses,
+                        but we trust in the name of the Lord our God.
+                    8 They are brought to their knees and fall,
+                        but we rise up and stand firm.
+                    9 Lord, give victory to the king!
+                        Answer us when we call!
+
+                  </p>
+  </div>
+        
+                
+                    <div className={styles.card}>
+            <h2 className={styles.chapter}>
+      PSALM 21</h2>
+              <p>
+        
+          For the director of music. A psalm of David.
+                  1 The king rejoices in your strength, Lord.
+                      How great is his joy in the victories you give!
+
+                  2 You have granted him his heart’s desire
+                      and have not withheld the request of his lips.[b]
+                  3 You came to greet him with rich blessings
+                      and placed a crown of pure gold on his head.
+                  4 He asked you for life, and you gave it to him—
+                      length of days, for ever and ever.
+                  5 Through the victories you gave, his glory is great;
+                      you have bestowed on him splendor and majesty.
+                  6 Surely you have granted him unending blessings
+                      and made him glad with the joy of your presence.
+                  7 For the king trusts in the Lord;
+                      through the unfailing love of the Most High
+
+                  he will not be shaken.
+
+                  8 Your hand will lay hold on all your enemies;
+                      your right hand will seize your foes.
+                  9 When you appear for battle,
+                      you will burn them up as in a blazing furnace.
+                  The Lord will swallow them up in his wrath,
+                      and his fire will consume them.
+                  10 You will destroy their descendants from the earth,
+                      their posterity from mankind.
+                  11 Though they plot evil against you
+                      and devise wicked schemes, they cannot succeed.
+                  12 You will make them turn their backs
+                      when you aim at them with drawn bow.
+
+                  13 Be exalted in your strength, Lord;
+                      we will sing and praise your might.
+
+
+
+                  </p>
+        </div>
+                
+                
 </div>
           </div>
 </main>
