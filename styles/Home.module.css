@@ -204,7 +204,6 @@
   color: white;
   position: sticky; 
   background-color: black;
-  background-image:url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
   opacity: 0.95;
   padding-top: 40px;
   z-index: 2;
@@ -289,7 +288,6 @@
 
 .grid {
     background-color: black;
-    background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
     color: white;
     display: flex;
     align-items: center;
