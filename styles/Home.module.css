@@ -94,6 +94,7 @@
 }
 .image {
     /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);*/
+    text-align: center;
     background-color: black;
     opacity: 0.5;
     margin-top: -50px;
@@ -101,6 +102,8 @@
     padding-right: 100px;
     display: grid;
     place-items: center;
+    align-items: center;
+    justify-content: center;
     max-height: 900px; 
     alig-items: center;
     opacity: 1;
