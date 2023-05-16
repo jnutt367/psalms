@@ -69,6 +69,9 @@
   position:relative;
   top: 10px;
 }
+.iframe {
+       width: 100%;
+}
 .fund {
    text-align: center;
     color: black;
@@ -461,6 +464,13 @@
         .grid {
         grid-template-columns: 200px 200px 200px;
         
+    }
+    .iframe {
+       width: 100%;
+          padding-left: 200px;
+        padding-right: 200px;
+        margin-left: 100px; 
+        margin-right: 100px;   
     }
 }
    
