@@ -64,7 +64,7 @@
   background-color:  black;
   min-height: 100vh;  
   padding: 4rem 0;  
-  max-width: 1200px;
+  max-width: 2000px;
   background-size: cover;
   position:relative;
   top: 10px;
@@ -96,6 +96,7 @@
     /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);*/
     background-color: black;
     opacity: 0.5;
+    max-width: 900px;
     margin-top: -50px;
     padding-left: 100px;
     padding-right: 100px;
