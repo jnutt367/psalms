@@ -8,7 +8,6 @@
 
 .container {
   background-color: black;
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
   width: 100%;
   display: grid;
   align-items: center;
@@ -20,7 +19,7 @@
 
 
 .holy {
-  backgroud-color: silver;
+  backgroud-color: black;
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
@@ -63,7 +62,6 @@
 */
 .main {
   background-color:  black;
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
   min-height: 100vh;  
   padding: 4rem 0;  
   max-width: 2000px;
@@ -95,7 +93,7 @@
     font-weight: 200;
 }
 .image {
-    background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
+    /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);*/
     background-color: black;
     opacity: 0.5;
     margin-top: -50px;
@@ -112,7 +110,6 @@
     font-family: fantasy, cursive, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .donate {
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   background-color:white;
   opacity: 0.8;
   color: black;
@@ -353,6 +350,7 @@
 .chapter {
     background-color: black;
     color: white;
+    opacity: 0.8;
     opacity: 1;
     position: sticky;
     z-index: 1;
