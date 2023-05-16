@@ -26,7 +26,7 @@ export default function Home() {
         
         <div  className={styles.image}>
        <Image
-                                src="/nicene-wordle.png"
+                                src="/19-wordle-psalms.jpeg"
                                 alt="psalm 119 gif"
                                 height={900}
                                 width={2000}
