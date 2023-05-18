@@ -1096,8 +1096,1155 @@ You exalted me above my foes;
                                     and I will dwell in the house of the Lord
                                         forever.
                                         </p>
-                    </div>                       
-                            
+                    </div>   
+                    
+
+                     <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 24</h2>
+                                      <p>
+                                          Of David. A psalm.
+                                        1 The earth is the Lord’s, and everything in it,
+                                            the world, and all who live in it;
+                                        2 for he founded it on the seas
+                                            and established it on the waters.
+
+                                        3 Who may ascend the mountain of the Lord?
+                                            Who may stand in his holy place?
+                                        4 The one who has clean hands and a pure heart,
+                                            who does not trust in an idol
+                                            or swear by a false god.[a]
+
+                                        5 They will receive blessing from the Lord
+                                            and vindication from God their Savior.
+                                        6 Such is the generation of those who seek him,
+                                            who seek your face, God of Jacob.[b][c]
+
+                                        7 Lift up your heads, you gates;
+                                            be lifted up, you ancient doors,
+                                            that the King of glory may come in.
+                                        8 Who is this King of glory?
+                                            The Lord strong and mighty,
+                                            the Lord mighty in battle.
+                                        9 Lift up your heads, you gates;
+                                            lift them up, you ancient doors,
+                                            that the King of glory may come in.
+                                        10 Who is he, this King of glory?
+                                            The Lord Almighty—
+                                            he is the King of glory.
+                                      </p>
+                              </div>      
+                                        
+                                         <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 25</h2>
+                                      <p>
+                                       Of David.
+                                        1 In you, Lord my God,
+                                            I put my trust.
+
+                                        2 I trust in you;
+                                            do not let me be put to shame,
+                                            nor let my enemies triumph over me.
+                                        3 No one who hopes in you
+                                            will ever be put to shame,
+                                        but shame will come on those
+                                            who are treacherous without cause.
+
+                                        4 Show me your ways, Lord,
+                                            teach me your paths.
+                                        5 Guide me in your truth and teach me,
+                                            for you are God my Savior,
+                                            and my hope is in you all day long.
+                                        6 Remember, Lord, your great mercy and love,
+                                            for they are from of old.
+                                        7 Do not remember the sins of my youth
+                                            and my rebellious ways;
+                                        according to your love remember me,
+                                            for you, Lord, are good.
+
+                                        8 Good and upright is the Lord;
+                                            therefore he instructs sinners in his ways.
+                                        9 He guides the humble in what is right
+                                            and teaches them his way.
+                                        10 All the ways of the Lord are loving and faithful
+                                            toward those who keep the demands of his covenant.
+                                        11 For the sake of your name, Lord,
+                                            forgive my iniquity, though it is great.
+
+                                        12 Who, then, are those who fear the Lord?
+                                            He will instruct them in the ways they should choose.[b]
+                                        13 They will spend their days in prosperity,
+                                            and their descendants will inherit the land.
+                                        14 The Lord confides in those who fear him;
+                                            he makes his covenant known to them.
+                                        15 My eyes are ever on the Lord,
+                                            for only he will release my feet from the snare.
+
+                                        16 Turn to me and be gracious to me,
+                                            for I am lonely and afflicted.
+                                        17 Relieve the troubles of my heart
+                                            and free me from my anguish.
+                                        18 Look on my affliction and my distress
+                                            and take away all my sins.
+                                        19 See how numerous are my enemies
+                                            and how fiercely they hate me!
+
+                                        20 Guard my life and rescue me;
+                                            do not let me be put to shame,
+                                            for I take refuge in you.
+                                        21 May integrity and uprightness protect me,
+                                            because my hope, Lord,[c] is in you.
+
+                                        22 Deliver Israel, O God,
+                                            from all their troubles!                                      </p>
+                              </div>  
+
+                                      <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 26</h2>
+                                      <p>
+                                        Of David.
+                                          1 Vindicate me, Lord,
+                                              for I have led a blameless life;
+                                          I have trusted in the Lord
+                                              and have not faltered.
+                                          2 Test me, Lord, and try me,
+                                              examine my heart and my mind;
+                                          3 for I have always been mindful of your unfailing love
+                                              and have lived in reliance on your faithfulness.
+
+                                          4 I do not sit with the deceitful,
+                                              nor do I associate with hypocrites.
+                                          5 I abhor the assembly of evildoers
+                                              and refuse to sit with the wicked.
+                                          6 I wash my hands in innocence,
+                                              and go about your altar, Lord,
+                                          7 proclaiming aloud your praise
+                                              and telling of all your wonderful deeds.
+
+                                          8 Lord, I love the house where you live,
+                                              the place where your glory dwells.
+                                          9 Do not take away my soul along with sinners,
+                                              my life with those who are bloodthirsty,
+                                          10 in whose hands are wicked schemes,
+                                              whose right hands are full of bribes.
+                                          11 I lead a blameless life;
+                                              deliver me and be merciful to me.
+
+                                          12 My feet stand on level ground;
+                                              in the great congregation I will praise the Lord.
+                                      </p>
+                              </div>      
+                              
+
+                                      <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 27</h2>
+                                      <p>
+                                       Of David.
+                                              1 The Lord is my light and my salvation—
+                                                  whom shall I fear?
+                                              The Lord is the stronghold of my life—
+                                                  of whom shall I be afraid?
+
+                                              2 When the wicked advance against me
+                                                  to devour[a] me,
+                                              it is my enemies and my foes
+                                                  who will stumble and fall.
+                                              3 Though an army besiege me,
+                                                  my heart will not fear;
+                                              though war break out against me,
+                                                  even then I will be confident.
+
+                                              4 One thing I ask from the Lord,
+                                                  this only do I seek:
+                                              that I may dwell in the house of the Lord
+                                                  all the days of my life,
+                                              to gaze on the beauty of the Lord
+                                                  and to seek him in his temple.
+                                              5 For in the day of trouble
+                                                  he will keep me safe in his dwelling;
+                                              he will hide me in the shelter of his sacred tent
+                                                  and set me high upon a rock.
+
+                                              6 Then my head will be exalted
+                                                  above the enemies who surround me;
+                                              at his sacred tent I will sacrifice with shouts of joy;
+                                                  I will sing and make music to the Lord.
+
+                                              7 Hear my voice when I call, Lord;
+                                                  be merciful to me and answer me.
+                                              8 My heart says of you, “Seek his face!”
+                                                  Your face, Lord, I will seek.
+                                              9 Do not hide your face from me,
+                                                  do not turn your servant away in anger;
+                                                  you have been my helper.
+                                              Do not reject me or forsake me,
+                                                  God my Savior.
+                                              10 Though my father and mother forsake me,
+                                                  the Lord will receive me.
+                                              11 Teach me your way, Lord;
+                                                  lead me in a straight path
+                                                  because of my oppressors.
+                                              12 Do not turn me over to the desire of my foes,
+                                                  for false witnesses rise up against me,
+                                                  spouting malicious accusations.
+
+                                              13 I remain confident of this:
+                                                  I will see the goodness of the Lord
+                                                  in the land of the living.
+                                              14 Wait for the Lord;
+                                                  be strong and take heart
+                                                  and wait for the Lord.                                     
+                                          </p>
+                              </div>      
+                    
+                                    <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 28</h2>
+                                      <p>
+                                       Of David.
+                                        1 To you, Lord, I call;
+                                            you are my Rock,
+                                            do not turn a deaf ear to me.
+                                        For if you remain silent,
+                                            I will be like those who go down to the pit.
+                                        2 Hear my cry for mercy
+                                            as I call to you for help,
+                                        as I lift up my hands
+                                            toward your Most Holy Place.
+
+                                        3 Do not drag me away with the wicked,
+                                            with those who do evil,
+                                        who speak cordially with their neighbors
+                                            but harbor malice in their hearts.
+                                        4 Repay them for their deeds
+                                            and for their evil work;
+                                        repay them for what their hands have done
+                                            and bring back on them what they deserve.
+
+                                        5 Because they have no regard for the deeds of the Lord
+                                            and what his hands have done,
+                                        he will tear them down
+                                            and never build them up again.
+
+                                        6 Praise be to the Lord,
+                                            for he has heard my cry for mercy.
+                                        7 The Lord is my strength and my shield;
+                                            my heart trusts in him, and he helps me.
+                                        My heart leaps for joy,
+                                            and with my song I praise him.
+
+                                        8 The Lord is the strength of his people,
+                                            a fortress of salvation for his anointed one.
+                                        9 Save your people and bless your inheritance;
+                                            be their shepherd and carry them forever.
+
+                                            </p>
+                              </div>  
+                              
+
+                                      <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 29</h2>
+                                      <p>
+                                       A psalm of David.
+                                            1 Ascribe to the Lord, you heavenly beings,
+                                                ascribe to the Lord glory and strength.
+                                            2 Ascribe to the Lord the glory due his name;
+                                                worship the Lord in the splendor of his[a] holiness.
+
+                                            3 The voice of the Lord is over the waters;
+                                                the God of glory thunders,
+                                                the Lord thunders over the mighty waters.
+                                            4 The voice of the Lord is powerful;
+                                                the voice of the Lord is majestic.
+                                            5 The voice of the Lord breaks the cedars;
+                                                the Lord breaks in pieces the cedars of Lebanon.
+                                            6 He makes Lebanon leap like a calf,
+                                                Sirion[b] like a young wild ox.
+                                            7 The voice of the Lord strikes
+                                                with flashes of lightning.
+                                            8 The voice of the Lord shakes the desert;
+                                                the Lord shakes the Desert of Kadesh.
+                                            9 The voice of the Lord twists the oaks[c]
+                                                and strips the forests bare.
+                                            And in his temple all cry, “Glory!”
+
+                                            10 The Lord sits enthroned over the flood;
+                                                the Lord is enthroned as King forever.
+                                            11 The Lord gives strength to his people;
+                                                the Lord blesses his people with peace
+                                      </p>
+                              </div>      
+
+
+                                      <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 30</h2>
+                                      <p>
+                                       A psalm. A song. For the dedication of the temple.[b] Of David.
+                                            1 I will exalt you, Lord,
+                                                for you lifted me out of the depths
+                                                and did not let my enemies gloat over me.
+                                            2 Lord my God, I called to you for help,
+                                                and you healed me.
+                                            3 You, Lord, brought me up from the realm of the dead;
+                                                you spared me from going down to the pit.
+
+                                            4 Sing the praises of the Lord, you his faithful people;
+                                                praise his holy name.
+                                            5 For his anger lasts only a moment,
+                                                but his favor lasts a lifetime;
+                                            weeping may stay for the night,
+                                                but rejoicing comes in the morning.
+
+                                            6 When I felt secure, I said,
+                                                “I will never be shaken.”
+                                            7 Lord, when you favored me,
+                                                you made my royal mountain[c] stand firm;
+                                            but when you hid your face,
+                                                I was dismayed.
+
+                                            8 To you, Lord, I called;
+                                                to the Lord I cried for mercy:
+                                            9 “What is gained if I am silenced,
+                                                if I go down to the pit?
+                                            Will the dust praise you?
+                                                Will it proclaim your faithfulness?
+                                            10 Hear, Lord, and be merciful to me;
+                                                Lord, be my help.”
+
+                                            11 You turned my wailing into dancing;
+                                                you removed my sackcloth and clothed me with joy,
+                                            12 that my heart may sing your praises and not be silent.
+                                                Lord my God, I will praise you forever.
+                                      </p>
+                              </div>   
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 31</h2>
+                                      <p>
+                                       For the director of music. A psalm of David.
+                                          1 In you, Lord, I have taken refuge;
+                                              let me never be put to shame;
+                                              deliver me in your righteousness.
+                                          2 Turn your ear to me,
+                                              come quickly to my rescue;
+                                          be my rock of refuge,
+                                              a strong fortress to save me.
+                                          3 Since you are my rock and my fortress,
+                                              for the sake of your name lead and guide me.
+                                          4 Keep me free from the trap that is set for me,
+                                              for you are my refuge.
+                                          5 Into your hands I commit my spirit;
+                                              deliver me, Lord, my faithful God.
+
+                                          6 I hate those who cling to worthless idols;
+                                              as for me, I trust in the Lord.
+                                          7 I will be glad and rejoice in your love,
+                                              for you saw my affliction
+                                              and knew the anguish of my soul.
+                                          8 You have not given me into the hands of the enemy
+                                              but have set my feet in a spacious place.
+
+                                          9 Be merciful to me, Lord, for I am in distress;
+                                              my eyes grow weak with sorrow,
+                                              my soul and body with grief.
+                                          10 My life is consumed by anguish
+                                              and my years by groaning;
+                                          my strength fails because of my affliction,[b]
+                                              and my bones grow weak.
+                                          11 Because of all my enemies,
+                                              I am the utter contempt of my neighbors
+                                          and an object of dread to my closest friends—
+                                              those who see me on the street flee from me.
+                                          12 I am forgotten as though I were dead;
+                                              I have become like broken pottery.
+                                          13 For I hear many whispering,
+                                              “Terror on every side!”
+                                          They conspire against me
+                                              and plot to take my life.
+
+                                          14 But I trust in you, Lord;
+                                              I say, “You are my God.”
+                                          15 My times are in your hands;
+                                              deliver me from the hands of my enemies,
+                                              from those who pursue me.
+                                          16 Let your face shine on your servant;
+                                              save me in your unfailing love.
+                                          17 Let me not be put to shame, Lord,
+                                              for I have cried out to you;
+                                          but let the wicked be put to shame
+                                              and be silent in the realm of the dead.
+                                          18 Let their lying lips be silenced,
+                                              for with pride and contempt
+                                              they speak arrogantly against the righteous.
+
+                                          19 How abundant are the good things
+                                              that you have stored up for those who fear you,
+                                          that you bestow in the sight of all,
+                                              on those who take refuge in you.
+                                          20 In the shelter of your presence you hide them
+                                              from all human intrigues;
+                                          you keep them safe in your dwelling
+                                              from accusing tongues.
+
+                                          21 Praise be to the Lord,
+                                              for he showed me the wonders of his love
+                                              when I was in a city under siege.
+                                          22 In my alarm I said,
+                                              “I am cut off from your sight!”
+                                          Yet you heard my cry for mercy
+                                              when I called to you for help.
+
+                                          23 Love the Lord, all his faithful people!
+                                              The Lord preserves those who are true to him,
+                                              but the proud he pays back in full.
+                                          24 Be strong and take heart,
+                                              all you who hope in the Lord.
+                                      </p>
+                              </div>      
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 32</h2>
+                                      <p>
+                                       Of David. A maskil.[a]
+                                        1 Blessed is the one
+                                            whose transgressions are forgiven,
+                                            whose sins are covered.
+                                        2 Blessed is the one
+                                            whose sin the Lord does not count against them
+                                            and in whose spirit is no deceit.
+
+                                        3 When I kept silent,
+                                            my bones wasted away
+                                            through my groaning all day long.
+                                        4 For day and night
+                                            your hand was heavy on me;
+                                        my strength was sapped
+                                            as in the heat of summer.[b]
+
+                                        5 Then I acknowledged my sin to you
+                                            and did not cover up my iniquity.
+                                        I said, “I will confess
+                                            my transgressions to the Lord.”
+                                        And you forgave
+                                            the guilt of my sin.
+
+                                        6 Therefore let all the faithful pray to you
+                                            while you may be found;
+                                        surely the rising of the mighty waters
+                                            will not reach them.
+                                        7 You are my hiding place;
+                                            you will protect me from trouble
+                                            and surround me with songs of deliverance.
+
+                                        8 I will instruct you and teach you in the way you should go;
+                                            I will counsel you with my loving eye on you.
+                                        9 Do not be like the horse or the mule,
+                                            which have no understanding
+                                        but must be controlled by bit and bridle
+                                            or they will not come to you.
+                                        10 Many are the woes of the wicked,
+                                            but the Lord’s unfailing love
+                                            surrounds the one who trusts in him.
+
+                                        11 Rejoice in the Lord and be glad, you righteous;
+                                            sing, all you who are upright in heart!                                   
+
+                                              </p>
+                              </div>      
+
+                              <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 33</h2>
+                                                                                  <p>
+                                              1 Sing joyfully to the Lord, you righteous;
+                                                it is fitting for the upright to praise him.
+                                            2 Praise the Lord with the harp;
+                                                make music to him on the ten-stringed lyre.
+                                            3 Sing to him a new song;
+                                                play skillfully, and shout for joy.
+
+                                            4 For the word of the Lord is right and true;
+                                                he is faithful in all he does.
+                                            5 The Lord loves righteousness and justice;
+                                                the earth is full of his unfailing love.
+
+                                            6 By the word of the Lord the heavens were made,
+                                                their starry host by the breath of his mouth.
+                                            7 He gathers the waters of the sea into jars[a];
+                                                he puts the deep into storehouses.
+                                            8 Let all the earth fear the Lord;
+                                                let all the people of the world revere him.
+                                            9 For he spoke, and it came to be;
+                                                he commanded, and it stood firm.
+
+                                            10 The Lord foils the plans of the nations;
+                                                he thwarts the purposes of the peoples.
+                                            11 But the plans of the Lord stand firm forever,
+                                                the purposes of his heart through all generations.
+
+                                            12 Blessed is the nation whose God is the Lord,
+                                                the people he chose for his inheritance.
+                                            13 From heaven the Lord looks down
+                                                and sees all mankind;
+                                            14 from his dwelling place he watches
+                                                all who live on earth—
+                                            15 he who forms the hearts of all,
+                                                who considers everything they do.
+
+                                            16 No king is saved by the size of his army;
+                                                no warrior escapes by his great strength.
+                                            17 A horse is a vain hope for deliverance;
+                                                despite all its great strength it cannot save.
+                                            18 But the eyes of the Lord are on those who fear him,
+                                                on those whose hope is in his unfailing love,
+                                            19 to deliver them from death
+                                                and keep them alive in famine.
+
+                                            20 We wait in hope for the Lord;
+                                                he is our help and our shield.
+                                            21 In him our hearts rejoice,
+                                                for we trust in his holy name.
+                                            22 May your unfailing love be with us, Lord,
+                                                even as we put our hope in you.  
+                                      </p>
+                              </div> 
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 34</h2>
+                                      <p>
+                                       Of David. When he pretended to be insane before Abimelek, who drove him away, and he left.
+                                              1 I will extol the Lord at all times;
+                                                  his praise will always be on my lips.
+                                              2 I will glory in the Lord;
+                                                  let the afflicted hear and rejoice.
+                                              3 Glorify the Lord with me;
+                                                  let us exalt his name together.
+
+                                              4 I sought the Lord, and he answered me;
+                                                  he delivered me from all my fears.
+                                              5 Those who look to him are radiant;
+                                                  their faces are never covered with shame.
+                                              6 This poor man called, and the Lord heard him;
+                                                  he saved him out of all his troubles.
+                                              7 The angel of the Lord encamps around those who fear him,
+                                                  and he delivers them.
+
+                                              8 Taste and see that the Lord is good;
+                                                  blessed is the one who takes refuge in him.
+                                              9 Fear the Lord, you his holy people,
+                                                  for those who fear him lack nothing.
+                                              10 The lions may grow weak and hungry,
+                                                  but those who seek the Lord lack no good thing.
+                                              11 Come, my children, listen to me;
+                                                  I will teach you the fear of the Lord.
+                                              12 Whoever of you loves life
+                                                  and desires to see many good days,
+                                              13 keep your tongue from evil
+                                                  and your lips from telling lies.
+                                              14 Turn from evil and do good;
+                                                  seek peace and pursue it.
+
+                                              15 The eyes of the Lord are on the righteous,
+                                                  and his ears are attentive to their cry;
+                                              16 but the face of the Lord is against those who do evil,
+                                                  to blot out their name from the earth.
+
+                                              17 The righteous cry out, and the Lord hears them;
+                                                  he delivers them from all their troubles.
+                                              18 The Lord is close to the brokenhearted
+                                                  and saves those who are crushed in spirit.
+
+                                              19 The righteous person may have many troubles,
+                                                  but the Lord delivers him from them all;
+                                              20 he protects all his bones,
+                                                  not one of them will be broken.
+
+                                              21 Evil will slay the wicked;
+                                                  the foes of the righteous will be condemned.
+                                              22 The Lord will rescue his servants;
+                                                  no one who takes refuge in him will be condemned.
+                                      </p>
+                              </div>      
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 35</h2>
+                                      <p>
+                                       Of David.
+                                          1 Contend, Lord, with those who contend with me;
+                                              fight against those who fight against me.
+                                          2 Take up shield and armor;
+                                              arise and come to my aid.
+                                          3 Brandish spear and javelin[a]
+                                              against those who pursue me.
+                                          Say to me,
+                                              “I am your salvation.”
+
+                                          4 May those who seek my life
+                                              be disgraced and put to shame;
+                                          may those who plot my ruin
+                                              be turned back in dismay.
+                                          5 May they be like chaff before the wind,
+                                              with the angel of the Lord driving them away;
+                                          6 may their path be dark and slippery,
+                                              with the angel of the Lord pursuing them.
+
+                                          7 Since they hid their net for me without cause
+                                              and without cause dug a pit for me,
+                                          8 may ruin overtake them by surprise—
+                                              may the net they hid entangle them,
+                                              may they fall into the pit, to their ruin.
+                                          9 Then my soul will rejoice in the Lord
+                                              and delight in his salvation.
+                                          10 My whole being will exclaim,
+                                              “Who is like you, Lord?
+                                          You rescue the poor from those too strong for them,
+                                              the poor and needy from those who rob them.”
+
+                                          11 Ruthless witnesses come forward;
+                                              they question me on things I know nothing about.
+                                          12 They repay me evil for good
+                                              and leave me like one bereaved.
+                                          13 Yet when they were ill, I put on sackcloth
+                                              and humbled myself with fasting.
+                                          When my prayers returned to me unanswered,
+                                          14     I went about mourning
+                                              as though for my friend or brother.
+                                          I bowed my head in grief
+                                              as though weeping for my mother.
+                                          15 But when I stumbled, they gathered in glee;
+                                              assailants gathered against me without my knowledge.
+                                              They slandered me without ceasing.
+                                          16 Like the ungodly they maliciously mocked;[b]
+                                              they gnashed their teeth at me.
+
+                                          17 How long, Lord, will you look on?
+                                              Rescue me from their ravages,
+                                              my precious life from these lions.
+                                          18 I will give you thanks in the great assembly;
+                                              among the throngs I will praise you.
+                                          19 Do not let those gloat over me
+                                              who are my enemies without cause;
+                                          do not let those who hate me without reason
+                                              maliciously wink the eye.
+                                          20 They do not speak peaceably,
+                                              but devise false accusations
+                                              against those who live quietly in the land.
+                                          21 They sneer at me and say, “Aha! Aha!
+                                              With our own eyes we have seen it.”
+
+                                          22 Lord, you have seen this; do not be silent.
+                                              Do not be far from me, Lord.
+                                          23 Awake, and rise to my defense!
+                                              Contend for me, my God and Lord.
+                                          24 Vindicate me in your righteousness, Lord my God;
+                                              do not let them gloat over me.
+                                          25 Do not let them think, “Aha, just what we wanted!”
+                                              or say, “We have swallowed him up.”
+
+                                          26 May all who gloat over my distress
+                                              be put to shame and confusion;
+                                          may all who exalt themselves over me
+                                              be clothed with shame and disgrace.
+                                          27 May those who delight in my vindication
+                                              shout for joy and gladness;
+                                          may they always say, “The Lord be exalted,
+                                              who delights in the well-being of his servant.”
+
+                                          28 My tongue will proclaim your righteousness,
+                                              your praises all day long.
+                                      </p>
+                              </div>      
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 36</h2>
+                                      <p>
+                                       For the director of music. Of David the servant of the Lord.
+                                            1 I have a message from God in my heart
+                                                concerning the sinfulness of the wicked:[b]
+                                            There is no fear of God
+                                                before their eyes.
+
+                                            2 In their own eyes they flatter themselves
+                                                too much to detect or hate their sin.
+                                            3 The words of their mouths are wicked and deceitful;
+                                                they fail to act wisely or do good.
+                                            4 Even on their beds they plot evil;
+                                                they commit themselves to a sinful course
+                                                and do not reject what is wrong.
+
+                                            5 Your love, Lord, reaches to the heavens,
+                                                your faithfulness to the skies.
+                                            6 Your righteousness is like the highest mountains,
+                                                your justice like the great deep.
+                                                You, Lord, preserve both people and animals.
+                                            7 How priceless is your unfailing love, O God!
+                                                People take refuge in the shadow of your wings.
+                                            8 They feast on the abundance of your house;
+                                                you give them drink from your river of delights.
+                                            9 For with you is the fountain of life;
+                                                in your light we see light.
+
+                                            10 Continue your love to those who know you,
+                                                your righteousness to the upright in heart.
+                                            11 May the foot of the proud not come against me,
+                                                nor the hand of the wicked drive me away.
+                                            12 See how the evildoers lie fallen—
+                                                thrown down, not able to rise!
+                                      </p>
+                              </div>      
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 37</h2>
+                                      <p>
+                                       Of David.
+                                            1 Do not fret because of those who are evil
+                                                or be envious of those who do wrong;
+                                            2 for like the grass they will soon wither,
+                                                like green plants they will soon die away.
+
+                                            3 Trust in the Lord and do good;
+                                                dwell in the land and enjoy safe pasture.
+                                            4 Take delight in the Lord,
+                                                and he will give you the desires of your heart.
+
+                                            5 Commit your way to the Lord;
+                                                trust in him and he will do this:
+                                            6 He will make your righteous reward shine like the dawn,
+                                                your vindication like the noonday sun.
+
+                                            7 Be still before the Lord
+                                                and wait patiently for him;
+                                            do not fret when people succeed in their ways,
+                                                when they carry out their wicked schemes.
+
+                                            8 Refrain from anger and turn from wrath;
+                                                do not fret—it leads only to evil.
+                                            9 For those who are evil will be destroyed,
+                                                but those who hope in the Lord will inherit the land.
+
+                                            10 A little while, and the wicked will be no more;
+                                                though you look for them, they will not be found.
+                                            11 But the meek will inherit the land
+                                                and enjoy peace and prosperity.
+
+                                            12 The wicked plot against the righteous
+                                                and gnash their teeth at them;
+                                            13 but the Lord laughs at the wicked,
+                                                for he knows their day is coming.
+
+                                            14 The wicked draw the sword
+                                                and bend the bow
+                                            to bring down the poor and needy,
+                                                to slay those whose ways are upright.
+                                            15 But their swords will pierce their own hearts,
+                                                and their bows will be broken.
+
+                                            16 Better the little that the righteous have
+                                                than the wealth of many wicked;
+                                            17 for the power of the wicked will be broken,
+                                                but the Lord upholds the righteous.
+
+                                            18 The blameless spend their days under the Lord’s care,
+                                                and their inheritance will endure forever.
+                                            19 In times of disaster they will not wither;
+                                                in days of famine they will enjoy plenty.
+
+                                            20 But the wicked will perish:
+                                                Though the Lord’s enemies are like the flowers of the field,
+                                                they will be consumed, they will go up in smoke.
+
+                                            21 The wicked borrow and do not repay,
+                                                but the righteous give generously;
+                                            22 those the Lord blesses will inherit the land,
+                                                but those he curses will be destroyed.
+
+                                            23 The Lord makes firm the steps
+                                                of the one who delights in him;
+                                            24 though he may stumble, he will not fall,
+                                                for the Lord upholds him with his hand.
+
+                                            25 I was young and now I am old,
+                                                yet I have never seen the righteous forsaken
+                                                or their children begging bread.
+                                            26 They are always generous and lend freely;
+                                                their children will be a blessing.[b]
+
+                                            27 Turn from evil and do good;
+                                                then you will dwell in the land forever.
+                                            28 For the Lord loves the just
+                                                and will not forsake his faithful ones.
+
+                                            Wrongdoers will be completely destroyed[c];
+                                                the offspring of the wicked will perish.
+                                            29 The righteous will inherit the land
+                                                and dwell in it forever.
+
+                                            30 The mouths of the righteous utter wisdom,
+                                                and their tongues speak what is just.
+                                            31 The law of their God is in their hearts;
+                                                their feet do not slip.
+
+                                            32 The wicked lie in wait for the righteous,
+                                                intent on putting them to death;
+                                            33 but the Lord will not leave them in the power of the wicked
+                                                or let them be condemned when brought to trial.
+
+                                            34 Hope in the Lord
+                                                and keep his way.
+                                            He will exalt you to inherit the land;
+                                                when the wicked are destroyed, you will see it.
+
+                                            35 I have seen a wicked and ruthless man
+                                                flourishing like a luxuriant native tree,
+                                            36 but he soon passed away and was no more;
+                                                though I looked for him, he could not be found.
+
+                                            37 Consider the blameless, observe the upright;
+                                                a future awaits those who seek peace.[d]
+                                            38 But all sinners will be destroyed;
+                                                there will be no future[e] for the wicked.
+
+                                            39 The salvation of the righteous comes from the Lord;
+                                                he is their stronghold in time of trouble.
+                                            40 The Lord helps them and delivers them;
+                                                he delivers them from the wicked and saves them,
+                                                because they take refuge in him.
+                                      </p>
+                              </div> 
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 38</h2>
+                                      <p>
+                                       A psalm of David. A petition.
+                                          1 Lord, do not rebuke me in your anger
+                                              or discipline me in your wrath.
+                                          2 Your arrows have pierced me,
+                                              and your hand has come down on me.
+                                          3 Because of your wrath there is no health in my body;
+                                              there is no soundness in my bones because of my sin.
+                                          4 My guilt has overwhelmed me
+                                              like a burden too heavy to bear.
+
+                                          5 My wounds fester and are loathsome
+                                              because of my sinful folly.
+                                          6 I am bowed down and brought very low;
+                                              all day long I go about mourning.
+                                          7 My back is filled with searing pain;
+                                              there is no health in my body.
+                                          8 I am feeble and utterly crushed;
+                                              I groan in anguish of heart.
+
+                                          9 All my longings lie open before you, Lord;
+                                              my sighing is not hidden from you.
+                                          10 My heart pounds, my strength fails me;
+                                              even the light has gone from my eyes.
+                                          11 My friends and companions avoid me because of my wounds;
+                                              my neighbors stay far away.
+                                          12 Those who want to kill me set their traps,
+                                              those who would harm me talk of my ruin;
+                                              all day long they scheme and lie.
+
+                                          13 I am like the deaf, who cannot hear,
+                                              like the mute, who cannot speak;
+                                          14 I have become like one who does not hear,
+                                              whose mouth can offer no reply.
+                                          15 Lord, I wait for you;
+                                              you will answer, Lord my God.
+                                          16 For I said, “Do not let them gloat
+                                              or exalt themselves over me when my feet slip.”
+
+                                          17 For I am about to fall,
+                                              and my pain is ever with me.
+                                          18 I confess my iniquity;
+                                              I am troubled by my sin.
+                                          19 Many have become my enemies without cause[b];
+                                              those who hate me without reason are numerous.
+                                          20 Those who repay my good with evil
+                                              lodge accusations against me,
+                                              though I seek only to do what is good.
+
+                                          21 Lord, do not forsake me;
+                                              do not be far from me, my God.
+                                          22 Come quickly to help me,
+                                              my Lord and my Savior.
+
+
+                                      </p>
+                              </div>      
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 39</h2>
+                                      <p>
+                                       For the director of music. For Jeduthun. A psalm of David.
+                                            1 I said, “I will watch my ways
+                                                and keep my tongue from sin;
+                                            I will put a muzzle on my mouth
+                                                while in the presence of the wicked.”
+                                            2 So I remained utterly silent,
+                                                not even saying anything good.
+                                            But my anguish increased;
+                                            3     my heart grew hot within me.
+                                            While I meditated, the fire burned;
+                                                then I spoke with my tongue:
+
+                                            4 “Show me, Lord, my life’s end
+                                                and the number of my days;
+                                                let me know how fleeting my life is.
+                                            5 You have made my days a mere handbreadth;
+                                                the span of my years is as nothing before you.
+                                            Everyone is but a breath,
+                                                even those who seem secure.[b]
+
+                                            6 “Surely everyone goes around like a mere phantom;
+                                                in vain they rush about, heaping up wealth
+                                                without knowing whose it will finally be.
+
+                                            7 “But now, Lord, what do I look for?
+                                                My hope is in you.
+                                            8 Save me from all my transgressions;
+                                                do not make me the scorn of fools.
+                                            9 I was silent; I would not open my mouth,
+                                                for you are the one who has done this.
+                                            10 Remove your scourge from me;
+                                                I am overcome by the blow of your hand.
+                                            11 When you rebuke and discipline anyone for their sin,
+                                                you consume their wealth like a moth—
+                                                surely everyone is but a breath.
+
+                                            12 “Hear my prayer, Lord,
+                                                listen to my cry for help;
+                                                do not be deaf to my weeping.
+                                            I dwell with you as a foreigner,
+                                                a stranger, as all my ancestors were.
+                                            13 Look away from me, that I may enjoy life again
+                                                before I depart and am no more.”             
+                                      </p>
+                              </div>      
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 40</h2>
+                                      <p>
+                                            For the director of music. Of David. A psalm.
+                                            1 I waited patiently for the Lord;
+                                                he turned to me and heard my cry.
+                                            2 He lifted me out of the slimy pit,
+                                                out of the mud and mire;
+                                            he set my feet on a rock
+                                                and gave me a firm place to stand.
+                                            3 He put a new song in my mouth,
+                                                a hymn of praise to our God.
+                                            Many will see and fear the Lord
+                                                and put their trust in him.
+
+                                            4 Blessed is the one
+                                                who trusts in the Lord,
+                                            who does not look to the proud,
+                                                to those who turn aside to false gods.[b]
+                                            5 Many, Lord my God,
+                                                are the wonders you have done,
+                                                the things you planned for us.
+                                            None can compare with you;
+                                                were I to speak and tell of your deeds,
+                                                they would be too many to declare.
+
+                                            6 Sacrifice and offering you did not desire—
+                                                but my ears you have opened[c]—
+                                                burnt offerings and sin offerings[d] you did not require.
+                                            7 Then I said, “Here I am, I have come—
+                                                it is written about me in the scroll.[e]
+                                            8 I desire to do your will, my God;
+                                                your law is within my heart.”
+
+                                            9 I proclaim your saving acts in the great assembly;
+                                                I do not seal my lips, Lord,
+                                                as you know.
+                                            10 I do not hide your righteousness in my heart;
+                                                I speak of your faithfulness and your saving help.
+                                            I do not conceal your love and your faithfulness
+                                                from the great assembly.
+
+                                            11 Do not withhold your mercy from me, Lord;
+                                                may your love and faithfulness always protect me.
+                                            12 For troubles without number surround me;
+                                                my sins have overtaken me, and I cannot see.
+                                            They are more than the hairs of my head,
+                                                and my heart fails within me.
+                                            13 Be pleased to save me, Lord;
+                                                come quickly, Lord, to help me.
+
+                                            14 May all who want to take my life
+                                                be put to shame and confusion;
+                                            may all who desire my ruin
+                                                be turned back in disgrace.
+                                            15 May those who say to me, “Aha! Aha!”
+                                                be appalled at their own shame.
+                                            16 But may all who seek you
+                                                rejoice and be glad in you;
+                                            may those who long for your saving help always say,
+                                                “The Lord is great!”
+
+                                            17 But as for me, I am poor and needy;
+                                                may the Lord think of me.
+                                            You are my help and my deliverer;
+                                                you are my God, do not delay.
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 41</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>    
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 42</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 43</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                                      <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 44</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 45</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>    
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 46</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 47</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                                      <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 48</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 49</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>    
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 50</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 51</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                              <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 52</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 53</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                             <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 54</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 55</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                              <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 56</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 57</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                             <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 58</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 59</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                              <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 60</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 61</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+                              
 </div>
           </div>
 </main>
