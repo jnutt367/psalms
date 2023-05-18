@@ -81,89 +81,92 @@ export default function Home() {
         <div className={styles.card}>
             <h2 className={styles.chapter}>PSALM 1 &darr;</h2>
             <p>( A Psalm of David )
-Blessed is the one
-    who does not walk in step with the wicked
-or stand in the way that sinners take
-    or sit in the company of mockers,
- but whose delight is in the law of the Lord,
-    and who meditates on his law day and night.
- That person is like a tree planted by streams of water,
-    which yields its fruit in season
-and whose leaf does not wither—
-    whatever they do prospers.
-    Not so the wicked!
-    They are like chaff
-    that the wind blows away.
-    Therefore the wicked will not stand in the judgment,
-    nor sinners in the assembly of the righteous.
-    For the Lord watches over the way of the righteous,
-    but the way of the wicked leads to destruction.</p>
+                          Blessed is the one
+                              who does not walk in step with the wicked
+                          or stand in the way that sinners take
+                              or sit in the company of mockers,
+                           but whose delight is in the law of the Lord,
+                              and who meditates on his law day and night.
+                           That person is like a tree planted by streams of water,
+                              which yields its fruit in season
+                          and whose leaf does not wither—
+                              whatever they do prospers.
+                              Not so the wicked!
+                              They are like chaff
+                              that the wind blows away.
+                              Therefore the wicked will not stand in the judgment,
+                              nor sinners in the assembly of the righteous.
+                              For the Lord watches over the way of the righteous,
+                              but the way of the wicked leads to destruction.
+                      </p>
               </div>
 
 <div className={styles.card}>
             <h2 className={styles.chapter}>PSALM 2 &darr;</h2>
-            <p>( A Psalm of David )
- Why do the nations conspire[a]
-    and the peoples plot in vain?
- The kings of the earth rise up
-    and the rulers band together
-    against the Lord and against his anointed, saying,
- “Let us break their chains
-    and throw off their shackles.”
+                  <p>
+                                        ( A Psalm of David )
+                           Why do the nations conspire[a]
+                              and the peoples plot in vain?
+                           The kings of the earth rise up
+                              and the rulers band together
+                              against the Lord and against his anointed, saying,
+                           “Let us break their chains
+                              and throw off their shackles.”
 
- The One enthroned in heaven laughs;
-    the Lord scoffs at them.
- He rebukes them in his anger
-    and terrifies them in his wrath, saying,
- “I have installed my king
-    on Zion, my holy mountain.”
+                           The One enthroned in heaven laughs;
+                              the Lord scoffs at them.
+                           He rebukes them in his anger
+                              and terrifies them in his wrath, saying,
+                           “I have installed my king
+                              on Zion, my holy mountain.”
 
- I will proclaim the Lord’s decree:
+                           I will proclaim the Lord’s decree:
 
-He said to me, “You are my son;
-    today I have become your father.
- Ask me,
-    and I will make the nations your inheritance,
-    the ends of the earth your possession.
- You will break them with a rod of iron;
-    you will dash them to pieces like pottery.”
+                          He said to me, “You are my son;
+                              today I have become your father.
+                           Ask me,
+                              and I will make the nations your inheritance,
+                              the ends of the earth your possession.
+                           You will break them with a rod of iron;
+                              you will dash them to pieces like pottery.”
 
- Therefore, you kings, be wise;
-    be warned, you rulers of the earth.
- Serve the Lord with fear
-    and celebrate his rule with trembling.
- Kiss his son, or he will be angry
-    and your way will lead to your destruction,
-for his wrath can flare up in a moment.
-    Blessed are all who take refuge in him.            </p>
+                           Therefore, you kings, be wise;
+                              be warned, you rulers of the earth.
+                           Serve the Lord with fear
+                              and celebrate his rule with trembling.
+                           Kiss his son, or he will be angry
+                              and your way will lead to your destruction,
+                          for his wrath can flare up in a moment.
+                              Blessed are all who take refuge in him.           
+                  </p>
               </div>
 
 <div className={styles.card}>
             <h2 className={styles.chapter}>PSALM 3 &darr;</h2>
             <p>( A Psalm of David )
-(when he fled from his son Absolam)
-Lord, how many are my foes!
-    How many rise up against me!
- Many are saying of me,
-    “God will not deliver him.”
+                            (when he fled from his son Absolam)
+                            Lord, how many are my foes!
+                                How many rise up against me!
+                             Many are saying of me,
+                                “God will not deliver him.”
 
- But you, Lord, are a shield around me,
-    my glory, the One who lifts my head high.
- I call out to the Lord,
-    and he answers me from his holy mountain.
+                             But you, Lord, are a shield around me,
+                                my glory, the One who lifts my head high.
+                             I call out to the Lord,
+                                and he answers me from his holy mountain.
 
- I lie down and sleep;
-    I wake again, because the Lord sustains me.
- I will not fear though tens of thousands
-    assail me on every side.
+                             I lie down and sleep;
+                                I wake again, because the Lord sustains me.
+                             I will not fear though tens of thousands
+                                assail me on every side.
 
- Arise, Lord!
-    Deliver me, my God!
-Strike all my enemies on the jaw;
-    break the teeth of the wicked.
+                             Arise, Lord!
+                                Deliver me, my God!
+                            Strike all my enemies on the jaw;
+                                break the teeth of the wicked.
 
- From the Lord comes deliverance.
-    May your blessing be on your people.
+                             From the Lord comes deliverance.
+                                May your blessing be on your people.
 
              </p>
               </div>
@@ -171,30 +174,30 @@ Strike all my enemies on the jaw;
 <div className={styles.card}>
             <h2 className={styles.chapter}>PSALM 4 &darr;</h2>
             <p>( A Psalm of David )
-                For the director of music. With stringed instruments. A psalm of David.
-                Answer me when I call to you,
-    my righteous God.
-Give me relief from my distress;
-    have mercy on me and hear my prayer.
+                                            For the director of music. With stringed instruments. A psalm of David.
+                                            Answer me when I call to you,
+                                my righteous God.
+                            Give me relief from my distress;
+                                have mercy on me and hear my prayer.
 
- How long will you people turn my glory into shame?
-    How long will you love delusions and seek false gods?
- Know that the Lord has set apart his faithful servant for himself;
-    the Lord hears when I call to him.
- Tremble and do not sin;
-    when you are on your beds,
-    search your hearts and be silent.
- Offer the sacrifices of the righteous
-    and trust in the Lord.
+                             How long will you people turn my glory into shame?
+                                How long will you love delusions and seek false gods?
+                             Know that the Lord has set apart his faithful servant for himself;
+                                the Lord hears when I call to him.
+                             Tremble and do not sin;
+                                when you are on your beds,
+                                search your hearts and be silent.
+                             Offer the sacrifices of the righteous
+                                and trust in the Lord.
 
- Many, Lord, are asking, “Who will bring us prosperity?”
-    Let the light of your face shine on us.
- Fill my heart with joy
-    when their grain and new wine abound.
+                             Many, Lord, are asking, “Who will bring us prosperity?”
+                                Let the light of your face shine on us.
+                             Fill my heart with joy
+                                when their grain and new wine abound.
 
- In peace I will lie down and sleep,
-    for you alone, Lord,
-    make me dwell in safety.
+                             In peace I will lie down and sleep,
+                                for you alone, Lord,
+                                make me dwell in safety.
             </p>
             </div>
 
@@ -2244,7 +2247,714 @@ You exalted me above my foes;
                                        
                                       </p>
                               </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 62</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 63</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>  
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 64</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 65</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 66</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 67</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 68</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 69</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 70</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 71</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 72</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 73</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>  
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 74</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 75</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 76</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 77</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 78</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 79</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                             <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 80</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 81</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 82</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 83</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>  
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 84</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 85</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 86</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 87</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 88</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 89</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 90</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 91</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 92</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 93</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>  
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 94</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 95</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 96</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 97</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 98</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 99</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
                               
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 100</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 101</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 102</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 103</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>  
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 104</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 105</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 106</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 107</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 108</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 109</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 110</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 111</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 112</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 113</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>  
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 114</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 115</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 116</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 117</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 118</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 119</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 120</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 121</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 122</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 123</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>  
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 124</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 125</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 126</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 127</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 128</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 129</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                               <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 130</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 131</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 132</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 133</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>  
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 134</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 135</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 136</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 137</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 138</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 139</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                             <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 140</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 141</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 142</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 143</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>  
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 144</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 145</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+
+                                <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 146</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 147</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                            <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 148</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 149</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
+
+                                 <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 150</h2>
+                                      <p>
+                                       
+                                      </p>
+                              </div>   
 </div>
           </div>
 </main>
