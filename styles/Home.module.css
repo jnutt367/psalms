@@ -140,7 +140,6 @@
     align-items: center;
 }
 .hero {
-  max-height: 450px; 
   max-width: 1350px;
   position:relative;
   top: -105px;
