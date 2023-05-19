@@ -7786,7 +7786,15 @@ You exalted me above my foes;
 
 
           </div>
-<div  className={styles.image}>
+
+ <p className={styles.publisher}> 
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </p>
+
+
+</main>
+       
+     <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
                                 alt="me in the workshop reading the bible"
@@ -7795,14 +7803,6 @@ You exalted me above my foes;
                                 priority
                               />
            </div>
- <p className={styles.publisher}> 
-        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
-        </p>
-
-
-</main>
-       
-     
 
       <footer className={styles.footer}>
         <a
