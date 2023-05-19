@@ -2867,13 +2867,6 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 57</h2>
                                       <p>
-                                       
-                                      </p>
-                              </div>   
-
-                             <div className={styles.card}>
-                              <h2 className={styles.chapter}>PSALM 58</h2>
-                                      <p>
                                        For the director of music. To the tune of “Do Not Destroy.” Of David. A miktam. When he had fled from Saul into the cave.
                                             1 Have mercy on me, my God, have mercy on me,
                                                 for in you I take refuge.
@@ -2913,6 +2906,40 @@ You exalted me above my foes;
 
                                             11 Be exalted, O God, above the heavens;
                                                 let your glory be over all the earth.
+                                      </p>
+                              </div>   
+
+                             <div className={styles.card}>
+                              <h2 className={styles.chapter}>PSALM 58</h2>
+                                      <p>
+                                       For the director of music. To the tune of “Do Not Destroy.” Of David. A miktam.
+                                          1 Do you rulers indeed speak justly?
+                                              Do you judge people with equity?
+                                          2 No, in your heart you devise injustice,
+                                              and your hands mete out violence on the earth.
+
+                                          3 Even from birth the wicked go astray;
+                                              from the womb they are wayward, spreading lies.
+                                          4 Their venom is like the venom of a snake,
+                                              like that of a cobra that has stopped its ears,
+                                          5 that will not heed the tune of the charmer,
+                                              however skillful the enchanter may be.
+
+                                          6 Break the teeth in their mouths, O God;
+                                              Lord, tear out the fangs of those lions!
+                                          7 Let them vanish like water that flows away;
+                                              when they draw the bow, let their arrows fall short.
+                                          8 May they be like a slug that melts away as it moves along,
+                                              like a stillborn child that never sees the sun.
+
+                                          9 Before your pots can feel the heat of the thorns—
+                                              whether they be green or dry—the wicked will be swept away.
+                                          10 The righteous will be glad when they are avenged,
+                                              when they dip their feet in the blood of the wicked.
+                                          11 Then people will say,
+                                              “Surely the righteous still are rewarded;
+                                              surely there is a God who judges the earth.”                                     
+                                            
                                       </p>
                               </div>   
 
