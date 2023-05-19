@@ -418,7 +418,7 @@
 .publisher {
     font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
     color: white;
-    margin-left: 2rem;
+    text-align: center;
 }
 
 @media (max-width: 600px) {
