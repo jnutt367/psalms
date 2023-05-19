@@ -7794,7 +7794,7 @@ You exalted me above my foes;
 
 </main>
        
-     <div  className={styles.image}>
+     <div>
        <Image 
                                 src="/workshop.png"
                                 alt="me in the workshop reading the bible"
