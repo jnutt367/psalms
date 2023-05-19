@@ -2094,14 +2094,97 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 41</h2>
                                       <p>
-                                       
+                                       For the director of music. A psalm of David.
+                                      1 Blessed are those who have regard for the weak;
+                                          the Lord delivers them in times of trouble.
+                                      2 The Lord protects and preserves them—
+                                          they are counted among the blessed in the land—
+                                          he does not give them over to the desire of their foes.
+                                      3 The Lord sustains them on their sickbed
+                                          and restores them from their bed of illness.
+
+                                      4 I said, “Have mercy on me, Lord;
+                                          heal me, for I have sinned against you.”
+                                      5 My enemies say of me in malice,
+                                          “When will he die and his name perish?”
+                                      6 When one of them comes to see me,
+                                          he speaks falsely, while his heart gathers slander;
+                                          then he goes out and spreads it around.
+
+                                      7 All my enemies whisper together against me;
+                                          they imagine the worst for me, saying,
+                                      8 “A vile disease has afflicted him;
+                                          he will never get up from the place where he lies.”
+                                      9 Even my close friend,
+                                          someone I trusted,
+                                      one who shared my bread,
+                                          has turned[b] against me.
+
+                                      10 But may you have mercy on me, Lord;
+                                          raise me up, that I may repay them.
+                                      11 I know that you are pleased with me,
+                                          for my enemy does not triumph over me.
+                                      12 Because of my integrity you uphold me
+                                          and set me in your presence forever.
+
+                                      13 Praise be to the Lord, the God of Israel,
+                                          from everlasting to everlasting.
+                                      Amen and Amen.
                                       </p>
                               </div>    
 
                                 <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 42</h2>
                                       <p>
-                                       
+                                       For the director of music. A maskil of the Sons of Korah.
+                              1 As the deer pants for streams of water,
+                                  so my soul pants for you, my God.
+                              2 My soul thirsts for God, for the living God.
+                                  When can I go and meet with God?
+                              3 My tears have been my food
+                                  day and night,
+                              while people say to me all day long,
+                                  “Where is your God?”
+                              4 These things I remember
+                                  as I pour out my soul:
+                              how I used to go to the house of God
+                                  under the protection of the Mighty One[d]
+                              with shouts of joy and praise
+                                  among the festive throng.
+
+                              5 Why, my soul, are you downcast?
+                                  Why so disturbed within me?
+                              Put your hope in God,
+                                  for I will yet praise him,
+                                  my Savior and my God.
+
+                              6 My soul is downcast within me;
+                                  therefore I will remember you
+                              from the land of the Jordan,
+                                  the heights of Hermon—from Mount Mizar.
+                              7 Deep calls to deep
+                                  in the roar of your waterfalls;
+                              all your waves and breakers
+                                  have swept over me.
+
+                              8 By day the Lord directs his love,
+                                  at night his song is with me—
+                                  a prayer to the God of my life.
+
+                              9 I say to God my Rock,
+                                  “Why have you forgotten me?
+                              Why must I go about mourning,
+                                  oppressed by the enemy?”
+                              10 My bones suffer mortal agony
+                                  as my foes taunt me,
+                              saying to me all day long,
+                                  “Where is your God?”
+
+                              11 Why, my soul, are you downcast?
+                                  Why so disturbed within me?
+                              Put your hope in God,
+                                  for I will yet praise him,
+                                  my Savior and my God.
                                       </p>
                               </div>   
 
@@ -2109,14 +2192,102 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 43</h2>
                                       <p>
-                                       
+                                       1 Vindicate me, my God,
+                                          and plead my cause
+                                          against an unfaithful nation.
+                                      Rescue me from those who are
+                                          deceitful and wicked.
+                                      2 You are God my stronghold.
+                                          Why have you rejected me?
+                                      Why must I go about mourning,
+                                          oppressed by the enemy?
+                                      3 Send me your light and your faithful care,
+                                          let them lead me;
+                                      let them bring me to your holy mountain,
+                                          to the place where you dwell.
+                                      4 Then I will go to the altar of God,
+                                          to God, my joy and my delight.
+                                      I will praise you with the lyre,
+                                          O God, my God.
+
+                                      5 Why, my soul, are you downcast?
+                                          Why so disturbed within me?
+                                      Put your hope in God,
+                                          for I will yet praise him,
+                                          my Savior and my God.
                                       </p>
                               </div>   
 
                                       <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 44</h2>
                                       <p>
-                                       
+                                       For the director of music. Of the Sons of Korah. A maskil.[b]
+                                    1 We have heard it with our ears, O God;
+                                        our ancestors have told us
+                                    what you did in their days,
+                                        in days long ago.
+                                    2 With your hand you drove out the nations
+                                        and planted our ancestors;
+                                    you crushed the peoples
+                                        and made our ancestors flourish.
+                                    3 It was not by their sword that they won the land,
+                                        nor did their arm bring them victory;
+                                    it was your right hand, your arm,
+                                        and the light of your face, for you loved them.
+
+                                    4 You are my King and my God,
+                                        who decrees victories for Jacob.
+                                    5 Through you we push back our enemies;
+                                        through your name we trample our foes.
+                                    6 I put no trust in my bow,
+                                        my sword does not bring me victory;
+                                    7 but you give us victory over our enemies,
+                                        you put our adversaries to shame.
+                                    8 In God we make our boast all day long,
+                                        and we will praise your name forever.[d]
+
+                                    9 But now you have rejected and humbled us;
+                                        you no longer go out with our armies.
+                                    10 You made us retreat before the enemy,
+                                        and our adversaries have plundered us.
+                                    11 You gave us up to be devoured like sheep
+                                        and have scattered us among the nations.
+                                    12 You sold your people for a pittance,
+                                        gaining nothing from their sale.
+
+                                    13 You have made us a reproach to our neighbors,
+                                        the scorn and derision of those around us.
+                                    14 You have made us a byword among the nations;
+                                        the peoples shake their heads at us.
+                                    15 I live in disgrace all day long,
+                                        and my face is covered with shame
+                                    16 at the taunts of those who reproach and revile me,
+                                        because of the enemy, who is bent on revenge.
+
+                                    17 All this came upon us,
+                                        though we had not forgotten you;
+                                        we had not been false to your covenant.
+                                    18 Our hearts had not turned back;
+                                        our feet had not strayed from your path.
+                                    19 But you crushed us and made us a haunt for jackals;
+                                        you covered us over with deep darkness.
+
+                                    20 If we had forgotten the name of our God
+                                        or spread out our hands to a foreign god,
+                                    21 would not God have discovered it,
+                                        since he knows the secrets of the heart?
+                                    22 Yet for your sake we face death all day long;
+                                        we are considered as sheep to be slaughtered.
+
+                                    23 Awake, Lord! Why do you sleep?
+                                        Rouse yourself! Do not reject us forever.
+                                    24 Why do you hide your face
+                                        and forget our misery and oppression?
+
+                                    25 We are brought down to the dust;
+                                        our bodies cling to the ground.
+                                    26 Rise up and help us;
+                                        rescue us because of your unfailing love.
                                       </p>
                               </div>   
 
@@ -2124,14 +2295,88 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 45</h2>
                                       <p>
-                                       
+                                       For the director of music. To the tune of “Lilies.” Of the Sons of Korah. A maskil.[b] A wedding song.
+                                        1 My heart is stirred by a noble theme
+                                            as I recite my verses for the king;
+                                            my tongue is the pen of a skillful writer.
+
+                                        2 You are the most excellent of men
+                                            and your lips have been anointed with grace,
+                                            since God has blessed you forever.
+
+                                        3 Gird your sword on your side, you mighty one;
+                                            clothe yourself with splendor and majesty.
+                                        4 In your majesty ride forth victoriously
+                                            in the cause of truth, humility and justice;
+                                            let your right hand achieve awesome deeds.
+                                        5 Let your sharp arrows pierce the hearts of the king’s enemies;
+                                            let the nations fall beneath your feet.
+                                        6 Your throne, O God,[c] will last for ever and ever;
+                                            a scepter of justice will be the scepter of your kingdom.
+                                        7 You love righteousness and hate wickedness;
+                                            therefore God, your God, has set you above your companions
+                                            by anointing you with the oil of joy.
+                                        8 All your robes are fragrant with myrrh and aloes and cassia;
+                                            from palaces adorned with ivory
+                                            the music of the strings makes you glad.
+                                        9 Daughters of kings are among your honored women;
+                                            at your right hand is the royal bride in gold of Ophir.
+
+                                        10 Listen, daughter, and pay careful attention:
+                                            Forget your people and your father’s house.
+                                        11 Let the king be enthralled by your beauty;
+                                            honor him, for he is your lord.
+                                        12 The city of Tyre will come with a gift,[d]
+                                            people of wealth will seek your favor.
+                                        13 All glorious is the princess within her chamber;
+                                            her gown is interwoven with gold.
+                                        14 In embroidered garments she is led to the king;
+                                            her virgin companions follow her—
+                                            those brought to be with her.
+                                        15 Led in with joy and gladness,
+                                            they enter the palace of the king.
+
+                                        16 Your sons will take the place of your fathers;
+                                            you will make them princes throughout the land.
+
+                                        17 I will perpetuate your memory through all generations;
+                                            therefore the nations will praise you for ever and ever.
                                       </p>
                               </div>    
 
                                 <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 46</h2>
                                       <p>
-                                       
+                                       For the director of music. Of the Sons of Korah. According to alamoth.[b] A song.
+                                      1 God is our refuge and strength,
+                                          an ever-present help in trouble.
+                                      2 Therefore we will not fear, though the earth give way
+                                          and the mountains fall into the heart of the sea,
+                                      3 though its waters roar and foam
+                                          and the mountains quake with their surging.[c]
+
+                                      4 There is a river whose streams make glad the city of God,
+                                          the holy place where the Most High dwells.
+                                      5 God is within her, she will not fall;
+                                          God will help her at break of day.
+                                      6 Nations are in uproar, kingdoms fall;
+                                          he lifts his voice, the earth melts.
+
+                                      7 The Lord Almighty is with us;
+                                          the God of Jacob is our fortress.
+
+                                      8 Come and see what the Lord has done,
+                                          the desolations he has brought on the earth.
+                                      9 He makes wars cease
+                                          to the ends of the earth.
+                                      He breaks the bow and shatters the spear;
+                                          he burns the shields[d] with fire.
+                                      10 He says, “Be still, and know that I am God;
+                                          I will be exalted among the nations,
+                                          I will be exalted in the earth.”
+
+                                      11 The Lord Almighty is with us;
+                                          the God of Jacob is our fortress.
                                       </p>
                               </div>   
 
@@ -2139,14 +2384,81 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 47</h2>
                                       <p>
-                                       
+                                       For the director of music. Of the Sons of Korah. A psalm.
+                                    1 Clap your hands, all you nations;
+                                        shout to God with cries of joy.
+
+                                    2 For the Lord Most High is awesome,
+                                        the great King over all the earth.
+                                    3 He subdued nations under us,
+                                        peoples under our feet.
+                                    4 He chose our inheritance for us,
+                                        the pride of Jacob, whom he loved.[b]
+
+                                    5 God has ascended amid shouts of joy,
+                                        the Lord amid the sounding of trumpets.
+                                    6 Sing praises to God, sing praises;
+                                        sing praises to our King, sing praises.
+                                    7 For God is the King of all the earth;
+                                        sing to him a psalm of praise.
+
+                                    8 God reigns over the nations;
+                                        God is seated on his holy throne.
+                                    9 The nobles of the nations assemble
+                                        as the people of the God of Abraham,
+                                    for the kings of the earth belong to God;
+                                        he is greatly exalted.
                                       </p>
                               </div>   
 
                                       <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 48</h2>
                                       <p>
-                                       
+                                       A song. A psalm of the Sons of Korah.
+                              1 Great is the Lord, and most worthy of praise,
+                                  in the city of our God, his holy mountain.
+
+                              2 Beautiful in its loftiness,
+                                  the joy of the whole earth,
+                              like the heights of Zaphon[b] is Mount Zion,
+                                  the city of the Great King.
+                              3 God is in her citadels;
+                                  he has shown himself to be her fortress.
+
+                              4 When the kings joined forces,
+                                  when they advanced together,
+                              5 they saw her and were astounded;
+                                  they fled in terror.
+                              6 Trembling seized them there,
+                                  pain like that of a woman in labor.
+                              7 You destroyed them like ships of Tarshish
+                                  shattered by an east wind.
+
+                              8 As we have heard,
+                                  so we have seen
+                              in the city of the Lord Almighty,
+                                  in the city of our God:
+                              God makes her secure
+                                  forever.
+
+                              9 Within your temple, O God,
+                                  we meditate on your unfailing love.
+                              10 Like your name, O God,
+                                  your praise reaches to the ends of the earth;
+                                  your right hand is filled with righteousness.
+                              11 Mount Zion rejoices,
+                                  the villages of Judah are glad
+                                  because of your judgments.
+
+                              12 Walk about Zion, go around her,
+                                  count her towers,
+                              13 consider well her ramparts,
+                                  view her citadels,
+                              that you may tell of them
+                                  to the next generation.
+
+                              14 For this God is our God for ever and ever;
+                                  he will be our guide even to the end.
                                       </p>
                               </div>   
 
@@ -2154,14 +2466,123 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 49</h2>
                                       <p>
-                                       
+                                       For the director of music. Of the Sons of Korah. A psalm.
+                                    1 Hear this, all you peoples;
+                                        listen, all who live in this world,
+                                    2 both low and high,
+                                        rich and poor alike:
+                                    3 My mouth will speak words of wisdom;
+                                        the meditation of my heart will give you understanding.
+                                    4 I will turn my ear to a proverb;
+                                        with the harp I will expound my riddle:
+
+                                    5 Why should I fear when evil days come,
+                                        when wicked deceivers surround me—
+                                    6 those who trust in their wealth
+                                        and boast of their great riches?
+                                    7 No one can redeem the life of another
+                                        or give to God a ransom for them—
+                                    8 the ransom for a life is costly,
+                                        no payment is ever enough—
+                                    9 so that they should live on forever
+                                        and not see decay.
+                                    10 For all can see that the wise die,
+                                        that the foolish and the senseless also perish,
+                                        leaving their wealth to others.
+                                    11 Their tombs will remain their houses forever,
+                                        their dwellings for endless generations,
+                                        though they had named lands after themselves.
+
+                                    12 People, despite their wealth, do not endure;
+                                        they are like the beasts that perish.
+
+                                    13 This is the fate of those who trust in themselves,
+                                        and of their followers, who approve their sayings.
+                                    14 They are like sheep and are destined to die;
+                                        death will be their shepherd
+                                        (but the upright will prevail over them in the morning).
+                                    Their forms will decay in the grave,
+                                        far from their princely mansions.
+                                    15 But God will redeem me from the realm of the dead;
+                                        he will surely take me to himself.
+                                    16 Do not be overawed when others grow rich,
+                                        when the splendor of their houses increases;
+                                    17 for they will take nothing with them when they die,
+                                        their splendor will not descend with them.
+                                    18 Though while they live they count themselves blessed—
+                                        and people praise you when you prosper—
+                                    19 they will join those who have gone before them,
+                                        who will never again see the light of life.
+
+                                    20 People who have wealth but lack understanding
+                                        are like the beasts that perish.
                                       </p>
                               </div>    
 
                                 <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 50</h2>
                                       <p>
-                                       
+                                       A psalm of Asaph.
+                                    1 The Mighty One, God, the Lord,
+                                        speaks and summons the earth
+                                        from the rising of the sun to where it sets.
+                                    2 From Zion, perfect in beauty,
+                                        God shines forth.
+                                    3 Our God comes
+                                        and will not be silent;
+                                    a fire devours before him,
+                                        and around him a tempest rages.
+                                    4 He summons the heavens above,
+                                        and the earth, that he may judge his people:
+                                    5 “Gather to me this consecrated people,
+                                        who made a covenant with me by sacrifice.”
+                                    6 And the heavens proclaim his righteousness,
+                                        for he is a God of justice.
+
+                                    7 “Listen, my people, and I will speak;
+                                        I will testify against you, Israel:
+                                        I am God, your God.
+                                    8 I bring no charges against you concerning your sacrifices
+                                        or concerning your burnt offerings, which are ever before me.
+                                    9 I have no need of a bull from your stall
+                                        or of goats from your pens,
+                                    10 for every animal of the forest is mine,
+                                        and the cattle on a thousand hills.
+                                    11 I know every bird in the mountains,
+                                        and the insects in the fields are mine.
+                                    12 If I were hungry I would not tell you,
+                                        for the world is mine, and all that is in it.
+                                    13 Do I eat the flesh of bulls
+                                        or drink the blood of goats?
+
+                                    14 “Sacrifice thank offerings to God,
+                                        fulfill your vows to the Most High,
+                                    15 and call on me in the day of trouble;
+                                        I will deliver you, and you will honor me.”
+
+                                    16 But to the wicked person, God says:
+
+                                    “What right have you to recite my laws
+                                        or take my covenant on your lips?
+                                    17 You hate my instruction
+                                        and cast my words behind you.
+                                    18 When you see a thief, you join with him;
+                                        you throw in your lot with adulterers.
+                                    19 You use your mouth for evil
+                                        and harness your tongue to deceit.
+                                    20 You sit and testify against your brother
+                                        and slander your own mother’s son.
+                                    21 When you did these things and I kept silent,
+                                        you thought I was exactly like you.
+                                    But I now arraign you
+                                        and set my accusations before you.
+
+                                    22 “Consider this, you who forget God,
+                                        or I will tear you to pieces, with no one to rescue you:
+                                    23 Those who sacrifice thank offerings honor me,
+                                        and to the blameless I will show my salvation.”
+
+
                                       </p>
                               </div>   
 
