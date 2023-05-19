@@ -7784,13 +7784,13 @@ You exalted me above my foes;
                               </div>   
 </div>
           </div>
-</main>
-        <p className={styles.description}> 
-        <code className={styles.publisher}>
+ <p className={styles.publisher}> 
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
-        </code>
         </p>
 
+
+</main>
+       
      
 
       <footer className={styles.footer}>
