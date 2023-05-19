@@ -7794,15 +7794,7 @@ You exalted me above my foes;
 
 </main>
        
-     <div>
-       <Image 
-                                src="/workshop.png"
-                                alt="me in the workshop reading the bible"
-                                 height={900}
-                                width={2000}
-                                priority
-                              />
-           </div>
+    
 
       <footer className={styles.footer}>
         <a
