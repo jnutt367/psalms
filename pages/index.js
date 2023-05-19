@@ -201,52 +201,52 @@ export default function Home() {
             </p>
             </div>
 
- <div className={styles.card}>
-            <h2 className={styles.chapter}>PSALM 5 &darr;</h2>
-            <p>( A Psalm of David )
-                For the director of music. For pipes. A psalm of David.
- Listen to my words, Lord,
-    consider my lament.
- Hear my cry for help,
-    my King and my God,
-    for to you I pray.
+                                             <div className={styles.card}>
+                                                        <h2 className={styles.chapter}>PSALM 5 &darr;</h2>
+                                                        <p>( A Psalm of David )
+                                                            For the director of music. For pipes. A psalm of David.
+                                             Listen to my words, Lord,
+                                                consider my lament.
+                                             Hear my cry for help,
+                                                my King and my God,
+                                                for to you I pray.
 
- In the morning, Lord, you hear my voice;
-    in the morning I lay my requests before you
-    and wait expectantly.
- For you are not a God who is pleased with wickedness;
-    with you, evil people are not welcome.
- The arrogant cannot stand
-    in your presence.
-You hate all who do wrong;
-     you destroy those who tell lies.
-The bloodthirsty and deceitful
-    you, Lord, detest.
- But I, by your great love,
-    can come into your house;
-in reverence I bow down
-    toward your holy temple.
+                                             In the morning, Lord, you hear my voice;
+                                                in the morning I lay my requests before you
+                                                and wait expectantly.
+                                             For you are not a God who is pleased with wickedness;
+                                                with you, evil people are not welcome.
+                                             The arrogant cannot stand
+                                                in your presence.
+                                            You hate all who do wrong;
+                                                 you destroy those who tell lies.
+                                            The bloodthirsty and deceitful
+                                                you, Lord, detest.
+                                             But I, by your great love,
+                                                can come into your house;
+                                            in reverence I bow down
+                                                toward your holy temple.
 
- Lead me, Lord, in your righteousness
-    because of my enemies—
-    make your way straight before me.
- Not a word from their mouth can be trusted;
-    their heart is filled with malice.
-Their throat is an open grave;
-    with their tongues they tell lies.
- Declare them guilty, O God!
-    Let their intrigues be their downfall.
-Banish them for their many sins,
-    for they have rebelled against you.
- But let all who take refuge in you be glad;
-    let them ever sing for joy.
-Spread your protection over them,
-    that those who love your name may rejoice in you.
+                                             Lead me, Lord, in your righteousness
+                                                because of my enemies—
+                                                make your way straight before me.
+                                             Not a word from their mouth can be trusted;
+                                                their heart is filled with malice.
+                                            Their throat is an open grave;
+                                                with their tongues they tell lies.
+                                             Declare them guilty, O God!
+                                                Let their intrigues be their downfall.
+                                            Banish them for their many sins,
+                                                for they have rebelled against you.
+                                             But let all who take refuge in you be glad;
+                                                let them ever sing for joy.
+                                            Spread your protection over them,
+                                                that those who love your name may rejoice in you.
 
- Surely, Lord, you bless the righteous;
-    you surround them with your favor as with a shield.
-            </p>
-            </div>
+                                             Surely, Lord, you bless the righteous;
+                                                you surround them with your favor as with a shield.
+                                                        </p>
+                                                        </div>
 
 
 <div className={styles.card}>
@@ -2822,7 +2822,44 @@ You exalted me above my foes;
                               <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 56</h2>
                                       <p>
-                                       
+                                        For the director of music. To the tune of “A Dove on Distant Oaks.” Of David. A miktam.[b] When the Philistines had seized him in Gath.
+                                        1 Be merciful to me, my God,
+                                            for my enemies are in hot pursuit;
+                                            all day long they press their attack.
+                                        2 My adversaries pursue me all day long;
+                                            in their pride many are attacking me.
+
+                                        3 When I am afraid, I put my trust in you.
+                                        4     In God, whose word I praise—
+                                        in God I trust and am not afraid.
+                                            What can mere mortals do to me?
+
+                                        5 All day long they twist my words;
+                                            all their schemes are for my ruin.
+                                        6 They conspire, they lurk,
+                                            they watch my steps,
+                                            hoping to take my life.
+                                        7 Because of their wickedness do not[c] let them escape;
+                                            in your anger, God, bring the nations down.
+
+                                        8 Record my misery;
+                                            list my tears on your scroll[d]—
+                                            are they not in your record?
+                                        9 Then my enemies will turn back
+                                            when I call for help.
+                                            By this I will know that God is for me.
+
+                                        10 In God, whose word I praise,
+                                            in the Lord, whose word I praise—
+                                        11 in God I trust and am not afraid.
+                                            What can man do to me?
+
+                                        12 I am under vows to you, my God;
+                                            I will present my thank offerings to you.
+                                        13 For you have delivered me from death
+                                            and my feet from stumbling,
+                                        that I may walk before God
+                                            in the light of life.
                                       </p>
                               </div>   
 
@@ -2837,7 +2874,45 @@ You exalted me above my foes;
                              <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 58</h2>
                                       <p>
-                                       
+                                       For the director of music. To the tune of “Do Not Destroy.” Of David. A miktam. When he had fled from Saul into the cave.
+                                            1 Have mercy on me, my God, have mercy on me,
+                                                for in you I take refuge.
+                                            I will take refuge in the shadow of your wings
+                                                until the disaster has passed.
+
+                                            2 I cry out to God Most High,
+                                                to God, who vindicates me.
+                                            3 He sends from heaven and saves me,
+                                                rebuking those who hotly pursue me—
+                                                God sends forth his love and his faithfulness.
+
+                                            4 I am in the midst of lions;
+                                                I am forced to dwell among ravenous beasts—
+                                            men whose teeth are spears and arrows,
+                                                whose tongues are sharp swords.
+
+                                            5 Be exalted, O God, above the heavens;
+                                                let your glory be over all the earth.
+
+                                            6 They spread a net for my feet—
+                                                I was bowed down in distress.
+                                            They dug a pit in my path—
+                                                but they have fallen into it themselves.
+
+                                            7 My heart, O God, is steadfast,
+                                                my heart is steadfast;
+                                                I will sing and make music.
+                                            8 Awake, my soul!
+                                                Awake, harp and lyre!
+                                                I will awaken the dawn.
+
+                                            9 I will praise you, Lord, among the nations;
+                                                I will sing of you among the peoples.
+                                            10 For great is your love, reaching to the heavens;
+                                                your faithfulness reaches to the skies.
+
+                                            11 Be exalted, O God, above the heavens;
+                                                let your glory be over all the earth.
                                       </p>
                               </div>   
 
@@ -2845,14 +2920,99 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 59</h2>
                                       <p>
-                                       
+                                       For the director of music. To the tune of “Do Not Destroy.” Of David. A miktam.[b] When Saul had sent men to watch David’s house in order to kill him.
+                                            1 Deliver me from my enemies, O God;
+                                                be my fortress against those who are attacking me.
+                                            2 Deliver me from evildoers
+                                                and save me from those who are after my blood.
+
+                                            3 See how they lie in wait for me!
+                                                Fierce men conspire against me
+                                                for no offense or sin of mine, Lord.
+                                            4 I have done no wrong, yet they are ready to attack me.
+                                                Arise to help me; look on my plight!
+                                            5 You, Lord God Almighty,
+                                                you who are the God of Israel,
+                                            rouse yourself to punish all the nations;
+                                                show no mercy to wicked traitors.[c]
+
+                                            6 They return at evening,
+                                                snarling like dogs,
+                                                and prowl about the city.
+                                            7 See what they spew from their mouths—
+                                                the words from their lips are sharp as swords,
+                                                and they think, “Who can hear us?”
+                                            8 But you laugh at them, Lord;
+                                                you scoff at all those nations.
+
+                                            9 You are my strength, I watch for you;
+                                                you, God, are my fortress,
+                                            10     my God on whom I can rely.
+
+                                            God will go before me
+                                                and will let me gloat over those who slander me.
+                                            11 But do not kill them, Lord our shield,[d]
+                                                or my people will forget.
+                                            In your might uproot them
+                                                and bring them down.
+                                            12 For the sins of their mouths,
+                                                for the words of their lips,
+                                                let them be caught in their pride.
+                                            For the curses and lies they utter,
+                                            13     consume them in your wrath,
+                                                consume them till they are no more.
+                                            Then it will be known to the ends of the earth
+                                                that God rules over Jacob.
+
+                                            14 They return at evening,
+                                                snarling like dogs,
+                                                and prowl about the city.
+                                            15 They wander about for food
+                                                and howl if not satisfied.
+                                            16 But I will sing of your strength,
+                                                in the morning I will sing of your love;
+                                            for you are my fortress,
+                                                my refuge in times of trouble.
+
+                                            17 You are my strength, I sing praise to you;
+                                                you, God, are my fortress,
+                                                my God on whom I can rely.
                                       </p>
                               </div>   
 
                               <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 60</h2>
                                       <p>
-                                       
+                                       For the director of music. To the tune of “The Lily of the Covenant.” A miktam of David. For teaching. When he fought Aram Naharaim[c] and Aram Zobah,[d] and when Joab returned and struck down twelve thousand Edomites in the Valley of Salt.
+                                          1 You have rejected us, God, and burst upon us;
+                                              you have been angry—now restore us!
+                                          2 You have shaken the land and torn it open;
+                                              mend its fractures, for it is quaking.
+                                          3 You have shown your people desperate times;
+                                              you have given us wine that makes us stagger.
+                                          4 But for those who fear you, you have raised a banner
+                                              to be unfurled against the bow.
+
+                                          5 Save us and help us with your right hand,
+                                              that those you love may be delivered.
+                                          6 God has spoken from his sanctuary:
+                                              “In triumph I will parcel out Shechem
+                                              and measure off the Valley of Sukkoth.
+                                          7 Gilead is mine, and Manasseh is mine;
+                                              Ephraim is my helmet,
+                                              Judah is my scepter.
+                                          8 Moab is my washbasin,
+                                              on Edom I toss my sandal;
+                                              over Philistia I shout in triumph.”
+
+                                          9 Who will bring me to the fortified city?
+                                              Who will lead me to Edom?
+                                          10 Is it not you, God, you who have now rejected us
+                                              and no longer go out with our armies?
+                                          11 Give us aid against the enemy,
+                                              for human help is worthless.
+                                          12 With God we will gain the victory,
+                                              and he will trample down our enemies.
                                       </p>
                               </div>   
 
@@ -2860,7 +3020,30 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 61</h2>
                                       <p>
-                                       
+                                       For the director of music. With stringed instruments. Of David.
+                                            1 Hear my cry, O God;
+                                                listen to my prayer.
+
+                                            2 From the ends of the earth I call to you,
+                                                I call as my heart grows faint;
+                                                lead me to the rock that is higher than I.
+                                            3 For you have been my refuge,
+                                                a strong tower against the foe.
+
+                                            4 I long to dwell in your tent forever
+                                                and take refuge in the shelter of your wings.[b]
+                                            5 For you, God, have heard my vows;
+                                                you have given me the heritage of those who fear your name.
+
+                                            6 Increase the days of the king’s life,
+                                                his years for many generations.
+                                            7 May he be enthroned in God’s presence forever;
+                                                appoint your love and faithfulness to protect him.
+
+                                            8 Then I will ever sing in praise of your name
+                                                and fulfill my vows day after day.
+
+
                                       </p>
                               </div>   
 
@@ -2869,7 +3052,46 @@ You exalted me above my foes;
                                 <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 62</h2>
                                       <p>
-                                       
+                                       For the director of music. For Jeduthun. A psalm of David.
+                                              1 Truly my soul finds rest in God;
+                                                  my salvation comes from him.
+                                              2 Truly he is my rock and my salvation;
+                                                  he is my fortress, I will never be shaken.
+
+                                              3 How long will you assault me?
+                                                  Would all of you throw me down—
+                                                  this leaning wall, this tottering fence?
+                                              4 Surely they intend to topple me
+                                                  from my lofty place;
+                                                  they take delight in lies.
+                                              With their mouths they bless,
+                                                  but in their hearts they curse.
+
+                                              5 Yes, my soul, find rest in God;
+                                                  my hope comes from him.
+                                              6 Truly he is my rock and my salvation;
+                                                  he is my fortress, I will not be shaken.
+                                              7 My salvation and my honor depend on God;
+                                                  he is my mighty rock, my refuge.
+                                              8 Trust in him at all times, you people;
+                                                  pour out your hearts to him,
+                                                  for God is our refuge.
+
+                                              9 Surely the lowborn are but a breath,
+                                                  the highborn are but a lie.
+                                              If weighed on a balance, they are nothing;
+                                                  together they are only a breath.
+                                              10 Do not trust in extortion
+                                                  or put vain hope in stolen goods;
+                                              though your riches increase,
+                                                  do not set your heart on them.
+
+                                              11 One thing God has spoken,
+                                                  two things I have heard:
+                                              “Power belongs to you, God,
+                                              12     and with you, Lord, is unfailing love”;
+                                              and, “You reward everyone
+                                                  according to what they have done.”
                                       </p>
                               </div>   
 
@@ -2877,14 +3099,74 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 63</h2>
                                       <p>
-                                       
+                                       A psalm of David. When he was in the Desert of Judah.
+                                          1 You, God, are my God,
+                                              earnestly I seek you;
+                                          I thirst for you,
+                                              my whole being longs for you,
+                                          in a dry and parched land
+                                              where there is no water.
+
+                                          2 I have seen you in the sanctuary
+                                              and beheld your power and your glory.
+                                          3 Because your love is better than life,
+                                              my lips will glorify you.
+                                          4 I will praise you as long as I live,
+                                              and in your name I will lift up my hands.
+                                          5 I will be fully satisfied as with the richest of foods;
+                                              with singing lips my mouth will praise you.
+
+                                          6 On my bed I remember you;
+                                              I think of you through the watches of the night.
+                                          7 Because you are my help,
+                                              I sing in the shadow of your wings.
+                                          8 I cling to you;
+                                              your right hand upholds me.
+
+                                          9 Those who want to kill me will be destroyed;
+                                              they will go down to the depths of the earth.
+                                          10 They will be given over to the sword
+                                              and become food for jackals.
+
+                                          11 But the king will rejoice in God;
+                                              all who swear by God will glory in him,
+                                              while the mouths of liars will be silenced.
                                       </p>
                               </div>  
 
                             <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 64</h2>
                                       <p>
-                                       
+                                       For the director of music. A psalm of David.
+                                            1 Hear me, my God, as I voice my complaint;
+                                                protect my life from the threat of the enemy.
+
+                                            2 Hide me from the conspiracy of the wicked,
+                                                from the plots of evildoers.
+                                            3 They sharpen their tongues like swords
+                                                and aim cruel words like deadly arrows.
+                                            4 They shoot from ambush at the innocent;
+                                                they shoot suddenly, without fear.
+
+                                            5 They encourage each other in evil plans,
+                                                they talk about hiding their snares;
+                                                they say, “Who will see it[b]?”
+                                            6 They plot injustice and say,
+                                                “We have devised a perfect plan!”
+                                                Surely the human mind and heart are cunning.
+
+                                            7 But God will shoot them with his arrows;
+                                                they will suddenly be struck down.
+                                            8 He will turn their own tongues against them
+                                                and bring them to ruin;
+                                                all who see them will shake their heads in scorn.
+                                            9 All people will fear;
+                                                they will proclaim the works of God
+                                                and ponder what he has done.
+
+                                            10 The righteous will rejoice in the Lord
+                                                and take refuge in him;
+                                                all the upright in heart will glory in him!
                                       </p>
                               </div>   
 
@@ -2892,7 +3174,45 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 65</h2>
                                       <p>
-                                       
+                                       For the director of music. A psalm of David. A song.
+                                              1 Praise awaits you, our God, in Zion;
+                                                  to you our vows will be fulfilled.
+                                              2 You who answer prayer,
+                                                  to you all people will come.
+                                              3 When we were overwhelmed by sins,
+                                                  you forgave[c] our transgressions.
+                                              4 Blessed are those you choose
+                                                  and bring near to live in your courts!
+                                              We are filled with the good things of your house,
+                                                  of your holy temple.
+
+                                              5 You answer us with awesome and righteous deeds,
+                                                  God our Savior,
+                                              the hope of all the ends of the earth
+                                                  and of the farthest seas,
+                                              6 who formed the mountains by your power,
+                                                  having armed yourself with strength,
+                                              7 who stilled the roaring of the seas,
+                                                  the roaring of their waves,
+                                                  and the turmoil of the nations.
+                                              8 The whole earth is filled with awe at your wonders;
+                                                  where morning dawns, where evening fades,
+                                                  you call forth songs of joy.
+
+                                              9 You care for the land and water it;
+                                                  you enrich it abundantly.
+                                              The streams of God are filled with water
+                                                  to provide the people with grain,
+                                                  for so you have ordained it.[d]
+                                              10 You drench its furrows and level its ridges;
+                                                  you soften it with showers and bless its crops.
+                                              11 You crown the year with your bounty,
+                                                  and your carts overflow with abundance.
+                                              12 The grasslands of the wilderness overflow;
+                                                  the hills are clothed with gladness.
+                                              13 The meadows are covered with flocks
+                                                  and the valleys are mantled with grain;
+                                                  they shout for joy and sing.
                                       </p>
                               </div>   
 
@@ -2901,7 +3221,59 @@ You exalted me above my foes;
                                 <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 66</h2>
                                       <p>
-                                       
+                                       For the director of music. A song. A psalm.
+                                        1 Shout for joy to God, all the earth!
+                                        2     Sing the glory of his name;
+                                            make his praise glorious.
+                                        3 Say to God, “How awesome are your deeds!
+                                            So great is your power
+                                            that your enemies cringe before you.
+                                        4 All the earth bows down to you;
+                                            they sing praise to you,
+                                            they sing the praises of your name.”[a]
+
+                                        5 Come and see what God has done,
+                                            his awesome deeds for mankind!
+                                        6 He turned the sea into dry land,
+                                            they passed through the waters on foot—
+                                            come, let us rejoice in him.
+                                        7 He rules forever by his power,
+                                            his eyes watch the nations—
+                                            let not the rebellious rise up against him.
+
+                                        8 Praise our God, all peoples,
+                                            let the sound of his praise be heard;
+                                        9 he has preserved our lives
+                                            and kept our feet from slipping.
+                                        10 For you, God, tested us;
+                                            you refined us like silver.
+                                        11 You brought us into prison
+                                            and laid burdens on our backs.
+                                        12 You let people ride over our heads;
+                                            we went through fire and water,
+                                            but you brought us to a place of abundance.
+
+                                        13 I will come to your temple with burnt offerings
+                                            and fulfill my vows to you—
+                                        14 vows my lips promised and my mouth spoke
+                                            when I was in trouble.
+                                        15 I will sacrifice fat animals to you
+                                            and an offering of rams;
+                                            I will offer bulls and goats.
+
+                                        16 Come and hear, all you who fear God;
+                                            let me tell you what he has done for me.
+                                        17 I cried out to him with my mouth;
+                                            his praise was on my tongue.
+                                        18 If I had cherished sin in my heart,
+                                            the Lord would not have listened;
+                                        19 but God has surely listened
+                                            and has heard my prayer.
+                                        20 Praise be to God,
+                                            who has not rejected my prayer
+                                            or withheld his love from me!
+
+
                                       </p>
                               </div>   
 
@@ -2909,7 +3281,24 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 67</h2>
                                       <p>
-                                       
+                                       For the director of music. With stringed instruments. A psalm. A song.
+                                                1 May God be gracious to us and bless us
+                                                    and make his face shine on us—
+                                                2 so that your ways may be known on earth,
+                                                    your salvation among all nations.
+
+                                                3 May the peoples praise you, God;
+                                                    may all the peoples praise you.
+                                                4 May the nations be glad and sing for joy,
+                                                    for you rule the peoples with equity
+                                                    and guide the nations of the earth.
+                                                5 May the peoples praise you, God;
+                                                    may all the peoples praise you.
+
+                                                6 The land yields its harvest;
+                                                    God, our God, blesses us.
+                                                7 May God bless us still,
+                                                    so that all the ends of the earth will fear him.
                                       </p>
                               </div>   
 
