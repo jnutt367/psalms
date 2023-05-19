@@ -3332,7 +3332,104 @@ You exalted me above my foes;
                             <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 68</h2>
                                       <p>
-                                       
+                                       For the director of music. Of David. A psalm. A song.
+                                                  1 May God arise, may his enemies be scattered;
+                                                      may his foes flee before him.
+                                                  2 May you blow them away like smoke—
+                                                      as wax melts before the fire,
+                                                      may the wicked perish before God.
+                                                  3 But may the righteous be glad
+                                                      and rejoice before God;
+                                                      may they be happy and joyful.
+
+                                                  4 Sing to God, sing in praise of his name,
+                                                      extol him who rides on the clouds;
+                                                      rejoice before him—his name is the Lord.
+                                                  5 A father to the fatherless, a defender of widows,
+                                                      is God in his holy dwelling.
+                                                  6 God sets the lonely in families,
+                                                      he leads out the prisoners with singing;
+                                                      but the rebellious live in a sun-scorched land.
+
+                                                  7 When you, God, went out before your people,
+                                                      when you marched through the wilderness,
+                                                  8 the earth shook, the heavens poured down rain,
+                                                      before God, the One of Sinai,
+                                                      before God, the God of Israel.
+                                                  9 You gave abundant showers, O God;
+                                                      you refreshed your weary inheritance.
+                                                  10 Your people settled in it,
+                                                      and from your bounty, God, you provided for the poor.
+
+                                                  11 The Lord announces the word,
+                                                      and the women who proclaim it are a mighty throng:
+                                                  12 “Kings and armies flee in haste;
+                                                      the women at home divide the plunder.
+                                                  13 Even while you sleep among the sheep pens,
+                                                      the wings of my dove are sheathed with silver,
+                                                      its feathers with shining gold.”
+                                                  14 When the Almighty[f] scattered the kings in the land,
+                                                      it was like snow fallen on Mount Zalmon.
+
+                                                  15 Mount Bashan, majestic mountain,
+                                                      Mount Bashan, rugged mountain,
+                                                  16 why gaze in envy, you rugged mountain,
+                                                      at the mountain where God chooses to reign,
+                                                      where the Lord himself will dwell forever?
+                                                  17 The chariots of God are tens of thousands
+                                                      and thousands of thousands;
+                                                      the Lord has come from Sinai into his sanctuary.
+                                                  18 When you ascended on high,
+                                                      you took many captives;
+                                                      you received gifts from people,
+                                                  even from the rebellious—
+                                                      that you, Lord God, might dwell there.
+
+                                                  19 Praise be to the Lord, to God our Savior,
+                                                      who daily bears our burdens.
+                                                  20 Our God is a God who saves;
+                                                      from the Sovereign Lord comes escape from death.
+                                                  21 Surely God will crush the heads of his enemies,
+                                                      the hairy crowns of those who go on in their sins.
+                                                  22 The Lord says, “I will bring them from Bashan;
+                                                      I will bring them from the depths of the sea,
+                                                  23 that your feet may wade in the blood of your foes,
+                                                      while the tongues of your dogs have their share.”
+
+                                                  24 Your procession, God, has come into view,
+                                                      the procession of my God and King into the sanctuary.
+                                                  25 In front are the singers, after them the musicians;
+                                                      with them are the young women playing the timbrels.
+                                                  26 Praise God in the great congregation;
+                                                      praise the Lord in the assembly of Israel.
+                                                  27 There is the little tribe of Benjamin, leading them,
+                                                      there the great throng of Judah’s princes,
+                                                      and there the princes of Zebulun and of Naphtali.
+
+                                                  28 Summon your power, God;
+                                                      show us your strength, our God, as you have done before.
+                                                  29 Because of your temple at Jerusalem
+                                                      kings will bring you gifts.
+                                                  30 Rebuke the beast among the reeds,
+                                                      the herd of bulls among the calves of the nations.
+                                                  Humbled, may the beast bring bars of silver.
+                                                      Scatter the nations who delight in war.
+                                                  31 Envoys will come from Egypt;
+                                                      Cush[k] will submit herself to God.
+
+                                                  32 Sing to God, you kingdoms of the earth,
+                                                      sing praise to the Lord,
+                                                  33 to him who rides across the highest heavens, the ancient heavens,
+                                                      who thunders with mighty voice.
+                                                  34 Proclaim the power of God,
+                                                      whose majesty is over Israel,
+                                                      whose power is in the heavens.
+                                                  35 You, God, are awesome in your sanctuary;
+                                                      the God of Israel gives power and strength to his people.
+
+                                                  Praise be to God!
+
+
                                       </p>
                               </div>   
 
@@ -3340,7 +3437,108 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 69</h2>
                                       <p>
-                                       
+                                       For the director of music. To the tune of “Lilies.” Of David.
+                                            1 Save me, O God,
+                                                for the waters have come up to my neck.
+                                            2 I sink in the miry depths,
+                                                where there is no foothold.
+                                            I have come into the deep waters;
+                                                the floods engulf me.
+                                            3 I am worn out calling for help;
+                                                my throat is parched.
+                                            My eyes fail,
+                                                looking for my God.
+                                            4 Those who hate me without reason
+                                                outnumber the hairs of my head;
+                                            many are my enemies without cause,
+                                                those who seek to destroy me.
+                                            I am forced to restore
+                                                what I did not steal.
+
+                                            5 You, God, know my folly;
+                                                my guilt is not hidden from you.
+
+                                            6 Lord, the Lord Almighty,
+                                                may those who hope in you
+                                                not be disgraced because of me;
+                                            God of Israel,
+                                                may those who seek you
+                                                not be put to shame because of me.
+                                            7 For I endure scorn for your sake,
+                                                and shame covers my face.
+                                            8 I am a foreigner to my own family,
+                                                a stranger to my own mother’s children;
+                                            9 for zeal for your house consumes me,
+                                                and the insults of those who insult you fall on me.
+                                            10 When I weep and fast,
+                                                I must endure scorn;
+                                            11 when I put on sackcloth,
+                                                people make sport of me.
+                                            12 Those who sit at the gate mock me,
+                                                and I am the song of the drunkards.
+
+                                            13 But I pray to you, Lord,
+                                                in the time of your favor;
+                                            in your great love, O God,
+                                                answer me with your sure salvation.
+                                            14 Rescue me from the mire,
+                                                do not let me sink;
+                                            deliver me from those who hate me,
+                                                from the deep waters.
+                                            15 Do not let the floodwaters engulf me
+                                                or the depths swallow me up
+                                                or the pit close its mouth over me.
+
+                                            16 Answer me, Lord, out of the goodness of your love;
+                                                in your great mercy turn to me.
+                                            17 Do not hide your face from your servant;
+                                                answer me quickly, for I am in trouble.
+                                            18 Come near and rescue me;
+                                                deliver me because of my foes.
+
+                                            19 You know how I am scorned, disgraced and shamed;
+                                                all my enemies are before you.
+                                            20 Scorn has broken my heart
+                                                and has left me helpless;
+                                            I looked for sympathy, but there was none,
+                                                for comforters, but I found none.
+                                            21 They put gall in my food
+                                                and gave me vinegar for my thirst.
+
+                                            22 May the table set before them become a snare;
+                                                may it become retribution and[b] a trap.
+                                            23 May their eyes be darkened so they cannot see,
+                                                and their backs be bent forever.
+                                            24 Pour out your wrath on them;
+                                                let your fierce anger overtake them.
+                                            25 May their place be deserted;
+                                                let there be no one to dwell in their tents.
+                                            26 For they persecute those you wound
+                                                and talk about the pain of those you hurt.
+                                            27 Charge them with crime upon crime;
+                                                do not let them share in your salvation.
+                                            28 May they be blotted out of the book of life
+                                                and not be listed with the righteous.
+
+                                            29 But as for me, afflicted and in pain—
+                                                may your salvation, God, protect me.
+
+                                            30 I will praise God’s name in song
+                                                and glorify him with thanksgiving.
+                                            31 This will please the Lord more than an ox,
+                                                more than a bull with its horns and hooves.
+                                            32 The poor will see and be glad—
+                                                you who seek God, may your hearts live!
+                                            33 The Lord hears the needy
+                                                and does not despise his captive people.
+
+                                            34 Let heaven and earth praise him,
+                                                the seas and all that move in them,
+                                            35 for God will save Zion
+                                                and rebuild the cities of Judah.
+                                            Then people will settle there and possess it;
+                                            36     the children of his servants will inherit it,
+                                                and those who love his name will dwell there.
                                       </p>
                               </div>   
 
@@ -3349,7 +3547,25 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 70</h2>
                                       <p>
-                                       
+                                       For the director of music. Of David. A petition.
+                                                1 Hasten, O God, to save me;
+                                                    come quickly, Lord, to help me.
+
+                                                2 May those who want to take my life
+                                                    be put to shame and confusion;
+                                                may all who desire my ruin
+                                                    be turned back in disgrace.
+                                                3 May those who say to me, “Aha! Aha!”
+                                                    turn back because of their shame.
+                                                4 But may all who seek you
+                                                    rejoice and be glad in you;
+                                                may those who long for your saving help always say,
+                                                    “The Lord is great!”
+
+                                                5 But as for me, I am poor and needy;
+                                                    come quickly to me, O God.
+                                                You are my help and my deliverer;
+                                                    Lord, do not delay.
                                       </p>
                               </div>   
 
@@ -3357,7 +3573,77 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 71</h2>
                                       <p>
-                                       
+                                       In you, Lord, I have taken refuge;
+                                                      let me never be put to shame.
+                                                  2 In your righteousness, rescue me and deliver me;
+                                                      turn your ear to me and save me.
+                                                  3 Be my rock of refuge,
+                                                      to which I can always go;
+                                                  give the command to save me,
+                                                      for you are my rock and my fortress.
+                                                  4 Deliver me, my God, from the hand of the wicked,
+                                                      from the grasp of those who are evil and cruel.
+
+                                                  5 For you have been my hope, Sovereign Lord,
+                                                      my confidence since my youth.
+                                                  6 From birth I have relied on you;
+                                                      you brought me forth from my mother’s womb.
+                                                      I will ever praise you.
+                                                  7 I have become a sign to many;
+                                                      you are my strong refuge.
+                                                  8 My mouth is filled with your praise,
+                                                      declaring your splendor all day long.
+
+                                                  9 Do not cast me away when I am old;
+                                                      do not forsake me when my strength is gone.
+                                                  10 For my enemies speak against me;
+                                                      those who wait to kill me conspire together.
+                                                  11 They say, “God has forsaken him;
+                                                      pursue him and seize him,
+                                                      for no one will rescue him.”
+                                                  12 Do not be far from me, my God;
+                                                      come quickly, God, to help me.
+                                                  13 May my accusers perish in shame;
+                                                      may those who want to harm me
+                                                      be covered with scorn and disgrace.
+
+                                                  14 As for me, I will always have hope;
+                                                      I will praise you more and more.
+
+                                                  15 My mouth will tell of your righteous deeds,
+                                                      of your saving acts all day long—
+                                                      though I know not how to relate them all.
+                                                  16 I will come and proclaim your mighty acts, Sovereign Lord;
+                                                      I will proclaim your righteous deeds, yours alone.
+                                                  17 Since my youth, God, you have taught me,
+                                                      and to this day I declare your marvelous deeds.
+                                                  18 Even when I am old and gray,
+                                                      do not forsake me, my God,
+                                                  till I declare your power to the next generation,
+                                                      your mighty acts to all who are to come.
+
+                                                  19 Your righteousness, God, reaches to the heavens,
+                                                      you who have done great things.
+                                                      Who is like you, God?
+                                                  20 Though you have made me see troubles,
+                                                      many and bitter,
+                                                      you will restore my life again;
+                                                  from the depths of the earth
+                                                      you will again bring me up.
+                                                  21 You will increase my honor
+                                                      and comfort me once more.
+
+                                                  22 I will praise you with the harp
+                                                      for your faithfulness, my God;
+                                                  I will sing praise to you with the lyre,
+                                                      Holy One of Israel.
+                                                  23 My lips will shout for joy
+                                                      when I sing praise to you—
+                                                      I whom you have delivered.
+                                                  24 My tongue will tell of your righteous acts
+                                                      all day long,
+                                                  for those who wanted to harm me
+                                                      have been put to shame and confusion.
                                       </p>
                               </div>   
 
@@ -3366,7 +3652,63 @@ You exalted me above my foes;
                                 <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 72</h2>
                                       <p>
-                                       
+                                       Of Solomon.
+                                                    1 Endow the king with your justice, O God,
+                                                        the royal son with your righteousness.
+                                                    2 May he judge your people in righteousness,
+                                                        your afflicted ones with justice.
+
+                                                    3 May the mountains bring prosperity to the people,
+                                                        the hills the fruit of righteousness.
+                                                    4 May he defend the afflicted among the people
+                                                        and save the children of the needy;
+                                                        may he crush the oppressor.
+                                                    5 May he endure as long as the sun,
+                                                        as long as the moon, through all generations.
+                                                    6 May he be like rain falling on a mown field,
+                                                        like showers watering the earth.
+                                                    7 In his days may the righteous flourish
+                                                        and prosperity abound till the moon is no more.
+
+                                                    8 May he rule from sea to sea
+                                                        and from the River to the ends of the earth.
+                                                    9 May the desert tribes bow before him
+                                                        and his enemies lick the dust.
+                                                    10 May the kings of Tarshish and of distant shores
+                                                        bring tribute to him.
+                                                    May the kings of Sheba and Seba
+                                                        present him gifts.
+                                                    11 May all kings bow down to him
+                                                        and all nations serve him.
+
+                                                    12 For he will deliver the needy who cry out,
+                                                        the afflicted who have no one to help.
+                                                    13 He will take pity on the weak and the needy
+                                                        and save the needy from death.
+                                                    14 He will rescue them from oppression and violence,
+                                                        for precious is their blood in his sight.
+
+                                                    15 Long may he live!
+                                                        May gold from Sheba be given him.
+                                                    May people ever pray for him
+                                                        and bless him all day long.
+                                                    16 May grain abound throughout the land;
+                                                        on the tops of the hills may it sway.
+                                                    May the crops flourish like Lebanon
+                                                        and thrive like the grass of the field.
+                                                    17 May his name endure forever;
+                                                        may it continue as long as the sun.
+
+                                                    Then all nations will be blessed through him,
+                                                        and they will call him blessed.
+
+                                                    18 Praise be to the Lord God, the God of Israel,
+                                                        who alone does marvelous deeds.
+                                                    19 Praise be to his glorious name forever;
+                                                        may the whole earth be filled with his glory.
+                                                    Amen and Amen.
+
+                                                    20 This concludes the prayers of David son of Jesse.
                                       </p>
                               </div>   
 
@@ -3374,14 +3716,135 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 73</h2>
                                       <p>
-                                       
+                                       A psalm of Asaph.
+                                            1 Surely God is good to Israel,
+                                                to those who are pure in heart.
+
+                                            2 But as for me, my feet had almost slipped;
+                                                I had nearly lost my foothold.
+                                            3 For I envied the arrogant
+                                                when I saw the prosperity of the wicked.
+
+                                            4 They have no struggles;
+                                                their bodies are healthy and strong.
+                                            5 They are free from common human burdens;
+                                                they are not plagued by human ills.
+                                            6 Therefore pride is their necklace;
+                                                they clothe themselves with violence.
+                                            7 From their callous hearts comes iniquity;
+                                                their evil imaginations have no limits.
+                                            8 They scoff, and speak with malice;
+                                                with arrogance they threaten oppression.
+                                            9 Their mouths lay claim to heaven,
+                                                and their tongues take possession of the earth.
+                                            10 Therefore their people turn to them
+                                                and drink up waters in abundance.
+                                            11 They say, “How would God know?
+                                                Does the Most High know anything?”
+
+                                            12 This is what the wicked are like—
+                                                always free of care, they go on amassing wealth.
+
+                                            13 Surely in vain I have kept my heart pure
+                                                and have washed my hands in innocence.
+                                            14 All day long I have been afflicted,
+                                                and every morning brings new punishments.
+
+                                            15 If I had spoken out like that,
+                                                I would have betrayed your children.
+                                            16 When I tried to understand all this,
+                                                it troubled me deeply
+                                            17 till I entered the sanctuary of God;
+                                                then I understood their final destiny.
+
+                                            18 Surely you place them on slippery ground;
+                                                you cast them down to ruin.
+                                            19 How suddenly are they destroyed,
+                                                completely swept away by terrors!
+                                            20 They are like a dream when one awakes;
+                                                when you arise, Lord,
+                                                you will despise them as fantasies.
+
+                                            21 When my heart was grieved
+                                                and my spirit embittered,
+                                            22 I was senseless and ignorant;
+                                                I was a brute beast before you.
+
+                                            23 Yet I am always with you;
+                                                you hold me by my right hand.
+                                            24 You guide me with your counsel,
+                                                and afterward you will take me into glory.
+                                            25 Whom have I in heaven but you?
+                                                And earth has nothing I desire besides you.
+                                            26 My flesh and my heart may fail,
+                                                but God is the strength of my heart
+                                                and my portion forever.
+
+                                            27 Those who are far from you will perish;
+                                                you destroy all who are unfaithful to you.
+                                            28 But as for me, it is good to be near God.
+                                                I have made the Sovereign Lord my refuge;
+                                                I will tell of all your deeds.
                                       </p>
                               </div>  
 
                             <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 74</h2>
                                       <p>
-                                       
+                                       A maski of Asaph.
+                                            1 O God, why have you rejected us forever?
+                                                Why does your anger smolder against the sheep of your pasture?
+                                            2 Remember the nation you purchased long ago,
+                                                the people of your inheritance, whom you redeemed—
+                                                Mount Zion, where you dwelt.
+                                            3 Turn your steps toward these everlasting ruins,
+                                                all this destruction the enemy has brought on the sanctuary.
+
+                                            4 Your foes roared in the place where you met with us;
+                                                they set up their standards as signs.
+                                            5 They behaved like men wielding axes
+                                                to cut through a thicket of trees.
+                                            6 They smashed all the carved paneling
+                                                with their axes and hatchets.
+                                            7 They burned your sanctuary to the ground;
+                                                they defiled the dwelling place of your Name.
+                                            8 They said in their hearts, “We will crush them completely!”
+                                                They burned every place where God was worshiped in the land.
+
+                                            9 We are given no signs from God;
+                                                no prophets are left,
+                                                and none of us knows how long this will be.
+                                            10 How long will the enemy mock you, God?
+                                                Will the foe revile your name forever?
+                                            11 Why do you hold back your hand, your right hand?
+                                                Take it from the folds of your garment and destroy them!
+
+                                            12 But God is my King from long ago;
+                                                he brings salvation on the earth.
+
+                                            13 It was you who split open the sea by your power;
+                                                you broke the heads of the monster in the waters.
+                                            14 It was you who crushed the heads of Leviathan
+                                                and gave it as food to the creatures of the desert.
+                                            15 It was you who opened up springs and streams;
+                                                you dried up the ever-flowing rivers.
+                                            16 The day is yours, and yours also the night;
+                                                you established the sun and moon.
+                                            17 It was you who set all the boundaries of the earth;
+                                                you made both summer and winter.
+
+                                            18 Remember how the enemy has mocked you, Lord,
+                                                how foolish people have reviled your name.
+                                            19 Do not hand over the life of your dove to wild beasts;
+                                                do not forget the lives of your afflicted people forever.
+                                            20 Have regard for your covenant,
+                                                because haunts of violence fill the dark places of the land.
+                                            21 Do not let the oppressed retreat in disgrace;
+                                                may the poor and needy praise your name.
+                                            22 Rise up, O God, and defend your cause;
+                                                remember how fools mock you all day long.
+                                            23 Do not ignore the clamor of your adversaries,
+                                                the uproar of your enemies, which rises continually.
                                       </p>
                               </div>   
 
