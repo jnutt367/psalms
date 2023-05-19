@@ -7783,7 +7783,18 @@ You exalted me above my foes;
                                       </p>
                               </div>   
 </div>
+
+
           </div>
+<div  className={styles.image}>
+       <Image 
+                                src="/workshop.png"
+                                alt="me in the workshop reading the bible"
+                                 height={900}
+                                width={2000}
+                                priority
+                              />
+           </div>
  <p className={styles.publisher}> 
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
         </p>
