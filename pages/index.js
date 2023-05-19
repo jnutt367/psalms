@@ -2647,7 +2647,36 @@ You exalted me above my foes;
                               <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 52</h2>
                                       <p>
-                                       
+                                       For the director of music. A maskil[b] of David. When Doeg the Edomite had gone to Saul and told him: “David has gone to the house of Ahimelek.”
+                                1 Why do you boast of evil, you mighty hero?
+                                    Why do you boast all day long,
+                                    you who are a disgrace in the eyes of God?
+                                2 You who practice deceit,
+                                    your tongue plots destruction;
+                                    it is like a sharpened razor.
+                                3 You love evil rather than good,
+                                    falsehood rather than speaking the truth.[c]
+                                4 You love every harmful word,
+                                    you deceitful tongue!
+
+                                5 Surely God will bring you down to everlasting ruin:
+                                    He will snatch you up and pluck you from your tent;
+                                    he will uproot you from the land of the living.
+                                6 The righteous will see and fear;
+                                    they will laugh at you, saying,
+                                7 “Here now is the man
+                                    who did not make God his stronghold
+                                but trusted in his great wealth
+                                    and grew strong by destroying others!”
+
+                                8 But I am like an olive tree
+                                    flourishing in the house of God;
+                                I trust in God’s unfailing love
+                                    for ever and ever.
+                                9 For what you have done I will always praise you
+                                    in the presence of your faithful people.
+                                And I will hope in your name,
+                                    for your name is good.
                                       </p>
                               </div>   
 
@@ -2655,14 +2684,58 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 53</h2>
                                       <p>
-                                       
+                                       For the director of music. According to mahalath.[b] A maskil[c] of David.
+                                      1 The fool says in his heart,
+                                          “There is no God.”
+                                      They are corrupt, and their ways are vile;
+                                          there is no one who does good.
+
+                                      2 God looks down from heaven
+                                          on all mankind
+                                      to see if there are any who understand,
+                                          any who seek God.
+                                      3 Everyone has turned away, all have become corrupt;
+                                          there is no one who does good,
+                                          not even one.
+
+                                      4 Do all these evildoers know nothing?
+
+                                      They devour my people as though eating bread;
+                                          they never call on God.
+                                      5 But there they are, overwhelmed with dread,
+                                          where there was nothing to dread.
+                                      God scattered the bones of those who attacked you;
+                                          you put them to shame, for God despised them.
+
+                                      6 Oh, that salvation for Israel would come out of Zion!
+                                          When God restores his people,
+                                          let Jacob rejoice and Israel be glad!
                                       </p>
                               </div>   
 
                              <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 54</h2>
                                       <p>
-                                       
+                                       For the director of music. With stringed instruments. A maskil[b] of David. When the Ziphites had gone to Saul and said, “Is not David hiding among us?”
+                                      1 Save me, O God, by your name;
+                                          vindicate me by your might.
+                                      2 Hear my prayer, O God;
+                                          listen to the words of my mouth.
+
+                                      3 Arrogant foes are attacking me;
+                                          ruthless people are trying to kill me—
+                                          people without regard for God.[c]
+
+                                      4 Surely God is my help;
+                                          the Lord is the one who sustains me.
+
+                                      5 Let evil recoil on those who slander me;
+                                          in your faithfulness destroy them.
+
+                                      6 I will sacrifice a freewill offering to you;
+                                          I will praise your name, Lord, for it is good.
+                                      7 You have delivered me from all my troubles,
+                                          and my eyes have looked in triumph on my foes.
                                       </p>
                               </div>   
 
@@ -2670,8 +2743,80 @@ You exalted me above my foes;
                                  <div className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 55</h2>
                                       <p>
-                                       
-                                      </p>
+                                       For the director of music. With stringed instruments. A maskil[b] of David.
+                                          1 Listen to my prayer, O God,
+                                              do not ignore my plea;
+                                          2     hear me and answer me.
+                                          My thoughts trouble me and I am distraught
+                                          3     because of what my enemy is saying,
+                                              because of the threats of the wicked;
+                                          for they bring down suffering on me
+                                              and assail me in their anger.
+
+                                          4 My heart is in anguish within me;
+                                              the terrors of death have fallen on me.
+                                          5 Fear and trembling have beset me;
+                                              horror has overwhelmed me.
+                                          6 I said, “Oh, that I had the wings of a dove!
+                                              I would fly away and be at rest.
+                                          7 I would flee far away
+                                              and stay in the desert;[c]
+                                          8 I would hurry to my place of shelter,
+                                              far from the tempest and storm.”
+
+                                          9 Lord, confuse the wicked, confound their words,
+                                              for I see violence and strife in the city.
+                                          10 Day and night they prowl about on its walls;
+                                              malice and abuse are within it.
+                                          11 Destructive forces are at work in the city;
+                                              threats and lies never leave its streets.
+
+                                          12 If an enemy were insulting me,
+                                              I could endure it;
+                                          if a foe were rising against me,
+                                              I could hide.
+                                          13 But it is you, a man like myself,
+                                              my companion, my close friend,
+                                          14 with whom I once enjoyed sweet fellowship
+                                              at the house of God,
+                                          as we walked about
+                                              among the worshipers.
+
+                                          15 Let death take my enemies by surprise;
+                                              let them go down alive to the realm of the dead,
+                                              for evil finds lodging among them.
+
+                                          16 As for me, I call to God,
+                                              and the Lord saves me.
+                                          17 Evening, morning and noon
+                                              I cry out in distress,
+                                              and he hears my voice.
+                                          18 He rescues me unharmed
+                                              from the battle waged against me,
+                                              even though many oppose me.
+                                          19 God, who is enthroned from of old,
+                                              who does not change—
+                                          he will hear them and humble them,
+                                              because they have no fear of God.
+
+                                          20 My companion attacks his friends;
+                                              he violates his covenant.
+                                          21 His talk is smooth as butter,
+                                              yet war is in his heart;
+                                          his words are more soothing than oil,
+                                              yet they are drawn swords.
+
+                                          22 Cast your cares on the Lord
+                                              and he will sustain you;
+                                          he will never let
+                                              the righteous be shaken.
+                                          23 But you, God, will bring down the wicked
+                                              into the pit of decay;
+                                          the bloodthirsty and deceitful
+                                              will not live out half their days.
+
+                                          But as for me, I trust in you.                                     
+                                            </p>
                               </div>   
 
                               <div className={styles.card}>
