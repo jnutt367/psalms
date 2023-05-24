@@ -446,7 +446,7 @@
         padding-left: 120px; 
     }
 }
-@media (min-width: 1080px) {
+@media (min-width: 769px) {
          .image {
         padding-left: 200px;
         padding-right: 200px;
