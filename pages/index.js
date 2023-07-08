@@ -42,7 +42,7 @@ export default function Home() {
               <div className={styles.nav}>               
        <a href="https://the-word-of-god.vercel.app/">
          <Image className={styles.arrow}
-                                src="/previous.png"
+                                src="/previous.webp"
                                 alt="Left arrow"
                                 height={75}
                                 width={90}
@@ -52,7 +52,7 @@ export default function Home() {
 
          <a href="https://gofund.me/a2b590af">
               <Image className={styles.arrow}
-                                src="/upward_pointing.png"
+                                src="/upward_pointing.webp"
                                 alt="funding-icon"
                                 height={75}
                                 width={90}
@@ -62,7 +62,7 @@ export default function Home() {
            
         <a href="https://jesusparables.vercel.app/">
            <Image className={styles.arrow}
-                                src="/next.png"
+                                src="/next.webp"
                                 alt="right arrow"
                                  height={75}
                                 width={90}
