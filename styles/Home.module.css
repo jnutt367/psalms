@@ -46,7 +46,11 @@
   justify-items: center;
   tex-align: left;
 }
-
+.red:active,
+.red:focus,
+.red:hover {
+    color: ;
+}
 /*
 .main {
     background-color: black;
@@ -61,6 +65,9 @@
 }
 */
 .main {
+  display: grid;
+  align-items: center;
+  justify-content: center;  
   background-color:  black;
   min-height: 100vh;  
   padding: 4rem 0;
@@ -207,7 +214,7 @@
   color: white;
   position: sticky; 
   background-color: black;
-  opacity: 0.95;
+  opacity: 0.5;
   padding-top: 40px;
   z-index: 2;
   top: -30px;
@@ -257,18 +264,14 @@
     cursor:pointer;
 }
 
-.span {
-    font-size: xx-large;
-    color: orange;
-    text-shadow: 1px 1px black;
-}
+
 
 .span:hover {
-    color: white;
+    color: #880808;
 }
 
 .nav {
-    background-color: #ED7014;
+    background-color: #ADD8E6;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -290,8 +293,8 @@
 }
 
 .grid {
-    background-color: black;
-    color: white;
+    background-color: #ADD8E6;
+    color: black;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -322,13 +325,13 @@
 }
 
 .card {
-    background-image: url(/19-wordle-psalms.jpeg);
+    background-image: url(/proverbs_cards.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
     background-position-y: center;
     background-origin: content-box;
-    background-size: contain;
+    background-size: cover;
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
@@ -341,11 +344,13 @@
     max-height: 400px;
     max-width: 400px;
     background-color: black;
-    overflow: scroll;
+    border-radius: 15px 50px 30px;
+    overflow: hidden;
     text-decoration: none;
     border: 3px solid #eaeaea;
-    transition: color 0.15s ease, border-color 2s ease;
+    transition: color 0.15s ease, border-color 0.7s ease;
     font-family: monospace;
+    box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
     background-color: black;
@@ -355,7 +360,6 @@
     position: sticky;
     z-index: 1;
     width: 100%;
-    font-weight: 200;
     text-align: center;
     top: 0px;
     margin: 0;
@@ -370,8 +374,8 @@
     display: inline;
     color: black;
     opacity: 1;
-    border: 6px solid #ffa500;
-    background-image: url(/paper.jpg);
+    border: 6px solid white;
+    background-image: url(/paper.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
@@ -401,7 +405,11 @@
 .card p:hover {
     font-weight: 900;
 }
-
+.chapter:hover,
+.chapter:active,
+.chapter:focus {
+       color: white;
+}
 .logo {
     height: 1em;
     margin-left: 0.5rem;
@@ -446,7 +454,7 @@
         padding-left: 120px; 
     }
 }
-@media (min-width: 769px) {
+@media (min-width: 1080px) {
          .image {
         padding-left: 200px;
         padding-right: 200px;
