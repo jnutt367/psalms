@@ -26,7 +26,7 @@ export default function Home() {
         
         <div  className={styles.image}>
        <Image
-                                src="/19-wordle-psalms.jpeg"
+                                src="/psalms.png"
                                 alt="psalm 119 gif"
                                 height={900}
                                 width={2000}
@@ -42,30 +42,30 @@ export default function Home() {
               <div className={styles.nav}>               
        <a href="https://the-word-of-god.vercel.app/">
          <Image className={styles.arrow}
-                                src="/chevron-left.svg"
+                                src="/previous.png"
                                 alt="Left arrow"
                                 height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
 
          <a href="https://gofund.me/a2b590af">
               <Image className={styles.arrow}
-                                src="/funding.png"
+                                src="/upward_pointing.png"
                                 alt="funding-icon"
                                 height={75}
-                                width={75}
+                                width={90}
                                 priority
                               /> 
        </a>
            
-        <a href="https://the-word-of-god.vercel.app/">
+        <a href="https://jesusparables.vercel.app/">
            <Image className={styles.arrow}
-                                src="/chevron-right.svg"
+                                src="/next.png"
                                 alt="right arrow"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>           
