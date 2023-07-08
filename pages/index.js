@@ -34,12 +34,7 @@ export default function Home() {
                               />
         </div>                      
        <p className={styles.parables}>Poems or songs of thankfulness, praise, worship and repentance, each one is complete by itself.They show a variety of feeling, emotions, attitudes & interests</p>
-<div className={styles.iframe}> 
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/dpny22k_7uk" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>                   
-
-
-              <div className={styles.nav}>               
+  <div className={styles.nav}>               
        <a href="https://the-word-of-god.vercel.app/">
          <Image className={styles.arrow}
                                 src="/previous.webp"
@@ -50,7 +45,7 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://gofund.me/a2b590af">
+         <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
               <Image className={styles.arrow}
                                 src="/upward_pointing.webp"
                                 alt="funding-icon"
@@ -70,6 +65,13 @@ export default function Home() {
                               />
        </a>           
         </div>
+                                  
+                                  <div className={styles.iframe}> 
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/dpny22k_7uk" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>                   
+
+
+            
    
 
 
