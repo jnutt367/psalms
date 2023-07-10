@@ -33,7 +33,7 @@ export default function Home() {
                                 priority
                               />
         </div>                      
-       <p className={styles.parables}>Poetic songs of thankfulness, praise, worship & repentance. Psalms point towards the hope for the coming Messiah & the kingdom of God.</p>
+       <p className={styles.parables}>Poetic songs of thankfulness, praise, worship & repentance pointing towards hope of the coming Messiah & kingdom of God.</p>
   <div className={styles.nav}>               
        <a href="https://the-word-of-god.vercel.app/">
          <Image className={styles.arrow}
