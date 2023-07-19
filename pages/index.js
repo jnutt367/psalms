@@ -1301,7 +1301,7 @@ You exalted me above my foes;
                                           </p>
                               </div>      
                     
-                                    <div id="28" className={styles.card}>
+                                    <div id="twentyeight" className={styles.card}>
                               <h2 className={styles.chapter}>PSALM 28</h2>
                                       <p>
                                        Of David.
