@@ -301,8 +301,8 @@
 }
 
 .grid {
-    background-color: #AA336A;
-    color: black;
+    background-color: #36454f;
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
