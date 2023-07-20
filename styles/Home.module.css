@@ -280,10 +280,14 @@
     justify-content: space-around;
     position: sticky;
 }
-.nav a:hover {
-    scale: 1.1;
-    background-color: black;
+.nav a {
     opacity: 0.9;
+}
+
+.nav a:hover {
+    scale: 1.005;
+    background-color: black;
+    opacity: 1;
     border: 2px dotted whitesmoke;
     border-radius: 50%;
 }
