@@ -25,7 +25,7 @@ export default function Home() {
         </h1>
         
         <div  className={styles.iframe}>
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/GK4eM8DIrFs?si=0X5lEdvIlbDtjVnH?autoplay&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/GK4eM8DIrFs?si=0X5lEdvIlbDtjVnH?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>                      
        <p className={styles.parables}>Poetic songs of thankfulness, praise, worship & repentance pointing towards hope of the coming Messiah & kingdom of God.</p>
   <div className={styles.nav}>               
