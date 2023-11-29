@@ -24,43 +24,40 @@ export default function Home() {
          PSALMS
         </h1>
         
-        <div  className={styles.image}>
-       <Image
-                                src="/psalms.png"
-                                alt="psalm 119 gif"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+        <div  className={styles.iframe}>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/GK4eM8DIrFs?si=0X5lEdvIlbDtjVnH?autoplay&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>                      
        <p className={styles.parables}>Poetic songs of thankfulness, praise, worship & repentance pointing towards hope of the coming Messiah & kingdom of God.</p>
   <div className={styles.nav}>               
        <a href="https://the-word-of-god.vercel.app/">
+    <p>Prev</p>
          <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
          <a href="https://cash.app/$JNutt367">
+ <p>Give</p>                                  
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="home"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
            
         <a href="https://jesusparables.vercel.app/">
+ <p>Next</p>                                  
            <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>           
